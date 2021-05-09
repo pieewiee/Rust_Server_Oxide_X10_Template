@@ -1,0 +1,11 @@
+{
+  "SortButtonText": "Sort",
+  "NotAllowed": "You do not have permission to use this command",
+  "Enabled": "<color=#228B22>Enabled</color>",
+  "Disabled": "<color=#B22222>Disabled</color>",
+  "SortButton": "Sort Button is now {0}",
+  "SortType": "Sort Type is now {0}",
+  "C": "<color=#D2691E>Category</color>",
+  "N": "<color=#00BFFF>Name</color>",
+  "Help": "List Commands:\n<color=#FFFF00>/{0}</color> - Enable/Disable Sort Button.\n<color=#FFFF00>/{0} <sort | type></color> - change sort type."
+}

@@ -1,0 +1,67 @@
+{
+  "_players": {
+    "76561198444106174": {
+      "_usageData": {
+        "Base": {
+          "TotalUses": 1,
+          "NextUseTime": 1620565811.9461539
+        },
+        "Base - TynSilo": {
+          "TotalUses": 1,
+          "NextUseTime": 1620568927.866811
+        },
+        "Base - TynTower": {
+          "TotalUses": 1,
+          "NextUseTime": 1620569505.1876359
+        },
+        "Base - TheTrap": {
+          "TotalUses": 1,
+          "NextUseTime": 1620569740.5827959
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198846041384": {
+      "_usageData": {
+        "starter": {
+          "TotalUses": 2,
+          "NextUseTime": 1620567546.60094
+        },
+        "Builder": {
+          "TotalUses": 1,
+          "NextUseTime": 1620653819.1224768
+        },
+        "Base": {
+          "TotalUses": 1,
+          "NextUseTime": 1620568034.3122039
+        },
+        "Hunter": {
+          "TotalUses": 1,
+          "NextUseTime": 1620568999.6535249
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198083859045": {
+      "_usageData": {
+        "starter": {
+          "TotalUses": 2,
+          "NextUseTime": 1620569433.138737
+        },
+        "Base - admindock": {
+          "TotalUses": 1,
+          "NextUseTime": 1620573375.2912118
+        },
+        "Hunter": {
+          "TotalUses": 1,
+          "NextUseTime": 1620573628.8551559
+        },
+        "Builder": {
+          "TotalUses": 1,
+          "NextUseTime": 1620659540.502876
+        }
+      },
+      "ClaimAutoKits": true
+    }
+  }
+}

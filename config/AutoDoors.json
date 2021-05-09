@@ -1,0 +1,92 @@
+{
+  "Use permissions": false,
+  "Clear data on map wipe": false,
+  "Global settings": {
+    "Allows automatic closing of unowned doors": false,
+    "Exclude door controller": true,
+    "Cancel on player dead": false,
+    "Default enabled": true,
+    "Default delay": 5.0,
+    "Maximum delay": 10.0,
+    "Minimum delay": 5.0
+  },
+  "Chat settings": {
+    "Chat command": [
+      "ad",
+      "autodoor"
+    ],
+    "Chat prefix": "<color=#00FFFF>[AutoDoors]</color>: ",
+    "Chat steamID icon": 0
+  },
+  "Door Settings": {
+    "door.double.hinged.metal": {
+      "enabled": true,
+      "displayName": "Sheet Metal Double Door"
+    },
+    "door.double.hinged.toptier": {
+      "enabled": true,
+      "displayName": "Armored Double Door"
+    },
+    "door.double.hinged.wood": {
+      "enabled": true,
+      "displayName": "Wood Double Door"
+    },
+    "door.hinged.metal": {
+      "enabled": true,
+      "displayName": "Sheet Metal Door"
+    },
+    "door.hinged.toptier": {
+      "enabled": true,
+      "displayName": "Armored Door"
+    },
+    "door.hinged.wood": {
+      "enabled": true,
+      "displayName": "Wooden Door"
+    },
+    "floor.ladder.hatch": {
+      "enabled": true,
+      "displayName": "Ladder Hatch"
+    },
+    "floor.triangle.ladder.hatch": {
+      "enabled": true,
+      "displayName": "Triangle Ladder Hatch"
+    },
+    "gates.external.high.stone": {
+      "enabled": true,
+      "displayName": "High External Stone Gate"
+    },
+    "gates.external.high.wood": {
+      "enabled": true,
+      "displayName": "High External Wooden Gate"
+    },
+    "wall.frame.cell.gate": {
+      "enabled": true,
+      "displayName": "Prison Cell Gate"
+    },
+    "wall.frame.fence.gate": {
+      "enabled": true,
+      "displayName": "Chainlink Fence Gate"
+    },
+    "wall.frame.garagedoor": {
+      "enabled": true,
+      "displayName": "Garage Door"
+    },
+    "wall.frame.shopfront": {
+      "enabled": true,
+      "displayName": "Shop Front"
+    },
+    "shutter.wood.a": {
+      "enabled": true,
+      "displayName": "Wood Shutters"
+    },
+    "door.hinged.industrial.a": {
+      "enabled": true,
+      "displayName": "Industrial Door"
+    }
+  },
+  "Version": {
+    "Major": 3,
+    "Minor": 2,
+    "Patch": 8
+  }
+}

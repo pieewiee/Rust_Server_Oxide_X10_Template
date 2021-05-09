@@ -1,0 +1,219 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "welcome",
+        "HeaderText": "Welcome to 10x fRUSTrating",
+        "Pages": [
+          {
+            "TextLines": [
+              "Welcome to",
+              "Please be nice and enjoy your stay!",
+              "Visit our Discord Server: <color=red>D5tamuccgF</color>",
+              "Visit our Website: <color=red>https://rust.netgetvpn.de</color>",
+              "",
+              "This Server is using plugins - here are some useful chatcommands:",
+              "",
+              "Info: <color=magenta> /info </color> to display this mesage again",
+              "Voteday: <color=black> /voteday </color> to skip night - Note this command is only available at sunset",
+              "Skin: <color=#B8860B> /skin </color> to use all custom skins for your items",
+              "Kit: <color=silver> /kit </color> to see available kits",
+              "Autodoors: <color=red> /ad </color> to toggle Autodoors on/off",
+              "BGrade - Timer: <color=green> /bgrade t seconds</color> Changes the disable timer",
+              "BGrade - Upgrade Level: <color=blue> /bgrade 0-4</color> 0 = Wood <--> 4 = Armored Upgrades",
+              "Furnace Splitter: <color=yellow> /fs </color> Status and Help of Furnace Splitter"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 1.0,
+                  "MinY": 0.0,
+                  "MaxY": 1.0
+                },
+                "Url": "https://rust.netgetvpn.de/images/rust_logo.png",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Helis",
+        "HeaderText": "Helis",
+        "Pages": [
+          {
+            "TextLines": [
+              "You can call a personal helicopter",
+              "damage only by the player/team who called it.",
+              "Helicopter doesn't target anybody else.",
+              "Helicopter loot belongs to owner.",
+              "When other players attack or loot --> chat message.",
+              "Spawn - personal patrolheli: <color=red> /callheli</color>",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "control Minicopters  using the following commads:",
+              "Spawn - minicopter: <color=green> /mymini</color>",
+              "Despawn - minicopter: <color=green> /nomini</color>",
+              "Fetch - minicopter: <color=green> /fmini</color>"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "https://rust.netgetvpn.de/images/patrolHeli.png",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "https://rust.netgetvpn.de/images/494EDB03-BAEA-42BB-8FAE-748F0D2B50A9.png",
+                "TransparencyInPercent": 100
+              }
+            ]
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Cars",
+        "HeaderText": "Cars",
+        "Pages": [
+          {
+            "TextLines": [
+              "Spawn and save your Cars",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "<color=red> /spawncar opt:save </color> - Spawns a car infront of the user",
+              "                         optional argument <save> to save the car through restarts",
+              "<color=red> /clearcars </color> - Removes all saved cars"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Pets",
+        "HeaderText": "Pets",
+        "Pages": [
+          {
+            "TextLines": [
+              "Pets:",
+              "You can tame an animal quite simply. Type <color=red>/pet </color> to activate your pet controller.",
+              "stand next to any animal and <color=red>press the USE key (default).</color>",
+              "Animals: chicken, horse, stag, boar, wolf, bear",
+              "Pet: <color=magenta> /pet help </color> to get started"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "VIP",
+        "HeaderText": "VIP",
+        "Pages": [
+          {
+            "TextLines": [
+              "Vip:",
+              "Use<color=red>/auth</color> to get auth code",
+              "To Get VIP simply join the discord and write Rust BOT the auth code.",
+              "VIP is <color=green>free</color>",
+              "",
+              "I like new ideas, plugins, configurations :-)",
+              "Discord Server: <color=red>D5tamuccgF</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://7-themes.com/data_images/out/35/6889756-black-backgrounds.jpg",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#128128128255",
+    "CloseButtonColor": "#128128128255",
+    "NextPageButtonColor": "#128128128255",
+    "PrevPageButtonColor": "#128128128255",
+    "BackgroundColor": "#000000a0",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#190190190255",
+      "FontSize": 18
+    },
+    "UpgradedConfig": false
+  }
+}

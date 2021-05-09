@@ -1,0 +1,57 @@
+{
+  "Generic": {
+    "blueprintProbability": 0.11,
+    "listUpdatesOnLoaded": true,
+    "removeStackedContainers": true,
+    "WatchedPrefabs": [
+      "assets/bundled/prefabs/radtown/crate_basic.prefab",
+      "assets/bundled/prefabs/radtown/crate_elite.prefab",
+      "assets/bundled/prefabs/radtown/crate_mine.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2_food.prefab",
+      "assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab",
+      "assets/bundled/prefabs/radtown/crate_tools.prefab",
+      "assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab",
+      "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm ammo.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm c4.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm construction resources.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm construction tools.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm food.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm medical.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm res.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm tier1 lootbox.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm tier2 lootbox.prefab",
+      "assets/bundled/prefabs/radtown/dmloot/dm tier3 lootbox.prefab",
+      "assets/bundled/prefabs/radtown/vehicle_parts.prefab",
+      "assets/bundled/prefabs/radtown/foodbox.prefab",
+      "assets/bundled/prefabs/radtown/loot_barrel_1.prefab",
+      "assets/bundled/prefabs/radtown/loot_barrel_2.prefab",
+      "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab",
+      "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab",
+      "assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab",
+      "assets/bundled/prefabs/radtown/loot_trash.prefab",
+      "assets/bundled/prefabs/radtown/minecart.prefab",
+      "assets/bundled/prefabs/radtown/oil_barrel.prefab",
+      "assets/prefabs/npc/m2bradley/bradley_crate.prefab",
+      "assets/prefabs/npc/patrol helicopter/heli_crate.prefab",
+      "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+      "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab",
+      "assets/prefabs/misc/supply drop/supply_drop.prefab"
+    ]
+  },
+  "Loot": {
+    "enableHammerLootCycle": false,
+    "hammerLootCycleTime": 3,
+    "lootMultiplier": 1,
+    "scrapMultiplier": 1
+  },
+  "Rarity": {
+    "Override": {
+      "autoturret": 4,
+      "lmg.m249": 4,
+      "targeting.computer": 3
+    }
+  }
+}

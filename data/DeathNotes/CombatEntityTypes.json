@@ -1,0 +1,16 @@
+{
+  "GunTrap": 6,
+  "FlameTurret": 7,
+  "AutoTurret": 7,
+  "BaseHelicopter": 0,
+  "BradleyAPC": 1,
+  "BasePlayer": 5,
+  "NPCMurderer": 3,
+  "CodeLock": 12,
+  "Scientist": 4,
+  "ScientistNPC": 4,
+  "HTNPlayer": 4,
+  "NPCAutoTurret": 13,
+  "FireBall": 11,
+  "scarecrow": 16
+}

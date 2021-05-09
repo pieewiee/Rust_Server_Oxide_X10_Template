@@ -1,0 +1,6 @@
+{
+  "NoPerms": "You don't have permissions to use this command",
+  "NoPlayersFound": "No players were found by the identifier of {0}",
+  "NoPlayersFoundRayCast": "No players were found",
+  "ViewingPLayer": "Viewing <color=orange>{0}'s</color> inventory"
+}

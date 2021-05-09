@@ -1,0 +1,14 @@
+{
+  "Message - Welcome - Enabled": true,
+  "Message - Join - Enabled": true,
+  "Message - Leave - Enabled": true,
+  "Chat Icon (SteamID64)": 0,
+  "Display Players Steam Avatar - Enabled": true,
+  "Print To Console - Enabled": true,
+  "Custom Welcome Messages": [
+    {
+      "Steam ID": 123,
+      "Message": "Welcome\r\nThere're currently {0} players online"
+    }
+  ]
+}

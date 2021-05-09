@@ -1,0 +1,12 @@
+{
+  "Blacklist": [
+    "shortname",
+    "shortname",
+    "shortname"
+  ],
+  "Default blueprints": [
+    "shortname",
+    "shortname",
+    "shortname"
+  ]
+}

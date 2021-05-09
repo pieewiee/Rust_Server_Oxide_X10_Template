@@ -1,0 +1,100 @@
+{
+  "Global settings": {
+    "Use permissions": true,
+    "Allows admins to use Sort Button without permission": true,
+    "Default enabled": true,
+    "Default sort type (C/N)": "C"
+  },
+  "Containers Settings": {
+    "Containers configuration": {
+      "backpack": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 546",
+        "OrderButtonOffsetsMax": "494 567",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 546",
+        "SortButtonOffsetsMax": "573 567"
+      },
+      "box.wooden.large": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 422",
+        "OrderButtonOffsetsMax": "494 443",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 422",
+        "SortButtonOffsetsMax": "573 443"
+      },
+      "coffinstorage": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 546",
+        "OrderButtonOffsetsMax": "494 567",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 546",
+        "SortButtonOffsetsMax": "573 567"
+      },
+      "cupboard.tool.deployed": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 560",
+        "OrderButtonOffsetsMax": "494 581",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 560",
+        "SortButtonOffsetsMax": "573 581"
+      },
+      "dropbox.deployed": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 236",
+        "OrderButtonOffsetsMax": "494 257",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 236",
+        "SortButtonOffsetsMax": "573 257"
+      },
+      "fridge.deployed": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 422",
+        "OrderButtonOffsetsMax": "494 443",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 422",
+        "SortButtonOffsetsMax": "573 443"
+      },
+      "small_stash_deployed": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 174",
+        "OrderButtonOffsetsMax": "494 195",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 174",
+        "SortButtonOffsetsMax": "573 195"
+      },
+      "woodbox_deployed": {
+        "OrderButtonAnchorsMin": "0.5 0.0",
+        "OrderButtonAnchorsMax": "0.5 0.0",
+        "OrderButtonOffsetsMin": "478 236",
+        "OrderButtonOffsetsMax": "494 257",
+        "SortButtonAnchorsMin": "0.5 0.0",
+        "SortButtonAnchorsMax": "0.5 0.0",
+        "SortButtonOffsetsMin": "494 236",
+        "SortButtonOffsetsMax": "573 257"
+      }
+    }
+  },
+  "Chat settings": {
+    "Chat command": [
+      "sb",
+      "sortbutton"
+    ],
+    "Chat prefix": "<color=#00FFFF>[Sort Button]</color>: ",
+    "Chat steamID icon": 0
+  }
+}

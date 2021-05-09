@@ -1,0 +1,13 @@
+{
+  "Website": "Visit our Website: https://rust.netgetvpn.de",
+  "Discord": "Visit our Discord Server: D5tamuccgF",
+  "ServerInfo": "Info: <color=magenta> /info </color> to display the ServerInfo",
+  "Skin": "Skin: <color=#B8860B> /skin </color> to use all custom skins for your items",
+  "Kit": "Kit: <color=silver> /kit </color> to see available kits",
+  "Autodoors": "Autodoors: <color=red> /ad </color> to toggle Autodoors on/off",
+  "BGrade Timer": "BGrade - Timer: <color=green> /bgrade t seconds</color> Changes the disable timer",
+  "BGrade Upgrade": "BGrade - Upgrade Level: <color=blue> /bgrade 0-4</color> 0 = Wood <--> 4 = Armored Upgrades",
+  "Furnace Splitter": "Furnace Splitter: <color=yellow> /fs </color> Status and Help of Furnace Splitter",
+  "Spawn - Minicopter": "Spawn - minicopter: <color=yellow> /mymini </color>",
+  "Tame pets": "Tame - pets: <color=yellow> /pet help </color>"
+}

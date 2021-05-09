@@ -1,0 +1,11 @@
+{
+  "Command: List: Not Found": "There are no registered placeholders.",
+  "Command: List: Format": "Placeholders ({found}/{total}):\n{list}",
+  "Command: List: Entry Format": "{name} ({owner}, {cache}) - {description}",
+  "Command: List: Entry Separator": "\n",
+  "Command: List: No Description": "No description",
+  "Command: List: No Cache": "No cache",
+  "Command: Test: Syntax": "Usage: (Text) [player Player] [ignoreCache Ignore Cache]",
+  "Command: Test: Player Not Found": "Player specified was not found.",
+  "No Permission": "You do not have enough permissions."
+}

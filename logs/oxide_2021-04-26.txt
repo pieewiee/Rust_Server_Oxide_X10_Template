@@ -1,0 +1,102 @@
+22:34 [Info] Loading Oxide Core v2.0.3991...
+22:34 [Info] Loading extensions...
+22:34 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+22:34 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+22:34 [Info] Loaded extension Rust v2.0.4973 by Oxide Team and Contributors
+22:34 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+22:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+22:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:34 [Info] Local compiler MD5: 0
+22:34 [Info] Compiler MD5 hash did not match, downloading latest
+22:34 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+22:34 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+22:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+22:34 [Info] Using Covalence provider for game 'Rust'
+22:34 [Info] Loading plugins...
+22:34 [Info] Loaded plugin Rust v2.0.4973 by Oxide Team and Contributors
+22:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+22:39 [Info] IP address from external API: 116.202.27.52
+23:49 [Error] Oxide.Ext.Discord is referenced by DiscordChat plugin but is not loaded! An appropriate include file needs to be saved to plugins\include\Ext.Discord.cs if this extension is not required.
+23:49 [Warning] Ignored unexpected plugin compilation failure: DiscordChat
+23:49 [Error] Oxide.Ext.Discord is referenced by DiscordCore plugin but is not loaded! An appropriate include file needs to be saved to plugins\include\Ext.Discord.cs if this extension is not required.
+23:49 [Info] AdminPanel was compiled successfully in 3395ms
+23:49 [Info] AdminRadar was compiled successfully in 3352ms
+23:49 [Warning] [DEBUG] Load requested for plugin which is already loading: InfoPanel
+23:49 [Info] Loaded plugin Admin Panel v1.4.5 by nivex
+23:49 [Info] AutoBroadcast was compiled successfully in 3459ms
+23:49 [Warning] [Admin Radar] Creating a new configuration file
+23:49 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+23:49 [Warning] Covalence command alias already exists: radar
+23:49 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+23:49 [Info] Loaded plugin Admin Radar v5.1.2 by nivex
+23:49 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+23:49 [Info] AutoDoors was compiled successfully in 3598ms
+23:49 [Warning] [Auto Doors] Creating a new configuration file
+23:49 [Info] Loaded plugin Auto Doors v3.2.8 by Wulf/lukespragg/Arainrr
+23:49 [Info] AutoStashTraps was compiled successfully in 3567ms
+23:49 [Warning] [DEBUG] Load requested for plugin which is already loading: Kits
+23:49 [Warning] [Auto Stash Traps] Generating new configuration file...
+23:49 [Warning] [Auto Stash Traps] Config Loaded
+23:49 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+23:49 [Info] BetterLoot was compiled successfully in 3757ms
+23:49 [Info] BGrade was compiled successfully in 3856ms
+23:49 [Info] [BetterLoot] No Blacklist found, creating new file...
+23:49 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+23:49 [Info] [BetterLoot] Exported 686 items to 'NamesList'
+23:49 [Info] [BetterLoot] Updating internals ...
+23:49 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+23:49 [Warning] [BGrade] Generating default configuration file...
+23:49 [Warning] [BGrade] Updated configuration file with new/changed values.
+23:49 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+23:49 [Info] [BetterLoot] Removed 10 stacked LootContainer
+23:49 [Info] [BetterLoot] Populated '5342' supported containers.
+23:49 [Info] BlueprintManager was compiled successfully in 3676ms
+23:49 [Info] CopyPaste was compiled successfully in 3423ms
+23:49 [Info] EasyAirdrop was compiled successfully in 2688ms
+23:49 [Info] FurnaceSplitter was compiled successfully in 2381ms
+23:49 [Info] GatherManager was compiled successfully in 2162ms
+23:49 [Info] Loaded plugin Blueprint Manager v1.1.6 by Orange
+23:49 [Info] [Easy Airdrop] Generating new config file...
+23:49 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+23:49 [Info] InfoPanel was compiled successfully in 3116ms
+23:49 [Warning] [Gathering Manager] New configuration file created.
+23:49 [Warning] [Gathering Manager] Configuration file updated.
+23:49 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 164ms [GARBAGE COLLECT]
+23:49 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+23:49 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+23:49 [Info] Loaded plugin Furnace Splitter v2.3.1 by FastBurst
+23:49 [Info] InstantCraft was compiled successfully in 2653ms
+23:49 [Error] Error while compiling: Kits.cs(1338,244): error CS1525: Unexpected symbol `end-of-file'
+23:49 [Info] Loaded plugin Copy Paste v4.1.27 by misticos
+23:49 [Warning] [InfoPanel] Default configuration file created.
+23:49 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 501ms
+23:49 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+23:49 [Info] LoadingMessages was compiled successfully in 2059ms
+23:49 [Info] Loaded plugin Instant Craft v2.1.5 by Orange
+23:49 [Error] Oxide.Ext.Discord is referenced by Rustcord plugin but is not loaded! An appropriate include file needs to be saved to plugins\include\Ext.Discord.cs if this extension is not required.
+23:49 [Warning] Ignored unexpected plugin compilation failure: Rustcord
+23:49 [Info] NoGiveNotices and PlayerAdministration were compiled successfully in 656ms
+23:49 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+23:49 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:49 [Info] Loaded plugin PlayerAdministration v1.6.2 by Pho3niX90
+23:49 [Info] ServerInfo, QuickSmelt, StackSizeController and ServerRewards were compiled successfully in 1043ms
+23:49 [Info] TimeOfDay was compiled successfully in 584ms
+23:49 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+23:49 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+23:49 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 145ms
+23:49 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+23:49 [Info] [Stack Size Controller] Generating Data File.
+23:49 [Info] Loaded plugin Stack Size Controller v3.2.2 by AnExiledGod
+23:49 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+23:49 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+23:49 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+23:49 [Info] Welcomer, Vanish and Trade were compiled successfully in 542ms
+23:49 [Info] Loaded plugin Welcomer v1.5.6 by Dana
+23:49 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+23:49 [Warning] [Trade] Unable to call hook directly: LoadDefaultConfig
+23:49 [Info] Loaded plugin Trade v1.2.43 by Calytic
+23:49 [Info] [Admin Radar] Cached 10310/37777 entities in 9.836218 seconds!
+23:49 [Info] [Auto Stash Traps] 150 Traps Generated
+23:50 [Error] Timed out waiting for plugin to be compiled: DiscordChat
+23:50 [Error] Timed out waiting for plugin to be compiled: Rustcord

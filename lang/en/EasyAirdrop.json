@@ -1,0 +1,6 @@
+{
+  "Chat Message": "<color=red>{player}</color> has called an airdrop.",
+  "Console Message": "{player} has called an airdrop. {location}",
+  "Massdrop Chat Message": "<color=red>{player}</color> has called <color=red>{amount}</color> airdrops.",
+  "Massdrop Console Message": "{player} has called {amount} airdrops."
+}

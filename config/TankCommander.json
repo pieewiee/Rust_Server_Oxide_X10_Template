@@ -1,0 +1,85 @@
+{
+  "Movement Settings": {
+    "Forward torque (nm)": 1500.0,
+    "Rotation torque (nm)": 1800.0,
+    "Brake torque (nm)": 50.0,
+    "Time to reach maximum acceleration (seconds)": 3.0,
+    "Boost torque (nm)": 300.0
+  },
+  "Button Configuration": {
+    "Enter/Exit vehicle": "USE",
+    "Toggle light": "RELOAD",
+    "Open inventory": "RELOAD",
+    "Speed boost": "SPRINT",
+    "Fire Cannon": "FIRE_PRIMARY",
+    "Fire Coaxial Gun": "FIRE_SECONDARY",
+    "Fire MG": "FIRE_THIRD"
+  },
+  "Crushable Types": {
+    "Can crush buildings": true,
+    "Can crush resources": true,
+    "Can crush loot containers": true,
+    "Can crush animals": true,
+    "Can crush players": true,
+    "Amount of force required to crush various building grades": {
+      "Twigs": 1000.0,
+      "Wood": 2000.0,
+      "Stone": 3000.0,
+      "Metal": 5000.0,
+      "TopTier": 7000.0
+    },
+    "Amount of force required to crush external walls": 3000.0,
+    "Amount of force required to crush resources": 1500.0
+  },
+  "Passenger Options": {
+    "Allow passengers": true,
+    "Number of allowed passengers (Max 4)": 4,
+    "Require passenger to be a friend (FriendsAPI)": true,
+    "Require passenger to be a clan mate (Clans)": true
+  },
+  "Inventory Options": {
+    "Enable inventory system": true,
+    "Drop inventory on death": true,
+    "Drop loot on death": false,
+    "Inventory size (max 36)": 36
+  },
+  "Weapon Options": {
+    "Cannon": {
+      "Enable weapon system": true,
+      "Require ammunition in inventory": false,
+      "Ammunition type (item shortname)": "ammo.rocket.hv",
+      "Fire rate (seconds)": 1.75,
+      "Aim cone (smaller number is more accurate)": 0.025,
+      "Damage": 90.0
+    },
+    "Coaxial": {
+      "Enable weapon system": true,
+      "Require ammunition in inventory": false,
+      "Ammunition type (item shortname)": "ammo.rifle.hv",
+      "Fire rate (seconds)": 0.06667,
+      "Aim cone (smaller number is more accurate)": 0.75,
+      "Damage": 10.0
+    },
+    "Machine Gun": {
+      "Enable weapon system": true,
+      "Require ammunition in inventory": false,
+      "Ammunition type (item shortname)": "ammo.rifle.hv",
+      "Fire rate (seconds)": 0.1,
+      "Aim cone (smaller number is more accurate)": 1.25,
+      "Damage": 10.0
+    },
+    "Enable Crosshair": true,
+    "Crosshair Color": {
+      "R": 0.75,
+      "G": 0.75,
+      "B": 0.75,
+      "A": 0.75
+    },
+    "Crosshair Size": 40
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "Usage": "Usage:\n * blueprintmanager reset 'player name or id' - resets blueprints for player\n * blueprintmanager unlock 'player name or id' 'item shortname' - unlock specified blueprint for player\n * blueprintmanager unlockall 'player name or id'- unlocks all blueprints for player",
+  "Permission": "You don't have permission to use that!",
+  "No Players": "There are no players with that Name or steamID! ({0})",
+  "Multiple Players": "There are many players with that Name:\n{0}",
+  "Success": "Your action was done successfully for '{0}'!"
+}

@@ -1,0 +1,236 @@
+{
+  "Additional Bases For This Difficulty": {
+    "HardBase3": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "admindock": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "Come_At_Me_Bro": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "Cursed": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "Squid": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "TheSlit": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "Turtle": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ],
+    "TynMadness": [
+      {
+        "Option": "stability",
+        "Value": "false"
+      },
+      {
+        "Option": "autoheight",
+        "Value": "false"
+      },
+      {
+        "Option": "height",
+        "Value": "1.0"
+      }
+    ]
+  },
+  "Paste Options": [],
+  "Arena Walls": {
+    "Enabled": true,
+    "Extra Stacks": 1,
+    "Use Stone Walls": true,
+    "Use Iced Walls": false,
+    "Use Least Amount Of Walls": true,
+    "Use UFO Walls": false,
+    "Radius": 25.0
+  },
+  "NPC Levels": {
+    "Level 1 - Play With Fire": {
+      "Amount (0 = disabled)": 0,
+      "Chance To Play": 0.5
+    },
+    "Level 2 - Final Death": false
+  },
+  "NPCs": {
+    "Murderer Items": [
+      "metal.facemask",
+      "metal.plate.torso",
+      "pants",
+      "tactical.gloves",
+      "boots.frog",
+      "tshirt",
+      "machete"
+    ],
+    "Scientist Items": [
+      "hazmatsuit_scientist",
+      "rifle.ak"
+    ],
+    "Murderer Kits": [
+      "murderer_kit_1",
+      "murderer_kit_2"
+    ],
+    "Scientist Kits": [
+      "scientist_kit_1",
+      "scientist_kit_2"
+    ],
+    "Random Names": [],
+    "Amount To Spawn": 3,
+    "Aggression Range": 70.0,
+    "Despawn Inventory On Death": true,
+    "Enabled": true,
+    "Health For Murderers (100 min, 5000 max)": 150.0,
+    "Health For Scientists (100 min, 5000 max)": 150.0,
+    "Minimum Amount To Spawn": 1,
+    "Use Dangerous Treasures NPCs": false,
+    "Spawn Murderers And Scientists": true,
+    "Scientist Weapon Accuracy (0 - 100)": 30.0,
+    "Spawn Murderers": false,
+    "Spawn Random Amount": false,
+    "Spawn Scientists Only": false,
+    "Player Traps And Turrets Ignore Npcs": false
+  },
+  "Rewards": {
+    "Economics Money": 0.0,
+    "ServerRewards Points": 0
+  },
+  "Change Building Material Tier To": {
+    "Wooden": false,
+    "Stone": false,
+    "Metal": false,
+    "HQM": false
+  },
+  "Auto Turrets": {
+    "Aim Cone": 5.0,
+    "Minimum Damage Modifier": 1.0,
+    "Maximum Damage Modifier": 1.0,
+    "Start Health": 1000.0,
+    "Sight Range": 30.0,
+    "Double Sight Range When Shot": false,
+    "Set Hostile (False = Do Not Set Any Mode)": true,
+    "Requires Power Source": false,
+    "Remove Equipped Weapon": false,
+    "Random Weapons To Equip When Unequipped": [
+      "rifle.ak"
+    ]
+  },
+  "Profile Enabled": true,
+  "Add Code Lock To Unlocked Or KeyLocked Doors": true,
+  "Add Code Lock To Tool Cupboards": false,
+  "Add Code Lock To Boxes": false,
+  "Close Open Doors With No Door Controller Installed": true,
+  "Allow Duplicate Items": false,
+  "Allow Players To Pickup Deployables": false,
+  "Allow Players To Deploy A Cupboard": true,
+  "Allow PVP": true,
+  "Allow Friendly Fire (Teams)": true,
+  "Minimum Amount Of Items To Spawn (0 = Use Max Value)": 0,
+  "Amount Of Items To Spawn": 30,
+  "Flame Turret Health": 300.0,
+  "Block Plugins Which Prevent Item Durability Loss": false,
+  "Block Damage Outside Of The Dome To Players Inside": false,
+  "Block Damage Outside Of The Dome To Bases Inside": false,
+  "Block Damage Inside From Npcs To Players Outside": false,
+  "Building Blocks Are Immune To Damage": false,
+  "Boxes Are Invulnerable": false,
+  "Spawn Silently (No Notifcation, No Dome, No Map Marker)": false,
+  "Divide Loot Into All Containers": true,
+  "Drop Container Loot X Seconds After It Is Looted": 0.0,
+  "Drop Container Loot Applies Only To Boxes And Cupboards": true,
+  "Create Dome Around Event Using Spheres (0 = disabled, recommended = 5)": 5,
+  "Empty All Containers Before Spawning Loot": true,
+  "Eject Corpses From Enemy Raids (Advanced Users Only)": true,
+  "Eject Enemies From Locked PVE Raids": true,
+  "Eject Enemies From Locked PVP Raids": false,
+  "Explosion Damage Modifier (0-999)": 100.0,
+  "Force All Boxes To Have Same Skin": true,
+  "Ignore Containers That Spawn With Loot Already": false,
+  "Loot Amount Multiplier": 1.0,
+  "Maximum Respawn Npc X Seconds After Death": 0.0,
+  "Minimum Respawn Npc X Seconds After Death": 0.0,
+  "Protection Radius": 50.0,
+  "Penalize Players On Death In PVE (ZLevels)": true,
+  "Penalize Players On Death In PVP (ZLevels)": true,
+  "Require Cupboard Access To Loot": false,
+  "Require Cupboard Access To Place Ladders": false,
+  "Skip Treasure Loot And Use Loot In Base Only": false,
+  "Always Spawn Base Loot Table": false
+}

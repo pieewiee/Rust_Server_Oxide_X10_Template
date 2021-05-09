@@ -1,0 +1,14 @@
+{
+  "Discord Bot Token": "ODI3OTM1NTMwOTYzOTU5ODcw.YGiRDA.QtlExsQRv7iFvRCAbxt9nOd9bW4",
+  "Prefix": "!",
+  "Discord Group Id needed for Commands (null to disable)": null,
+  "Update Interval (Seconds)": 5,
+  "Randomize Status": false,
+  "Status Type (Game/Stream/Listen/Watch)": "Game",
+  "Status": [
+    "{players.online} / {server.maxplayers} Online!",
+    "{server.entities} Entities",
+    "{players.sleepers} Sleepers!",
+    "{players.authenticated} Linked Account(s)"
+  ]
+}

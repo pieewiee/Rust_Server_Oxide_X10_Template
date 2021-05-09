@@ -1,0 +1,9 @@
+{
+  "View inventory raycast distance": 10.0,
+  "View inventory timeout (seconds) set to 0 to disable": 60.0,
+  "Use console logging": false,
+  "Use discord logging": true,
+  "Webhook URL": "https://discord.com/api/webhooks/827988037592940584/FMWcFrY3tXpaHh_2x9vw3UqYAtYf7qQJZn-RlJJhBLZV5h3k8aG2e8t26uBme0ud2qdi",
+  "Discord name": "Inventory Viewer",
+  "Discord avatar URL": "https://i.imgur.com/BLoVcpz.png"
+}

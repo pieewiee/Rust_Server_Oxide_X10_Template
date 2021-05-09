@@ -1,0 +1,5 @@
+{
+  "nopermission": "<color=#D3D3D3>You do not have permission to drive this car</color>",
+  "health": "HLTH: ",
+  "itemnotallowed": "<color=#D3D3D3>You can not use that item whilst you are in a car</color>"
+}

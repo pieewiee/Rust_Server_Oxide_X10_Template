@@ -1,0 +1,14 @@
+{
+  "playerData": {
+    "76561198444106174": {
+      "enabled": true,
+      "autoLootAll": false,
+      "uiStyle": "right",
+      "containers": {
+        "belt": true,
+        "main": true,
+        "wear": false
+      }
+    }
+  }
+}

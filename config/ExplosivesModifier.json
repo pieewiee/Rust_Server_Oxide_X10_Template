@@ -1,0 +1,41 @@
+{
+  "HelpText": {
+    "Admin": "You can modify the damage of the following types of explosives: \r\n  Explosive Charges, F1 Grenades, Beancan Grenades, Rockets and Explosive Ammo. \r\n  /explosivedamage <type:timed|f1|beancan|rocket|ammo> <value:percentage> \r\n  Example: /explosivedamage timed 50 - For 50% of normal damage. \r\n           /explosivedamage ammo 200 - For 200% of normal damage. \r\n \r\nYou can modify the radius of the following types of explosives: \r\n  Explosive Charges, F1 Grenades, Beancan Grenades and Rockets. \r\n  /explosiveradius <type:timed|f1|beancan|rocket> <value:percentage> \r\n  Example: /explosiveradius timed 50 - For 50% of normal damage. \r\n           /explosiveradius rocket 200 - For 200% of normal damage. \r\n \r\nYou can also toggle sticky grenades for F1 Grenades and Beancan grenades: \r\n  /stickygrenades <type:f1|beancan>",
+    "Player - Beancan Grenade": "Beancan Grenades deal {0}% of their normal damage and their radius is set to {1}%. Sticky Beancan Grenades are {2}",
+    "Player - Explosive Ammo": "Explosive rounds deals {0}% of their normal damage.",
+    "Player - Explosive Charge": "Explosive charges deal {0}% of their normal damage and their radius is set to {1}%",
+    "Player - F1 Grenade": "F1 Grenades deal {0}% of their normal damage and their radius is set to {1}%. Sticky F1 Grenades are {2}",
+    "Player - Rocket": "Rockets deal {0}% of their normal damage and their radius is set to {1}%."
+  },
+  "Messages": {
+    "Invalid Argument(s)": "Invalid argument(s) supplied! Check /help for more information on the commands.",
+    "Modified": "{0} {1} changed to {2}% of the normal {1}.",
+    "Not Allowed": "You are not allowed to use this command.",
+    "Sticky": "You have {0} sticky {1}s"
+  },
+  "Options - Beancan Grenade": {
+    "Damage Modifier": 100.0,
+    "Radius Modifier": 100.0,
+    "Sticky": false
+  },
+  "Options - Explosive Ammo": {
+    "Damage Modifier": 100.0
+  },
+  "Options - Explosive Charge": {
+    "Damage Modifier": 100.0,
+    "Radius Modifier": 100.0
+  },
+  "Options - F1 Grenade": {
+    "Damage Modifier": 100000000.0,
+    "Radius Modifier": 100000.0,
+    "Sticky": false
+  },
+  "Options - Rocket": {
+    "Damage Modifier": 100.0,
+    "Radius Modifier": 100.0
+  },
+  "Settings": {
+    "Chat Prefix": "Bomb Squad",
+    "Chat Prefix Color": "#008000"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Placeholders": {
+    "key": "Custom value"
+  },
+  "Culture Ietf Tag": "en-US",
+  "Local Time Offset": "00:00:00",
+  "Map Wipe Schedule": {
+    "Every First Month Day": "Friday",
+    "Every N Day": "Monday",
+    "Every": "7.00:00:00",
+    "Time": "12:00:00"
+  },
+  "Blueprints Wipe Schedule": {
+    "Every First Month Day": "Friday",
+    "Every N Day": "Monday",
+    "Every": "7.00:00:00",
+    "Time": "12:00:00"
+  },
+  "Request Address Data (ip-api.com)": true
+}

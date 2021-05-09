@@ -1,0 +1,4 @@
+{
+  "Warning message": "{0} ({1}) found a stash that belongs to {2} ({3}) in {4} {5}.",
+  "No recent warning": "No recent warning. No location to teleport to."
+}

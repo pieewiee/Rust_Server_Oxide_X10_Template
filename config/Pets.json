@@ -1,0 +1,25 @@
+{
+  "Pet statistic modifiers": {
+    "Attack damage": 2.0,
+    "Health": 1.5,
+    "Speed": 1.0
+  },
+  "Control buttons": {
+    "Npc command control button": "USE",
+    "Follow player toggle button": "RELOAD"
+  },
+  "Options": {
+    "Maximum distance to tame an pet": 10.0,
+    "Teleport to player cooldown (seconds)": 600,
+    "Time between taming pets": 60.0,
+    "Maximum distance to open your pets inventory": 1.0,
+    "Maximum distance before your pet will ignore a target": 70.0,
+    "Use the permission system": false,
+    "Use the Ddraw system": true
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 6,
+    "Patch": 4
+  }
+}

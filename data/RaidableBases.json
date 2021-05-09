@@ -1,0 +1,28 @@
+{
+  "Players": {
+    "76561198444106174": {
+      "TotalRaids": 2,
+      "Raids": 2
+    },
+    "76561198083859045": {
+      "TotalRaids": 1,
+      "Raids": 1
+    }
+  },
+  "UI": {
+    "76561198444106174": {
+      "Enabled": true,
+      "Status": true
+    },
+    "76561198846041384": {
+      "Enabled": true,
+      "Status": true
+    },
+    "76561198083859045": {
+      "Enabled": true,
+      "Status": true
+    }
+  },
+  "RaidTime": "05/09/2021 17:14:26",
+  "TotalEvents": 479
+}

@@ -1,0 +1,13 @@
+{
+  "Code Generation": "Here is your code: [#1874CD]{0}[/#]\nJoin our [#EE3B3B]Discord[/#] and PM the code to the Rust Bot",
+  "Code Expired": "Your code has [#EE3B3B]Expired![/#]",
+  "Authenticated": "Thank you for authenticating your account",
+  "Game-Deauthenticated": "Successfully deauthenticated your account",
+  "Discord-Deauthenticated": "You have been deauthenticated from {0}",
+  "Already Authenticated": "You have already [#1874CD]authenticated[/#] your account, no need to do it again",
+  "Not Authenticated": "You are not authenticated",
+  "Group Revoked": "Your '{0}' Group has been revoked! Join the server back to achieve it",
+  "Group Granted": "Granted '{0}' Group and the discord roles for joining {1} back",
+  "Unable to find code": "Sorry, we couldn't find your code, please try to authenticate again, If you haven't generated a code, please type /auth in-game",
+  "No Permission": "You dont have permission to use this command"
+}

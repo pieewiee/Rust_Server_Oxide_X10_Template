@@ -1,0 +1,14 @@
+{
+  "NoPermission": "You have no permission to use this command",
+  "Cooldown": "Helicopter call is on cooldown, time remaining: {0}",
+  "LootDenied": "You are forbidden to loot this crate, it belongs to: {0}",
+  "DamageDenied": "You are forbidden to damage this helicopter, it was called by: {0}",
+  "MiningDenied": "You are forbidden to mine this debris, it belongs to: {0}",
+  "Friends": "their friends",
+  "Team": "their team",
+  "Clan": "their clan",
+  "CmdUsage": "Invalid format, usage: personalheli.call {{steamId}}",
+  "InvalidSteamId": "{0} is invalid Steam ID",
+  "PlayerNotFound": "Player with id {0} was not found",
+  "PlayerCalled": "Personal helicopter is called for {0}"
+}

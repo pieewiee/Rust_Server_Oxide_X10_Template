@@ -1,0 +1,19 @@
+{
+  "AssetPrefab": "assets/content/vehicles/minicopter/minicopter.entity.prefab",
+  "CanDespawnWhileOccupied": false,
+  "CanFetchWhileOccupied": false,
+  "CanSpawnBuildingBlocked": false,
+  "FuelAmount": 0,
+  "MaxNoMiniDistance": -1.0,
+  "MaxSpawnDistance": 5.0,
+  "UseFixedSpawnDistance": true,
+  "OwnerAndTeamCanMount": false,
+  "DefaultCooldown": 86400.0,
+  "PermissionCooldowns": {
+    "spawnmini.tier1": 43200.0,
+    "spawnmini.tier2": 21600.0,
+    "spawnmini.tier3": 10800.0
+  },
+  "SpawnHealth": 750.0,
+  "DestroyOnDisconnect": false
+}

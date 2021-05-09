@@ -1,0 +1,4124 @@
+[
+  {
+    "shortname": "abovegroundpool",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.grenadelauncher.buckshot",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.grenadelauncher.he",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.grenadelauncher.smoke",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.handmade.shell",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.nailgun.nails",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.pistol",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.pistol.fire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.pistol.hv",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rifle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rifle.explosive",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rifle.hv",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rifle.incendiary",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rocket.basic",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rocket.fire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rocket.hv",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rocket.sam",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.rocket.smoke",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.shotgun",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.shotgun.fire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.shotgun.slug",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ammo.snowballgun",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "antiradpills",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "apple",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "apple.spoiled",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "arcade.machine.chippy",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "arrow.bone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "arrow.fire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "arrow.hv",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "arrow.wooden",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.banditguard",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.bunny.onesie",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.bunnyears",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.boots",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.helterneck",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.pants",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.poncho",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.skirt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.hide.vest",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.nesthat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.ninja.suit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "attire.reindeer.headband",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "autoturret",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "axe.salvaged",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bandage",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barrelcostume",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.concrete",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.metal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.sandbags",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.stone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.wood.cover",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "barricade.woodwire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "battery.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bbq",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "beachchair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "beachparasol",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "beachtable",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "beachtowel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bearmeat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bearmeat.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bearmeat.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bed",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "black.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "black.raspberries",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bleach",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "blood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "blue.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "blueberries",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "blueprintbase",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bone.armor.suit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bone.club",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bone.fragments",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "boogieboard",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "boots.frog",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "botabag",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bow.compound",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bow.hunting",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "box.repair.bench",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "box.wooden",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "box.wooden.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bucket.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "bucket.water",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "building.planner",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.gloves",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.gloves.new",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.headwrap",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.shirt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.shoes",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "burlap.trousers",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cactusflesh",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cakefiveyear",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "campfire",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "can.beans",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "can.beans.empty",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "can.tuna",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "can.tuna.empty",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "candycane",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "candycaneclub",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "car.key",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "carburetor1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "carburetor2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "carburetor3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cardtable",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cctv.camera",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ceilinglight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chainsaw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "charcoal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chicken.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chicken.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chicken.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chicken.spoiled",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chineselantern",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "chocholate",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clatter.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.black.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.blue.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.corn",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.green.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.hemp",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.potato",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.pumpkin",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.red.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.white.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "clone.yellow.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cloth",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "coal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "coffeecan.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "coffin.storage",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "composter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "computerstation",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "corn",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "crankshaft1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "crankshaft2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "crankshaft3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cratecostume",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "crossbow",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "crude.oil",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cupboard.tool",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "cursedcauldron",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "deer.skull.mask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "deermeat.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "deermeat.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "deermeat.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "diesel_barrel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "diving.fins",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "diving.mask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "diving.tank",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "diving.wetsuit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.closer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.double.hinged.metal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.double.hinged.toptier",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.double.hinged.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.hinged.industrial.a",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.hinged.metal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.hinged.toptier",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.hinged.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "door.key",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "dragondoorknocker",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "drone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "dropbox",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "drumkit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ducttape",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easter.bronzeegg",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easter.goldegg",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easter.paintedeggs",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easter.silveregg",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easterbasket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "easterdoorwreath",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.andswitch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.audioalarm",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.battery.rechargable.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.battery.rechargable.medium",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.battery.rechargable.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.blocker",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.button",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.cabletunnel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.counter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.doorcontroller",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.flasherlight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.fuelgenerator.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.generator.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.hbhfsensor",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.heater",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.igniter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.laserdetector",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.orswitch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.pressurepad",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.random.switch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.rf.broadcaster",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.rf.receiver",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.simplelight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.sirenlight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.solarpanel.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.splitter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.sprinkler",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.switch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.teslacoil",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.timer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electric.xorswitch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electrical.branch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electrical.combiner",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "electrical.memorycell",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "elevator",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "explosive.satchel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "explosive.timed",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "explosives",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fat.animal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fertilizer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fireplace.stone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.blue",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.champagne",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.green",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.orange",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.red",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.boomer.violet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.romancandle.blue",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.romancandle.green",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.romancandle.red",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.romancandle.violet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.volcano",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.volcano.red",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "firework.volcano.violet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fish.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fish.minnows",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fish.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fish.troutsmall",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fishingrod.handmade",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fishtrap.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "flamethrower",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "flameturret",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "flare",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "flashlight.held",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "floor.grill",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "floor.ladder.hatch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "floor.triangle.grill",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "floor.triangle.ladder.hatch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fluid.combiner",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fluid.splitter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fluid.switch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fogmachine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fridge",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.bass",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.cowbell",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.flute",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.guitar",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.jerrycanguitar",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.tambourine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.trumpet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fun.tuba",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "furnace",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "furnace.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "fuse",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gates.external.high.stone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gates.external.high.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gears",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "geiger.counter",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "generator.wind.scrap",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ghostsheet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "giantcandycanedecor",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "giantlollipops",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gloweyes",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "glue",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "granolabar",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gravestone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "green.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "grenade.beancan",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "grenade.f1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "grenade.smoke",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gun.water",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "gunpowder",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "guntrap",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "habrepair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.candy",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.lootbag.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.lootbag.medium",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.lootbag.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.mummysuit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "halloween.surgeonsuit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hammer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hammer.salvaged",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.beenie",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.boonie",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.bunnyhat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.candle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.cap",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.dragonmask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.gas.mask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.miner",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.oxmask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.ratmask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hat.wolf",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hatchet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hazmatsuit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hazmatsuit.spacesuit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hazmatsuit_scientist",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hazmatsuit_scientist_peacekeeper",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "healingtea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "healingtea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "healingtea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "heavy.plate.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "heavy.plate.jacket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "heavy.plate.pants",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hitchtroughcombo",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hobobarrel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hoodie",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.armor.roadsign",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.armor.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.saddle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.saddlebag",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.shoes.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horse.shoes.basic",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horsedung",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horsemeat.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horsemeat.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "horsemeat.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hosetool",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "hq.metal.ore",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "humanmeat.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "humanmeat.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "humanmeat.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "humanmeat.spoiled",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "icepick.salvaged",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "innertube",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "innertube.horse",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "innertube.unicorn",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jacket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jacket.snow",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jackhammer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jackolantern.angry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jackolantern.happy",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jar.pickle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "jumpsuit.suit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "kayak",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "keycard_blue",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "keycard_green",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "keycard_red",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "knife.bone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "knife.butcher",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "knife.combat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "ladder.wooden.wall",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lantern",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "largecandles",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "largemedkit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "leather",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lmg.m249",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lock.code",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lock.key",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "locker",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "longsword",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lowgradefuel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "lunar.firecrackers",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mace",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "machete",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mailbox",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "map",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mask.balaclava",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mask.bandana",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "maxhealthtea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "maxhealthtea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "maxhealthtea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "meat.boar",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "meat.pork.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "meat.pork.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metal.facemask",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metal.fragments",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metal.ore",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metal.plate.torso",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metal.refined",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metalblade",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metalpipe",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "metalspring",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "minihelicopter.repair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mining.pumpjack",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mining.quarry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mixingtable",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "modularcarlift",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "movembermoustache",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "movembermoustachecard",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "multiplegrenadelauncher",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "mushroom",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "newyeargong",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "nightvisiongoggles",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "note",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "oretea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "oretea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "oretea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "paddle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "paddlingpool",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pants",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pants.shorts",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "paper",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "partyhat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "photo",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "photoframe.landscape",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "photoframe.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "photoframe.portrait",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "piano",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pickaxe",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.eoka",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.m92",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.nailgun",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.python",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.revolver",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.semiauto",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pistol.water",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "piston1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "piston2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "piston3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pitchfork",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "planter.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "planter.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "plantfiber",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pookie.bear",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "potato",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "powered.water.purifier",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "propanetank",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pumpkin",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "pumpkinbasket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationremovetea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationremovetea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationremovetea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationresisttea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationresisttea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "radiationresisttea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "red.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "research.table",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "researchpaper",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rf.detonator",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rf_pager",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.ak",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.bolt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.l96",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.lr300",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.m39",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rifle.semiauto",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "riflebody",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "riot.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "roadsign.gloves",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "roadsign.jacket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "roadsign.kilt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "roadsigns",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rock",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rocket.launcher",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rope",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rug",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rug.bear",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rustige_egg_a",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rustige_egg_b",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rustige_egg_c",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rustige_egg_d",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "rustige_egg_e",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "salvaged.cleaver",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "salvaged.sword",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "samsite",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "santabeard",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "santahat",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scarecrow",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scarecrow.suit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scarecrowhead",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scientistsuit_heavy",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scrap",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scraptea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scraptea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scraptea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "scraptransportheli.repair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "searchlight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "secretlabchair",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.black.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.blue.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.corn",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.green.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.hemp",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.potato",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.pumpkin",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.red.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.white.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "seed.yellow.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "semibody",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sewingkit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sheetmetal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shelves",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shirt.collared",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shirt.tanktop",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shoes.boots",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shotgun.double",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shotgun.pump",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shotgun.spas12",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shotgun.waterpipe",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shutter.metal.embrasure.a",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shutter.metal.embrasure.b",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "shutter.wood.a",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sickle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.hanging",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.hanging.banner.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.hanging.ornate",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.neon.125x125",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.neon.125x215",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.neon.125x215.animated",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.neon.xl",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.neon.xl.animated",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pictureframe.landscape",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pictureframe.portrait",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pictureframe.tall",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pictureframe.xl",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pictureframe.xxl",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.pole.banner.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.post.double",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.post.single",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.post.town",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.post.town.roof",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.wooden.huge",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.wooden.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.wooden.medium",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sign.wooden.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.human",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.trophy",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.trophy.jar",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.trophy.jar2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.trophy.table",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull.wolf",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skull_fire_pit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skulldoorknocker",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skullspikes",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skullspikes.candles",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "skullspikes.pumpkin",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sled",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sled.xmas",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sleepingbag",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "small.oil.refinery",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smallcandles",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smallwaterbottle",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smart.alarm",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smart.switch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smg.2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smg.mp5",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smg.thompson",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "smgbody",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "snowball",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "snowballgun",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "snowmachine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "snowman",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sofa",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sparkplug1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sparkplug2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sparkplug3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spear.stone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spear.wooden",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spiderweb",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spikes.floor",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spinner.wheel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "spookyspeaker",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stash.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sticks",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stocking.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stocking.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stone.pickaxe",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stonehatchet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "stones",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "storage.monitor",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "strobelight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sulfur",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sulfur.ore",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses02black",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses02camo",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses02red",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses03black",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses03chrome",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "sunglasses03gold",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "supply.signal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "surveycharge",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "syringe.medical",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "table",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tactical.gloves",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "target.reactive",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "targeting.computer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tarp",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "techparts",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "telephone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tool.binoculars",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tool.camera",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tool.instant_camera",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "toolgun",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "torch",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "trap.bear",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "trap.landmine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tshirt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tshirt.long",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "tunalight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "twitch.headset",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "twitchsunglasses",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "valve1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "valve2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "valve3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit.armored",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.cockpit.with.engine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.engine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.flatbed",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.passengers.armored",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.rear.seats",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.storage",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.1mod.taxi",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.2mod.flatbed",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.2mod.fuel.tank",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.2mod.passengers",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.chassis",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.chassis.2mod",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.chassis.3mod",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.chassis.4mod",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vehicle.module",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "vending.machine",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.external.high",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.external.high.ice",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.external.high.stone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.cell",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.cell.gate",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.fence",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.fence.gate",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.garagedoor",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.netting",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.shopfront",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.frame.shopfront.metal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.graveyard.fence",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.ice.wall",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.window.bars.metal",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.window.bars.toptier",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.window.bars.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wall.window.glass.reinforced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "watchtower.wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water.barrel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water.catcher.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water.catcher.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water.purifier",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "water.salt",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "waterjug",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "waterpump",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.8x.scope",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.flashlight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.holosight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.lasersight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.muzzleboost",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.muzzlebrake",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.silencer",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.simplesight",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "weapon.mod.small.scope",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "white.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wiretool",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wolfmeat.burned",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wolfmeat.cooked",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wolfmeat.raw",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wolfmeat.spoiled",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wood",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wood.armor.helmet",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wood.armor.jacket",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wood.armor.pants",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "woodcross",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "woodtea",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "woodtea.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "woodtea.pure",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "workbench1",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "workbench2",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "workbench3",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "workcart",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wrappedgift",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "wrappingpaper",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.baubels",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.candycanes",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.gingerbreadmen",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.lights",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.pinecone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.star",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.decoration.tinsel",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.door.garland",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.lightstring",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.lightstring.advanced",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.present.large",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.present.medium",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.present.small",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.tree",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmas.window.garland",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xmasdoorwreath",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "xylophone",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  },
+  {
+    "shortname": "yellow.berry",
+    "amount": 0,
+    "skin": 0,
+    "amountMin": 0
+  }
+]

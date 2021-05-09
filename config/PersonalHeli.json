@@ -1,0 +1,13 @@
+{
+  "UseFriends": true,
+  "UseTeams": true,
+  "UseClans": true,
+  "CooldownSeconds": 1800,
+  "ChatCommand": "callheli",
+  "ResetCooldownsOnWipe": true,
+  "MemorizeTeamOnCall": false,
+  "RetireOnAllTeamDead": false,
+  "DenyCratesLooting": true,
+  "DenyGibsMining": true,
+  "RemoveFireFromCrates": true
+}

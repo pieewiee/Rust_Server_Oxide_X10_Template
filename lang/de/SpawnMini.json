@@ -1,0 +1,14 @@
+{
+  "mini_destroyed": "Ihr minikopter wurde zerstört!",
+  "mini_perm": "Du habe keine keine berechtigung diesen befehl zu verwenden!",
+  "mini_current": "Du hast bereits einen minikopter!",
+  "mini_notcurrent": "Du hast keine minikopter!",
+  "mini_priv": "Ein minikopter kann nicht hervorgebracht, da das bauwerk ist verstopft!",
+  "mini_timeleft_new": "Du hast <color=red>{0}</color>, bis ihre abklingzeit ende",
+  "mini_sdistance": "Du bist versuchen den minikopter zu weit weg zu spawnen!",
+  "mini_terrain": "Du versucht laichen einen minikopter außerhalb des geländes!",
+  "mini_mounted": "Ein Spieler ist gerade am Minikopter montiert oder es ist zu weit!",
+  "mini_current_distance": "Der Minikopter ist zu weit!",
+  "mini_rcon": "Dieser Befehl kann nur von RCON ausgeführt werden!",
+  "mini_canmount": "Sie sind nicht der Besitzer dieses Minicopters oder im Team des Besitzers!"
+}

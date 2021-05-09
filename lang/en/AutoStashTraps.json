@@ -1,0 +1,12 @@
+{
+  "NoPermission": "You don't have permission to use this command",
+  "AdminPermission": "You need to be an admin to use this command.",
+  "NotEnabled": "The plugin isn't enabled.",
+  "WrongCommand": "You entered a wrong command",
+  "TrapsGenerated": "{0} Traps Generated",
+  "TrapsCleared": "{0} Traps Cleared",
+  "AdminWarningMessage": "{0} {1} {2}",
+  "StashReportText": "Current active Stashes {0} and queued stashes to destroy {1}",
+  "Discord - Message - Manual Generated Stash": "Stash owned by a player has been found",
+  "Discord - Message - Automatic Generated Stash ": "Auto generated Stash has been found"
+}

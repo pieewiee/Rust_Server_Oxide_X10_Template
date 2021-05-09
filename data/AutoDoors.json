@@ -1,0 +1,44 @@
+{
+  "playerData": {
+    "76561198855451346": {
+      "doorS": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198325655268": {
+      "doorS": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198846041384": {
+      "doorS": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198327372908": {
+      "doorS": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198444106174": {
+      "doorS": {
+        "enabled": false,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    }
+  }
+}

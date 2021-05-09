@@ -1,0 +1,212 @@
+[
+  {
+    "shortname": "ammo.pistol",
+    "amount": 40,
+    "skin": 0,
+    "amountMin": 40
+  },
+  {
+    "shortname": "ammo.pistol.fire",
+    "amount": 40,
+    "skin": 0,
+    "amountMin": 40
+  },
+  {
+    "shortname": "ammo.pistol.hv",
+    "amount": 40,
+    "skin": 0,
+    "amountMin": 40
+  },
+  {
+    "shortname": "ammo.rifle",
+    "amount": 60,
+    "skin": 0,
+    "amountMin": 60
+  },
+  {
+    "shortname": "ammo.rifle.explosive",
+    "amount": 60,
+    "skin": 0,
+    "amountMin": 60
+  },
+  {
+    "shortname": "ammo.rifle.hv",
+    "amount": 60,
+    "skin": 0,
+    "amountMin": 60
+  },
+  {
+    "shortname": "ammo.rifle.incendiary",
+    "amount": 60,
+    "skin": 0,
+    "amountMin": 60
+  },
+  {
+    "shortname": "ammo.shotgun",
+    "amount": 24,
+    "skin": 0,
+    "amountMin": 24
+  },
+  {
+    "shortname": "ammo.shotgun.slug",
+    "amount": 40,
+    "skin": 0,
+    "amountMin": 40
+  },
+  {
+    "shortname": "surveycharge",
+    "amount": 20,
+    "skin": 0,
+    "amountMin": 20
+  },
+  {
+    "shortname": "bucket.helmet",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "cctv.camera",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "coffeecan.helmet",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "explosive.timed",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "metal.facemask",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "metal.plate.torso",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "mining.quarry",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "pistol.m92",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "rifle.ak",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "rifle.bolt",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "rifle.lr300",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "shotgun.pump",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "shotgun.spas12",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "smg.2",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "smg.mp5",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "smg.thompson",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "supply.signal",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "targeting.computer",
+    "amount": 1,
+    "skin": 0,
+    "amountMin": 1
+  },
+  {
+    "shortname": "metal.refined",
+    "amount": 150,
+    "skin": 0,
+    "amountMin": 150
+  },
+  {
+    "shortname": "stones",
+    "amount": 15000,
+    "skin": 0,
+    "amountMin": 7500
+  },
+  {
+    "shortname": "sulfur",
+    "amount": 7500,
+    "skin": 0,
+    "amountMin": 2500
+  },
+  {
+    "shortname": "metal.fragments",
+    "amount": 7500,
+    "skin": 0,
+    "amountMin": 2500
+  },
+  {
+    "shortname": "charcoal",
+    "amount": 5000,
+    "skin": 0,
+    "amountMin": 1000
+  },
+  {
+    "shortname": "gunpowder",
+    "amount": 3500,
+    "skin": 0,
+    "amountMin": 1000
+  },
+  {
+    "shortname": "scrap",
+    "amount": 150,
+    "skin": 0,
+    "amountMin": 100
+  }
+]

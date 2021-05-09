@@ -1,0 +1,13 @@
+{
+  "AllowDemolishAfterServerRestart": false,
+  "AllowRotateAfterServerRestart": false,
+  "ClanCanDemolish": false,
+  "ClanCanRotate": false,
+  "DemolishTime": 600.0,
+  "FriendsCanDemolish": false,
+  "FriendsCanRotate": false,
+  "MustOwnToDemolish": false,
+  "MustOwnToRotate": false,
+  "RepairDamageCooldown": 8.0,
+  "RotateTime": 600.0
+}

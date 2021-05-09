@@ -1,0 +1,80 @@
+{
+  "CustomLoggingKeywords": [
+    "Keyword 1",
+    "Keyword 2"
+  ],
+  "FilterWords": [
+    "badword1",
+    "badword2"
+  ],
+  "FilteredWord": "<censored>",
+  "LogExcludeGroups": [
+    "default"
+  ],
+  "LogExcludePerms": [
+    "example.permission"
+  ],
+  "Apikey": "ODI3OTM1NTMwOTYzOTU5ODcw.YGiRDA.QtlExsQRv7iFvRCAbxt9nOd9bW4",
+  "AutoReloadPlugin": false,
+  "AutoReloadTime": 901,
+  "EnableBotStatus": false,
+  "GameChatIconSteamID": 76561199066612103,
+  "GameChatTag": "[RUSTCORD]",
+  "GameChatTagColor": "#7289DA",
+  "GameChatNameColor": "#55aaff",
+  "GameChatTextColor": "#ffffff",
+  "LogChat": true,
+  "LogJoinQuits": true,
+  "LogDeaths": false,
+  "LogVehicleSpawns": false,
+  "LogCrateDrops": false,
+  "LogUserGroups": false,
+  "LogPermissions": false,
+  "LogKickBans": true,
+  "LogNameChanges": false,
+  "LogServerCommands": false,
+  "LogServerMessages": false,
+  "LogF7Reports": false,
+  "LogTeams": false,
+  "LogRCON": false,
+  "LogPluginAdminHammer": false,
+  "LogPluginAdminRadar": false,
+  "LogPluginBetterChatMute": false,
+  "LogPluginClans": false,
+  "LogPluginDiscordAuth": false,
+  "LogPluginPrivateMessages": false,
+  "LogPluginRaidableBases": false,
+  "LogPluginSignArtist": false,
+  "LogPluginVanish": false,
+  "EnableCustomLogging": false,
+  "ReportCommand": "report",
+  "Commandprefix": "!",
+  "Channels": [
+    {
+      "Channelid": "",
+      "perms": [
+        "cmd_allow",
+        "cmd_players",
+        "cmd_kick",
+        "cmd_com",
+        "cmd_mute",
+        "cmd_unmute",
+        "msg_join",
+        "msg_joinlog",
+        "msg_quit",
+        "death_pvp",
+        "msg_chat",
+        "msg_teamchat",
+        "game_report",
+        "game_bug",
+        "msg_serverinit"
+      ]
+    }
+  ],
+  "Commandroles": {
+    "command": [
+      "rolename1",
+      "rolename2"
+    ]
+  }
+}

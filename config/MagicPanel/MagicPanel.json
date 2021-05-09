@@ -1,0 +1,142 @@
+{
+  "Chat Command": "mp",
+  "Use Image Library": true,
+  "Docks": {
+    "lefttop": {
+      "Position": {
+        "X Position": 0.07,
+        "Y Start Position": 0.072,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Left",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "leftmiddle": {
+      "Position": {
+        "X Position": 0.07,
+        "Y Start Position": 0.036,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Left",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "leftbottom": {
+      "Position": {
+        "X Position": 0.07,
+        "Y Start Position": 0.0,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Left",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "image": {
+      "Position": {
+        "X Position": 0.65,
+        "Y Start Position": 0.0,
+        "Height": 0.1
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Left",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "center": {
+      "Position": {
+        "X Position": 0.644,
+        "Y Start Position": 0.109,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Right",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "centerupper": {
+      "Position": {
+        "X Position": 0.4966,
+        "Y Start Position": 0.145,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Center",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "bottom": {
+      "Position": {
+        "X Position": 0.4966,
+        "Y Start Position": 0.0,
+        "Height": 0.0235
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Center",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    },
+    "undercompass": {
+      "Position": {
+        "X Position": 0.4966,
+        "Y Start Position": 0.92,
+        "Height": 0.035
+      },
+      "Enabled": true,
+      "Background Color": "#00000000",
+      "Panel Alignment (Left, Center, Right)": "Center",
+      "Panel Padding": 0.004,
+      "Dock Padding": {
+        "Left": 0.001,
+        "Right": 0.001,
+        "Top": 0.0,
+        "Bottom": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Use Kits": false,
+  "Glowing Eyes": false,
+  "Murderer Health": 100,
+  "Attire Headwear": [
+    "bucket.helmet",
+    "burlap.headwrap",
+    "none"
+  ],
+  "Attire Torso": [
+    "tshirt",
+    "jacket",
+    "tshirt.long",
+    "none"
+  ],
+  "Attire Legs": [
+    "burlap.trousers",
+    "pants.shorts"
+  ],
+  "Attire Feet": [
+    "shoes.boots",
+    "none"
+  ],
+  "Attire Hands": [
+    "burlap.gloves",
+    "none"
+  ],
+  "Skins": {
+    "bucket.helmet": [
+      747281863,
+      816503044,
+      818863931
+    ],
+    "burlap.headwrap": [
+      84948907,
+      1076584212,
+      811534810
+    ],
+    "tshirt": [
+      811616832,
+      1572147878,
+      1120538508
+    ],
+    "tshirt.long": [
+      1161735516,
+      1537333543,
+      810504871
+    ],
+    "burlap.trousers": [
+      1177788927,
+      823281717,
+      855123887
+    ],
+    "pants.shorts": [
+      885479497,
+      841150520,
+      793362671
+    ],
+    "shoes.boots": [
+      1427198029,
+      1428936568,
+      1291665415
+    ],
+    "burlap.gloves": [
+      971740441,
+      1475175531
+    ]
+  },
+  "Melee Weapon": [
+    "hatchet",
+    "knife.bone",
+    "knife.butcher",
+    "knife.combat",
+    "longsword",
+    "machete",
+    "paddle",
+    "salvaged.cleaver",
+    "salvaged.sword"
+  ],
+  "Murderer Kits": [
+    "murderer-kit1",
+    "murderer-kit2"
+  ],
+  "Glowing Eyes (Scarecrow)": false,
+  "Scarecrow Health": 100,
+  "Attire Headwear (Scarecrow)": [],
+  "Attire Torso (Scarecrow)": [
+    "scarecrow.suit"
+  ],
+  "Attire Legs (Scarecrow)": [],
+  "Attire Feet (Scarecrow)": [],
+  "Attire Hands (Scarecrow)": [],
+  "Melee Weapon (Scarecrow)": [],
+  "Scarecrow Kits": [
+    "scarecrow-kit1",
+    "scarecrow-kit2"
+  ]
+}

@@ -1,0 +1,8 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: KDRScoreboard.cs(150,30): warning CS0168: The variable `ex' is declared but never used
+
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

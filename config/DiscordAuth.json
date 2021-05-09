@@ -1,0 +1,26 @@
+{
+  "Settings": {
+    "Bot Token": "ODI3OTM1NTMwOTYzOTU5ODcw.YGiRDA.QtlExsQRv7iFvRCAbxt9nOd9bW4",
+    "Oxide Group": "authenticated",
+    "Enable Logging": false,
+    "Auth Commands": [
+      "auth",
+      "authenticate"
+    ],
+    "Deauth Commands": [
+      "deauth",
+      "deauthenticate"
+    ],
+    "Discord Roles to Assign": [
+      "Authenticated"
+    ],
+    "Revoke Oxide Group on Discord Leave": true,
+    "Deauthenticate on Discord Leave": false,
+    "Chat Prefix": "[#1874CD](Auth)[/#]:"
+  },
+  "Authentication Code": {
+    "Code Lifetime (minutes)": 60,
+    "Code Length": 5,
+    "Lowercase": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "CommandFreeze": "freeze",
+  "CommandFreezeAll": "freezeall",
+  "CommandUnfreeze": "unfreeze",
+  "CommandUnfreezeAll": "unfreezeall",
+  "CommandUsage": "Usage: {0} <name or id>",
+  "NoPlayersFound": "No players found with '{0}'",
+  "NoPlayersToFreeze": "No players to freeze",
+  "NoPlayersToUnfreeze": "No players to unfreeze",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "PlayerFrozen": "{0} has been frozen",
+  "PlayerIsProtected": "{0} is protected and cannot be frozen",
+  "PlayerIsFrozen": "{0} is already frozen",
+  "PlayerNotFrozen": "{0} is not frozen",
+  "PlayerUnfrozen": "{0} has been unfrozen",
+  "PlayersFound": "Multiple players were found, please specify: {0}",
+  "PlayersFrozen": "All players have been frozen",
+  "PlayersUnfrozen": "All players have been unfrozen",
+  "YouAreFrozen": "You are frozen",
+  "YouWereUnfrozen": "You were unfrozen"
+}

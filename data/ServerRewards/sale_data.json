@@ -1,0 +1,5738 @@
+{
+  "items": {
+    "hat.wolf": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wolf Headdress",
+        "enabled": false
+      }
+    },
+    "fogmachine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fogger-3000",
+        "enabled": false
+      }
+    },
+    "strobelight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Strobe Light",
+        "enabled": false
+      }
+    },
+    "kayak": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Kayak",
+        "enabled": false
+      }
+    },
+    "minihelicopter.repair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "MC repair",
+        "enabled": false
+      }
+    },
+    "scraptransportheli.repair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "ScrapTransportHeliRepair",
+        "enabled": false
+      }
+    },
+    "workcart": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Work Cart",
+        "enabled": false
+      }
+    },
+    "ammo.grenadelauncher.buckshot": {
+      "0": {
+        "price": 0.0,
+        "displayName": "40mm Shotgun Round",
+        "enabled": false
+      }
+    },
+    "ammo.grenadelauncher.he": {
+      "0": {
+        "price": 0.0,
+        "displayName": "40mm HE Grenade",
+        "enabled": false
+      }
+    },
+    "ammo.grenadelauncher.smoke": {
+      "0": {
+        "price": 0.0,
+        "displayName": "40mm Smoke Grenade",
+        "enabled": false
+      }
+    },
+    "arrow.hv": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Velocity Arrow",
+        "enabled": false
+      }
+    },
+    "arrow.wooden": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Arrow",
+        "enabled": false
+      }
+    },
+    "arrow.bone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Arrow",
+        "enabled": false
+      }
+    },
+    "arrow.fire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fire Arrow",
+        "enabled": false
+      }
+    },
+    "ammo.handmade.shell": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Handmade Shell",
+        "enabled": false
+      }
+    },
+    "ammo.nailgun.nails": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Nailgun Nails",
+        "enabled": false
+      }
+    },
+    "ammo.pistol": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pistol Bullet",
+        "enabled": false
+      }
+    },
+    "ammo.pistol.fire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Incendiary Pistol Bullet",
+        "enabled": false
+      }
+    },
+    "ammo.pistol.hv": {
+      "0": {
+        "price": 0.0,
+        "displayName": "HV Pistol Ammo",
+        "enabled": false
+      }
+    },
+    "ammo.rifle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "5.56 Rifle Ammo",
+        "enabled": false
+      }
+    },
+    "ammo.rifle.explosive": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Explosive 5.56 Rifle Ammo",
+        "enabled": false
+      }
+    },
+    "ammo.rifle.incendiary": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Incendiary 5.56 Rifle Ammo",
+        "enabled": false
+      }
+    },
+    "ammo.rifle.hv": {
+      "0": {
+        "price": 0.0,
+        "displayName": "HV 5.56 Rifle Ammo",
+        "enabled": false
+      }
+    },
+    "ammo.rocket.basic": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rocket",
+        "enabled": false
+      }
+    },
+    "ammo.rocket.fire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Incendiary Rocket",
+        "enabled": false
+      }
+    },
+    "ammo.rocket.hv": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Velocity Rocket",
+        "enabled": false
+      }
+    },
+    "ammo.rocket.smoke": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Smoke Rocket WIP!!!!",
+        "enabled": false
+      }
+    },
+    "ammo.shotgun": {
+      "0": {
+        "price": 0.0,
+        "displayName": "12 Gauge Buckshot",
+        "enabled": false
+      }
+    },
+    "ammo.shotgun.fire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "12 Gauge Incendiary Shell",
+        "enabled": false
+      }
+    },
+    "ammo.shotgun.slug": {
+      "0": {
+        "price": 0.0,
+        "displayName": "12 Gauge Slug",
+        "enabled": false
+      }
+    },
+    "door.double.hinged.metal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sheet Metal Double Door",
+        "enabled": false
+      }
+    },
+    "door.double.hinged.toptier": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Armored Double Door",
+        "enabled": false
+      }
+    },
+    "door.double.hinged.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Double Door",
+        "enabled": false
+      }
+    },
+    "door.hinged.metal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sheet Metal Door",
+        "enabled": false
+      },
+      "10189": {
+        "price": 0.0,
+        "displayName": "Industrial Door",
+        "enabled": false
+      }
+    },
+    "door.hinged.toptier": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Armored Door",
+        "enabled": false
+      }
+    },
+    "door.hinged.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Door",
+        "enabled": false
+      }
+    },
+    "floor.grill": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Floor grill",
+        "enabled": false
+      }
+    },
+    "floor.ladder.hatch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Ladder Hatch",
+        "enabled": false
+      }
+    },
+    "floor.triangle.grill": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Floor triangle grill",
+        "enabled": false
+      }
+    },
+    "floor.triangle.ladder.hatch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Triangle Ladder Hatch",
+        "enabled": false
+      }
+    },
+    "gates.external.high.stone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High External Stone Gate",
+        "enabled": false
+      }
+    },
+    "gates.external.high.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High External Wooden Gate",
+        "enabled": false
+      }
+    },
+    "ladder.wooden.wall": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Ladder",
+        "enabled": false
+      }
+    },
+    "wall.external.high.stone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High External Stone Wall",
+        "enabled": false
+      }
+    },
+    "wall.external.high": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High External Wooden Wall",
+        "enabled": false
+      }
+    },
+    "wall.frame.cell.gate": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Prison Cell Gate",
+        "enabled": false
+      }
+    },
+    "wall.frame.cell": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Prison Cell Wall",
+        "enabled": false
+      }
+    },
+    "wall.frame.fence.gate": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chainlink Fence Gate",
+        "enabled": false
+      }
+    },
+    "wall.frame.fence": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chainlink Fence",
+        "enabled": false
+      }
+    },
+    "wall.frame.garagedoor": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Garage Door",
+        "enabled": false
+      }
+    },
+    "wall.frame.netting": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Netting",
+        "enabled": false
+      }
+    },
+    "wall.frame.shopfront": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Shop Front",
+        "enabled": false
+      }
+    },
+    "wall.frame.shopfront.metal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Shop Front",
+        "enabled": false
+      }
+    },
+    "wall.window.bars.metal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Window Bars",
+        "enabled": false
+      }
+    },
+    "wall.window.bars.toptier": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Reinforced Glass Window",
+        "enabled": false
+      }
+    },
+    "wall.window.bars.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Window Bars",
+        "enabled": false
+      }
+    },
+    "shutter.metal.embrasure.a": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal horizontal embrasure",
+        "enabled": false
+      }
+    },
+    "shutter.metal.embrasure.b": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Vertical embrasure",
+        "enabled": false
+      }
+    },
+    "wall.window.glass.reinforced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Strengthened Glass Window",
+        "enabled": false
+      }
+    },
+    "shutter.wood.a": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Shutters",
+        "enabled": false
+      }
+    },
+    "watchtower.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Watch Tower",
+        "enabled": false
+      }
+    },
+    "diving.fins": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Diving Fins",
+        "enabled": false
+      }
+    },
+    "diving.mask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Diving Mask",
+        "enabled": false
+      }
+    },
+    "diving.tank": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Diving Tank",
+        "enabled": false
+      }
+    },
+    "diving.wetsuit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wetsuit",
+        "enabled": false
+      }
+    },
+    "boots.frog": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Frog Boots",
+        "enabled": false
+      }
+    },
+    "barrelcostume": {
+      "0": {
+        "price": 0.0,
+        "displayName": "A Barrel Costume",
+        "enabled": false
+      }
+    },
+    "cratecostume": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Crate Costume",
+        "enabled": false
+      }
+    },
+    "hat.gas.mask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gas Mask",
+        "enabled": false
+      }
+    },
+    "burlap.gloves.new": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burlap Gloves",
+        "enabled": false
+      }
+    },
+    "burlap.gloves": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Leather Gloves",
+        "enabled": false
+      },
+      "10128": {
+        "price": 0.0,
+        "displayName": "Boxer's Bandages",
+        "enabled": false
+      }
+    },
+    "roadsign.gloves": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Roadsign Gloves",
+        "enabled": false
+      }
+    },
+    "tactical.gloves": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tactical Gloves",
+        "enabled": false
+      }
+    },
+    "ghostsheet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Ghost Costume",
+        "enabled": false
+      }
+    },
+    "halloween.mummysuit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mummy Suit",
+        "enabled": false
+      }
+    },
+    "scarecrow.suit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scarecrow Suit",
+        "enabled": false
+      }
+    },
+    "scarecrowhead": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scarecrow Wrap",
+        "enabled": false
+      }
+    },
+    "attire.hide.helterneck": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Halterneck",
+        "enabled": false
+      }
+    },
+    "hat.beenie": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beenie Hat",
+        "enabled": false
+      },
+      "10016": {
+        "price": 0.0,
+        "displayName": "Red Beenie Hat",
+        "enabled": false
+      },
+      "10017": {
+        "price": 0.0,
+        "displayName": "Green Beenie Hat",
+        "enabled": false
+      },
+      "10018": {
+        "price": 0.0,
+        "displayName": "Blue Beenie Hat",
+        "enabled": false
+      },
+      "10040": {
+        "price": 0.0,
+        "displayName": "Rasta Beenie",
+        "enabled": false
+      },
+      "10085": {
+        "price": 0.0,
+        "displayName": "Winter Deers",
+        "enabled": false
+      },
+      "14180": {
+        "price": 0.0,
+        "displayName": "Black Beenie Hat",
+        "enabled": false
+      }
+    },
+    "hat.boonie": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Boonie Hat",
+        "enabled": false
+      },
+      "10058": {
+        "price": 0.0,
+        "displayName": "Farmer Hat",
+        "enabled": false
+      }
+    },
+    "bucket.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bucket Helmet",
+        "enabled": false
+      },
+      "10127": {
+        "price": 0.0,
+        "displayName": "Medic Helmet",
+        "enabled": false
+      }
+    },
+    "burlap.headwrap": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burlap Headwrap",
+        "enabled": false
+      }
+    },
+    "hat.candle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Candle Hat",
+        "enabled": false
+      }
+    },
+    "hat.cap": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Baseball Cap",
+        "enabled": false
+      },
+      "10026": {
+        "price": 0.0,
+        "displayName": "Grey Cap",
+        "enabled": false
+      },
+      "10027": {
+        "price": 0.0,
+        "displayName": "Forest Camo Cap",
+        "enabled": false
+      },
+      "10028": {
+        "price": 0.0,
+        "displayName": "Red Cap",
+        "enabled": false
+      },
+      "10029": {
+        "price": 0.0,
+        "displayName": "Blue Cap",
+        "enabled": false
+      },
+      "10030": {
+        "price": 0.0,
+        "displayName": "Green Cap",
+        "enabled": false
+      },
+      "10045": {
+        "price": 0.0,
+        "displayName": "Rescue Cap",
+        "enabled": false
+      },
+      "10055": {
+        "price": 0.0,
+        "displayName": "Friendly Cap",
+        "enabled": false
+      }
+    },
+    "clatter.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Clatter Helmet",
+        "enabled": false
+      }
+    },
+    "coffeecan.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Coffee Can Helmet",
+        "enabled": false
+      }
+    },
+    "deer.skull.mask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Helmet",
+        "enabled": false
+      }
+    },
+    "heavy.plate.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Heavy Plate Helmet",
+        "enabled": false
+      }
+    },
+    "hat.miner": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Miners Hat",
+        "enabled": false
+      }
+    },
+    "partyhat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Party Hat",
+        "enabled": false
+      }
+    },
+    "riot.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Riot Helmet",
+        "enabled": false
+      }
+    },
+    "wood.armor.helmet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Armor Helmet",
+        "enabled": false
+      }
+    },
+    "hoodie": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hoodie",
+        "enabled": false
+      },
+      "10052": {
+        "price": 0.0,
+        "displayName": "Bloody Hoodie",
+        "enabled": false
+      },
+      "10086": {
+        "price": 0.0,
+        "displayName": "Skeleton Hoodie",
+        "enabled": false
+      },
+      "10129": {
+        "price": 0.0,
+        "displayName": "Safety Crew",
+        "enabled": false
+      },
+      "10132": {
+        "price": 0.0,
+        "displayName": "Rhinocrunch Hoodie",
+        "enabled": false
+      },
+      "10133": {
+        "price": 0.0,
+        "displayName": "Cuda87 Hoodie",
+        "enabled": false
+      },
+      "10142": {
+        "price": 0.0,
+        "displayName": "BCHILLZ! Hoodie",
+        "enabled": false
+      },
+      "14072": {
+        "price": 0.0,
+        "displayName": "Green Hoodie",
+        "enabled": false
+      },
+      "14178": {
+        "price": 0.0,
+        "displayName": "Blue Hoodie",
+        "enabled": false
+      },
+      "14179": {
+        "price": 0.0,
+        "displayName": "Black Hoodie",
+        "enabled": false
+      }
+    },
+    "bone.armor.suit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Armor",
+        "enabled": false
+      }
+    },
+    "heavy.plate.jacket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Heavy Plate Jacket",
+        "enabled": false
+      }
+    },
+    "jacket.snow": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snow Jacket",
+        "enabled": false
+      },
+      "10112": {
+        "price": 0.0,
+        "displayName": "Woodland",
+        "enabled": false
+      },
+      "10113": {
+        "price": 0.0,
+        "displayName": "Black",
+        "enabled": false
+      }
+    },
+    "jacket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jacket",
+        "enabled": false
+      },
+      "10008": {
+        "price": 0.0,
+        "displayName": "Snowcamo Jacket",
+        "enabled": false
+      },
+      "10009": {
+        "price": 0.0,
+        "displayName": "Green Jacket",
+        "enabled": false
+      },
+      "10010": {
+        "price": 0.0,
+        "displayName": "Red Jacket",
+        "enabled": false
+      },
+      "10011": {
+        "price": 0.0,
+        "displayName": "Blue Jacket",
+        "enabled": false
+      },
+      "10012": {
+        "price": 0.0,
+        "displayName": "Desert Jacket",
+        "enabled": false
+      },
+      "10013": {
+        "price": 0.0,
+        "displayName": "Multicam Jacket",
+        "enabled": false
+      },
+      "10014": {
+        "price": 0.0,
+        "displayName": "Urban Camo Jacket",
+        "enabled": false
+      },
+      "10015": {
+        "price": 0.0,
+        "displayName": "Hunting Jacket",
+        "enabled": false
+      },
+      "10072": {
+        "price": 0.0,
+        "displayName": "Provocateur Jacket",
+        "enabled": false
+      }
+    },
+    "wood.armor.jacket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Chestplate",
+        "enabled": false
+      }
+    },
+    "mask.balaclava": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Improvised Balaclava",
+        "enabled": false
+      },
+      "10054": {
+        "price": 0.0,
+        "displayName": "Rorschach Skull",
+        "enabled": false
+      },
+      "10057": {
+        "price": 0.0,
+        "displayName": "Murica Balaclava",
+        "enabled": false
+      },
+      "10068": {
+        "price": 0.0,
+        "displayName": "Forest Camo Balaclava",
+        "enabled": false
+      },
+      "10069": {
+        "price": 0.0,
+        "displayName": "Desert Camo Balaclava",
+        "enabled": false
+      },
+      "10070": {
+        "price": 0.0,
+        "displayName": "Red Check Balaclava",
+        "enabled": false
+      },
+      "10071": {
+        "price": 0.0,
+        "displayName": "Double Yellow Balaclava",
+        "enabled": false
+      },
+      "10075": {
+        "price": 0.0,
+        "displayName": "Nightmare Balaclava",
+        "enabled": false
+      },
+      "10084": {
+        "price": 0.0,
+        "displayName": "The Rust Knight",
+        "enabled": false
+      },
+      "10090": {
+        "price": 0.0,
+        "displayName": "Skin Balaclava",
+        "enabled": false
+      },
+      "10111": {
+        "price": 0.0,
+        "displayName": "Zipper Face",
+        "enabled": false
+      },
+      "10139": {
+        "price": 0.0,
+        "displayName": "Valentine Balaclava",
+        "enabled": false
+      }
+    },
+    "mask.bandana": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bandana Mask",
+        "enabled": false
+      },
+      "10059": {
+        "price": 0.0,
+        "displayName": "Green Bandana",
+        "enabled": false
+      },
+      "10060": {
+        "price": 0.0,
+        "displayName": "Blue Bandana",
+        "enabled": false
+      },
+      "10061": {
+        "price": 0.0,
+        "displayName": "Black Bandana",
+        "enabled": false
+      },
+      "10062": {
+        "price": 0.0,
+        "displayName": "Snow Camo Bandana",
+        "enabled": false
+      },
+      "10063": {
+        "price": 0.0,
+        "displayName": "Forest Camo Bandana",
+        "enabled": false
+      },
+      "10064": {
+        "price": 0.0,
+        "displayName": "Skull Bandana",
+        "enabled": false
+      },
+      "10065": {
+        "price": 0.0,
+        "displayName": "Red Skull Bandana",
+        "enabled": false
+      },
+      "10066": {
+        "price": 0.0,
+        "displayName": "Desert Camo Bandana",
+        "enabled": false
+      },
+      "10067": {
+        "price": 0.0,
+        "displayName": "Checkered Bandana",
+        "enabled": false
+      },
+      "10079": {
+        "price": 0.0,
+        "displayName": "Wizard Bandana",
+        "enabled": false
+      },
+      "10104": {
+        "price": 0.0,
+        "displayName": "Creepy Clown Bandana",
+        "enabled": false
+      }
+    },
+    "metal.facemask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Facemask",
+        "enabled": false
+      }
+    },
+    "nightvisiongoggles": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Night Vision Goggles",
+        "enabled": false
+      }
+    },
+    "attire.ninja.suit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Ninja Suit",
+        "enabled": false
+      }
+    },
+    "burlap.trousers": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burlap Trousers",
+        "enabled": false
+      }
+    },
+    "heavy.plate.pants": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Heavy Plate Pants",
+        "enabled": false
+      }
+    },
+    "attire.hide.pants": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Pants",
+        "enabled": false
+      }
+    },
+    "roadsign.kilt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Road Sign Kilt",
+        "enabled": false
+      }
+    },
+    "pants.shorts": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Shorts",
+        "enabled": false
+      }
+    },
+    "wood.armor.pants": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Armor Pants",
+        "enabled": false
+      }
+    },
+    "pants": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pants",
+        "enabled": false
+      },
+      "10001": {
+        "price": 0.0,
+        "displayName": "Blue Jeans",
+        "enabled": false
+      },
+      "10019": {
+        "price": 0.0,
+        "displayName": "Forest Camo Pants",
+        "enabled": false
+      },
+      "10020": {
+        "price": 0.0,
+        "displayName": "Urban Camo Pants",
+        "enabled": false
+      },
+      "10021": {
+        "price": 0.0,
+        "displayName": "Snow Camo Pants",
+        "enabled": false
+      },
+      "10048": {
+        "price": 0.0,
+        "displayName": "Punk Rock Pants",
+        "enabled": false
+      },
+      "10049": {
+        "price": 0.0,
+        "displayName": "Blue Track Pants",
+        "enabled": false
+      },
+      "10078": {
+        "price": 0.0,
+        "displayName": "Old Prisoner Pants",
+        "enabled": false
+      }
+    },
+    "attire.hide.poncho": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Poncho",
+        "enabled": false
+      }
+    },
+    "burlap.shirt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burlap Shirt",
+        "enabled": false
+      },
+      "10136": {
+        "price": 0.0,
+        "displayName": "Pirate Vest & Shirt",
+        "enabled": false
+      }
+    },
+    "shirt.collared": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Shirt",
+        "enabled": false
+      }
+    },
+    "attire.hide.vest": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Vest",
+        "enabled": false
+      }
+    },
+    "shirt.tanktop": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tank Top",
+        "enabled": false
+      }
+    },
+    "shoes.boots": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Boots",
+        "enabled": false
+      },
+      "10022": {
+        "price": 0.0,
+        "displayName": "Tan Boots",
+        "enabled": false
+      },
+      "10023": {
+        "price": 0.0,
+        "displayName": "Black Boots",
+        "enabled": false
+      },
+      "10034": {
+        "price": 0.0,
+        "displayName": "Punk Boots",
+        "enabled": false
+      },
+      "10044": {
+        "price": 0.0,
+        "displayName": "Scavenged Sneaker Boots",
+        "enabled": false
+      },
+      "10080": {
+        "price": 0.0,
+        "displayName": "Army Boots",
+        "enabled": false
+      },
+      "10088": {
+        "price": 0.0,
+        "displayName": "Bloody Boots",
+        "enabled": false
+      }
+    },
+    "burlap.shoes": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burlap Shoes",
+        "enabled": false
+      }
+    },
+    "attire.hide.boots": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Boots",
+        "enabled": false
+      }
+    },
+    "attire.hide.skirt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hide Skirt",
+        "enabled": false
+      }
+    },
+    "attire.banditguard": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bandit Guard Gear",
+        "enabled": false
+      }
+    },
+    "hazmatsuit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hazmat Suit",
+        "enabled": false
+      },
+      "10180": {
+        "price": 0.0,
+        "displayName": "Spacesuit",
+        "enabled": false
+      }
+    },
+    "hazmatsuit_scientist": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scientist Suit",
+        "enabled": false
+      }
+    },
+    "hazmatsuit_scientist_peacekeeper": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scientist Suit",
+        "enabled": false
+      }
+    },
+    "hazmatsuit.spacesuit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Space Suit",
+        "enabled": false
+      }
+    },
+    "scientistsuit_heavy": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Heavy Scientist Suit",
+        "enabled": false
+      }
+    },
+    "jumpsuit.suit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jumpsuit",
+        "enabled": false
+      }
+    },
+    "tshirt.long": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Longsleeve T-Shirt",
+        "enabled": false
+      },
+      "10004": {
+        "price": 0.0,
+        "displayName": "Black Longsleeve T-Shirt",
+        "enabled": false
+      },
+      "10005": {
+        "price": 0.0,
+        "displayName": "Grey Longsleeve T-Shirt",
+        "enabled": false
+      },
+      "10006": {
+        "price": 0.0,
+        "displayName": "Orange Longsleeve T-Shirt",
+        "enabled": false
+      },
+      "10007": {
+        "price": 0.0,
+        "displayName": "Yellow Longsleeve T-Shirt",
+        "enabled": false
+      },
+      "10032": {
+        "price": 0.0,
+        "displayName": "Green Checkered Shirt",
+        "enabled": false
+      },
+      "10036": {
+        "price": 0.0,
+        "displayName": "Sign Painter",
+        "enabled": false
+      },
+      "10042": {
+        "price": 0.0,
+        "displayName": "Varsity Jacket",
+        "enabled": false
+      },
+      "10047": {
+        "price": 0.0,
+        "displayName": "Aztec Long T-Shirt",
+        "enabled": false
+      },
+      "10050": {
+        "price": 0.0,
+        "displayName": "Frankensteins Sweater",
+        "enabled": false
+      },
+      "10051": {
+        "price": 0.0,
+        "displayName": "Nightmare Sweater",
+        "enabled": false
+      },
+      "10106": {
+        "price": 0.0,
+        "displayName": "Creepy Jack",
+        "enabled": false
+      },
+      "10118": {
+        "price": 0.0,
+        "displayName": "Merry Reindeer",
+        "enabled": false
+      }
+    },
+    "tshirt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "T-Shirt",
+        "enabled": false
+      },
+      "101": {
+        "price": 0.0,
+        "displayName": "Red Tshirt",
+        "enabled": false
+      },
+      "10002": {
+        "price": 0.0,
+        "displayName": "Sandbox Game Shirt",
+        "enabled": false
+      },
+      "10003": {
+        "price": 0.0,
+        "displayName": "Black Tshirt",
+        "enabled": false
+      },
+      "10024": {
+        "price": 0.0,
+        "displayName": "German Tshirt",
+        "enabled": false
+      },
+      "10025": {
+        "price": 0.0,
+        "displayName": "Russia Tshirt",
+        "enabled": false
+      },
+      "10033": {
+        "price": 0.0,
+        "displayName": "Baseball Tshirt",
+        "enabled": false
+      },
+      "10035": {
+        "price": 0.0,
+        "displayName": "Hacker Valley Veteran",
+        "enabled": false
+      },
+      "10038": {
+        "price": 0.0,
+        "displayName": "Murderer T-Shirt",
+        "enabled": false
+      },
+      "10039": {
+        "price": 0.0,
+        "displayName": "Target Practice T-Shirt",
+        "enabled": false
+      },
+      "10041": {
+        "price": 0.0,
+        "displayName": "Skull & Bones TShirt",
+        "enabled": false
+      },
+      "10043": {
+        "price": 0.0,
+        "displayName": "Vyshyvanka Shirt",
+        "enabled": false
+      },
+      "10046": {
+        "price": 0.0,
+        "displayName": "Missing Textures TShirt",
+        "enabled": false
+      },
+      "10053": {
+        "price": 0.0,
+        "displayName": "Smile T-Shirt",
+        "enabled": false
+      },
+      "10130": {
+        "price": 0.0,
+        "displayName": "Argyle Scavenger",
+        "enabled": false
+      },
+      "10134": {
+        "price": 0.0,
+        "displayName": "Ser Winter TShirt",
+        "enabled": false
+      },
+      "14177": {
+        "price": 0.0,
+        "displayName": "Blue Tshirt",
+        "enabled": false
+      },
+      "14181": {
+        "price": 0.0,
+        "displayName": "Forest Camo Tshirt",
+        "enabled": false
+      },
+      "584379": {
+        "price": 0.0,
+        "displayName": "Urban Camo",
+        "enabled": false
+      }
+    },
+    "metal.plate.torso": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Chest Plate",
+        "enabled": false
+      }
+    },
+    "roadsign.jacket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Road Sign Jacket",
+        "enabled": false
+      }
+    },
+    "bleach": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bleach",
+        "enabled": false
+      }
+    },
+    "ducttape": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Duct Tape",
+        "enabled": false
+      }
+    },
+    "carburetor1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Quality Carburetor",
+        "enabled": false
+      }
+    },
+    "carburetor2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Quality Carburetor",
+        "enabled": false
+      }
+    },
+    "carburetor3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Carburetor",
+        "enabled": false
+      }
+    },
+    "crankshaft1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Quality Crankshaft",
+        "enabled": false
+      }
+    },
+    "crankshaft2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Quality Crankshaft",
+        "enabled": false
+      }
+    },
+    "crankshaft3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Crankshaft",
+        "enabled": false
+      }
+    },
+    "piston1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Quality Pistons",
+        "enabled": false
+      }
+    },
+    "piston2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Quality Pistons",
+        "enabled": false
+      }
+    },
+    "piston3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Pistons",
+        "enabled": false
+      }
+    },
+    "sparkplug1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Quality Spark Plugs",
+        "enabled": false
+      }
+    },
+    "sparkplug2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Quality Spark Plugs",
+        "enabled": false
+      }
+    },
+    "sparkplug3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Spark Plugs",
+        "enabled": false
+      }
+    },
+    "valve1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Quality Valves",
+        "enabled": false
+      }
+    },
+    "valve2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Quality Valves",
+        "enabled": false
+      }
+    },
+    "valve3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Valves",
+        "enabled": false
+      }
+    },
+    "fuse": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Electric Fuse",
+        "enabled": false
+      }
+    },
+    "gears": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gears",
+        "enabled": false
+      }
+    },
+    "glue": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Glue",
+        "enabled": false
+      }
+    },
+    "metalblade": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Blade",
+        "enabled": false
+      }
+    },
+    "metalpipe": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Pipe",
+        "enabled": false
+      }
+    },
+    "propanetank": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Empty Propane Tank",
+        "enabled": false
+      }
+    },
+    "roadsigns": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Road Signs",
+        "enabled": false
+      }
+    },
+    "rope": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rope",
+        "enabled": false
+      }
+    },
+    "sewingkit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sewing Kit",
+        "enabled": false
+      }
+    },
+    "sheetmetal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sheet Metal",
+        "enabled": false
+      }
+    },
+    "metalspring": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Spring",
+        "enabled": false
+      }
+    },
+    "sticks": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sticks",
+        "enabled": false
+      }
+    },
+    "tarp": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tarp",
+        "enabled": false
+      }
+    },
+    "techparts": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tech Trash",
+        "enabled": false
+      }
+    },
+    "riflebody": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rifle Body",
+        "enabled": false
+      }
+    },
+    "semibody": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Semi Automatic Body",
+        "enabled": false
+      }
+    },
+    "smgbody": {
+      "0": {
+        "price": 0.0,
+        "displayName": "SMG Body",
+        "enabled": false
+      }
+    },
+    "barricade.concrete": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Concrete Barricade",
+        "enabled": false
+      }
+    },
+    "barricade.wood.cover": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Barricade Cover",
+        "enabled": false
+      }
+    },
+    "barricade.metal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Barricade",
+        "enabled": false
+      }
+    },
+    "barricade.sandbags": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sandbag Barricade",
+        "enabled": false
+      }
+    },
+    "barricade.stone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stone Barricade",
+        "enabled": false
+      }
+    },
+    "barricade.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Barricade",
+        "enabled": false
+      }
+    },
+    "barricade.woodwire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Barbed Wooden Barricade",
+        "enabled": false
+      }
+    },
+    "bbq": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Barbeque",
+        "enabled": false
+      }
+    },
+    "trap.bear": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snap Trap",
+        "enabled": false
+      }
+    },
+    "bed": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bed",
+        "enabled": false
+      }
+    },
+    "campfire": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Camp Fire",
+        "enabled": false
+      }
+    },
+    "cardtable": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Card Table",
+        "enabled": false
+      }
+    },
+    "ceilinglight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Ceiling Light",
+        "enabled": false
+      }
+    },
+    "chair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chair",
+        "enabled": false
+      }
+    },
+    "composter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Composter",
+        "enabled": false
+      }
+    },
+    "computerstation": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Computer Station",
+        "enabled": false
+      }
+    },
+    "drone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Drone",
+        "enabled": false
+      }
+    },
+    "dropbox": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Drop Box",
+        "enabled": false
+      }
+    },
+    "elevator": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Elevator",
+        "enabled": false
+      }
+    },
+    "fireplace.stone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stone Fireplace",
+        "enabled": false
+      }
+    },
+    "firework.boomer.blue": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Boomer",
+        "enabled": false
+      }
+    },
+    "firework.boomer.champagne": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Champagne Boomer",
+        "enabled": false
+      }
+    },
+    "firework.boomer.green": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Boomer",
+        "enabled": false
+      }
+    },
+    "firework.boomer.orange": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Orange Boomer",
+        "enabled": false
+      }
+    },
+    "firework.boomer.red": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Boomer",
+        "enabled": false
+      }
+    },
+    "firework.boomer.violet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Violet Boomer",
+        "enabled": false
+      }
+    },
+    "firework.romancandle.blue": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Roman Candle",
+        "enabled": false
+      }
+    },
+    "firework.romancandle.green": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Roman Candle",
+        "enabled": false
+      }
+    },
+    "firework.romancandle.red": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Roman Candle",
+        "enabled": false
+      }
+    },
+    "firework.romancandle.violet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Violet Roman Candle",
+        "enabled": false
+      }
+    },
+    "firework.volcano": {
+      "0": {
+        "price": 0.0,
+        "displayName": "White Volcano Firework",
+        "enabled": false
+      }
+    },
+    "firework.volcano.red": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Volcano Firework",
+        "enabled": false
+      }
+    },
+    "firework.volcano.violet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Violet Volcano Firework",
+        "enabled": false
+      }
+    },
+    "spikes.floor": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Floor Spikes",
+        "enabled": false
+      }
+    },
+    "fridge": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fridge",
+        "enabled": false
+      }
+    },
+    "furnace.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Furnace",
+        "enabled": false
+      }
+    },
+    "furnace": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Furnace",
+        "enabled": false
+      }
+    },
+    "hitchtroughcombo": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hitch & Trough",
+        "enabled": false
+      }
+    },
+    "habrepair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hab Repair",
+        "enabled": false
+      }
+    },
+    "jackolantern.angry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jack O Lantern Angry",
+        "enabled": false
+      }
+    },
+    "jackolantern.happy": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jack O Lantern Happy",
+        "enabled": false
+      }
+    },
+    "trap.landmine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Land Mine",
+        "enabled": false
+      }
+    },
+    "lantern": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Lantern",
+        "enabled": false
+      }
+    },
+    "box.wooden.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Wood Box",
+        "enabled": false
+      },
+      "10122": {
+        "price": 0.0,
+        "displayName": "Christmas Storage",
+        "enabled": false
+      },
+      "10123": {
+        "price": 0.0,
+        "displayName": "First Aid Green",
+        "enabled": false
+      },
+      "10124": {
+        "price": 0.0,
+        "displayName": "Ammo Wooden Box",
+        "enabled": false
+      },
+      "10141": {
+        "price": 0.0,
+        "displayName": "Gun Box",
+        "enabled": false
+      }
+    },
+    "water.barrel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Barrel",
+        "enabled": false
+      }
+    },
+    "locker": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Locker",
+        "enabled": false
+      }
+    },
+    "mailbox": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mail Box",
+        "enabled": false
+      }
+    },
+    "mixingtable": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mixing Table",
+        "enabled": false
+      }
+    },
+    "modularcarlift": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Modular Car Lift",
+        "enabled": false
+      }
+    },
+    "mining.pumpjack": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pump Jack",
+        "enabled": false
+      }
+    },
+    "small.oil.refinery": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Oil Refinery",
+        "enabled": false
+      }
+    },
+    "planter.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Planter Box",
+        "enabled": false
+      }
+    },
+    "planter.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Planter Box",
+        "enabled": false
+      }
+    },
+    "electric.audioalarm": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Audio Alarm",
+        "enabled": false
+      }
+    },
+    "smart.alarm": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Smart Alarm",
+        "enabled": false
+      }
+    },
+    "smart.switch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Smart Switch",
+        "enabled": false
+      }
+    },
+    "storage.monitor": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Storage Monitor",
+        "enabled": false
+      }
+    },
+    "electric.battery.rechargable.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Rechargeable Battery",
+        "enabled": false
+      }
+    },
+    "electric.battery.rechargable.medium": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Rechargeable Battery",
+        "enabled": false
+      }
+    },
+    "electric.battery.rechargable.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Rechargeable Battery",
+        "enabled": false
+      }
+    },
+    "electric.button": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Button",
+        "enabled": false
+      }
+    },
+    "electric.counter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Counter",
+        "enabled": false
+      }
+    },
+    "electric.hbhfsensor": {
+      "0": {
+        "price": 0.0,
+        "displayName": "HBHF Sensor",
+        "enabled": false
+      }
+    },
+    "electric.laserdetector": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Laser Detector",
+        "enabled": false
+      }
+    },
+    "electric.pressurepad": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pressure Pad",
+        "enabled": false
+      }
+    },
+    "electric.doorcontroller": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Door Controller",
+        "enabled": false
+      }
+    },
+    "electric.heater": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Electric Heater",
+        "enabled": false
+      }
+    },
+    "fluid.combiner": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fluid Combiner",
+        "enabled": false
+      }
+    },
+    "fluid.splitter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fluid Splitter",
+        "enabled": false
+      }
+    },
+    "fluid.switch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fluid Switch & Pump",
+        "enabled": false
+      }
+    },
+    "electric.andswitch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "AND Switch",
+        "enabled": false
+      }
+    },
+    "electric.blocker": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blocker",
+        "enabled": false
+      }
+    },
+    "electrical.branch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Electrical Branch",
+        "enabled": false
+      }
+    },
+    "electrical.combiner": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Root Combiner",
+        "enabled": false
+      }
+    },
+    "electrical.memorycell": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Memory Cell",
+        "enabled": false
+      }
+    },
+    "electric.orswitch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "OR Switch",
+        "enabled": false
+      }
+    },
+    "electric.random.switch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "RAND Switch",
+        "enabled": false
+      }
+    },
+    "electric.rf.broadcaster": {
+      "0": {
+        "price": 0.0,
+        "displayName": "RF Broadcaster",
+        "enabled": false
+      }
+    },
+    "electric.rf.receiver": {
+      "0": {
+        "price": 0.0,
+        "displayName": "RF Receiver",
+        "enabled": false
+      }
+    },
+    "electric.xorswitch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "XOR Switch",
+        "enabled": false
+      }
+    },
+    "electric.fuelgenerator.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Generator",
+        "enabled": false
+      }
+    },
+    "electric.generator.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Test Generator",
+        "enabled": false
+      }
+    },
+    "electric.solarpanel.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Solar Panel",
+        "enabled": false
+      }
+    },
+    "electric.igniter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Igniter",
+        "enabled": false
+      }
+    },
+    "electric.flasherlight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flasher Light",
+        "enabled": false
+      }
+    },
+    "electric.simplelight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Simple Light",
+        "enabled": false
+      }
+    },
+    "electric.sirenlight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Siren Light",
+        "enabled": false
+      }
+    },
+    "powered.water.purifier": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Powered Water Purifier",
+        "enabled": false
+      }
+    },
+    "electric.switch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Switch",
+        "enabled": false
+      }
+    },
+    "electric.splitter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Splitter",
+        "enabled": false
+      }
+    },
+    "electric.sprinkler": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sprinkler",
+        "enabled": false
+      }
+    },
+    "electric.teslacoil": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tesla Coil",
+        "enabled": false
+      }
+    },
+    "electric.timer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Timer",
+        "enabled": false
+      }
+    },
+    "electric.cabletunnel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cable Tunnel",
+        "enabled": false
+      }
+    },
+    "waterpump": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Pump",
+        "enabled": false
+      }
+    },
+    "mining.quarry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mining Quarry",
+        "enabled": false
+      }
+    },
+    "target.reactive": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Reactive Target",
+        "enabled": false
+      }
+    },
+    "box.repair.bench": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Repair Bench",
+        "enabled": false
+      }
+    },
+    "research.table": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Research Table",
+        "enabled": false
+      }
+    },
+    "rug.bear": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rug Bear Skin",
+        "enabled": false
+      }
+    },
+    "rug": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rug",
+        "enabled": false
+      }
+    },
+    "searchlight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Search Light",
+        "enabled": false
+      }
+    },
+    "secretlabchair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Secret Lab Chair",
+        "enabled": false
+      }
+    },
+    "shelves": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Shelves",
+        "enabled": false
+      }
+    },
+    "sign.hanging.banner.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Banner Hanging",
+        "enabled": false
+      }
+    },
+    "sign.hanging": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Two Sided Hanging Sign",
+        "enabled": false
+      }
+    },
+    "sign.hanging.ornate": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Two Sided Ornate Hanging Sign",
+        "enabled": false
+      }
+    },
+    "sign.pictureframe.landscape": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Landscape Picture Frame",
+        "enabled": false
+      }
+    },
+    "sign.pictureframe.portrait": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Portrait Picture Frame",
+        "enabled": false
+      }
+    },
+    "sign.pictureframe.tall": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tall Picture Frame",
+        "enabled": false
+      }
+    },
+    "sign.pictureframe.xl": {
+      "0": {
+        "price": 0.0,
+        "displayName": "XL Picture Frame",
+        "enabled": false
+      }
+    },
+    "sign.pictureframe.xxl": {
+      "0": {
+        "price": 0.0,
+        "displayName": "XXL Picture Frame",
+        "enabled": false
+      }
+    },
+    "sign.pole.banner.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Banner on pole",
+        "enabled": false
+      }
+    },
+    "sign.post.double": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Double Sign Post",
+        "enabled": false
+      }
+    },
+    "sign.post.single": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Single Sign Post",
+        "enabled": false
+      }
+    },
+    "sign.post.town": {
+      "0": {
+        "price": 0.0,
+        "displayName": "One Sided Town Sign Post",
+        "enabled": false
+      }
+    },
+    "sign.post.town.roof": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Two Sided Town Sign Post",
+        "enabled": false
+      }
+    },
+    "sign.wooden.huge": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Huge Wooden Sign",
+        "enabled": false
+      }
+    },
+    "sign.wooden.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Wooden Sign",
+        "enabled": false
+      }
+    },
+    "sign.wooden.medium": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Wooden Sign",
+        "enabled": false
+      }
+    },
+    "sign.wooden.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Wooden Sign",
+        "enabled": false
+      }
+    },
+    "guntrap": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Shotgun Trap",
+        "enabled": false
+      }
+    },
+    "sleepingbag": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sleeping Bag",
+        "enabled": false
+      },
+      "10037": {
+        "price": 0.0,
+        "displayName": "Blue Plaid Sleeping Bag",
+        "enabled": false
+      },
+      "10076": {
+        "price": 0.0,
+        "displayName": "Wood Camo Sleeping Bag",
+        "enabled": false
+      },
+      "10077": {
+        "price": 0.0,
+        "displayName": "Tiger Crown Sleeping Bag",
+        "enabled": false
+      },
+      "10107": {
+        "price": 0.0,
+        "displayName": "Horror Bag",
+        "enabled": false
+      },
+      "10119": {
+        "price": 0.0,
+        "displayName": "Christmas Bag",
+        "enabled": false
+      },
+      "10121": {
+        "price": 0.0,
+        "displayName": "Aston Christmas",
+        "enabled": false
+      }
+    },
+    "stash.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Stash",
+        "enabled": false
+      }
+    },
+    "sofa": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sofa",
+        "enabled": false
+      }
+    },
+    "spinner.wheel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spinning wheel",
+        "enabled": false
+      }
+    },
+    "fishtrap.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Survival Fish Trap",
+        "enabled": false
+      }
+    },
+    "table": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Table",
+        "enabled": false
+      }
+    },
+    "workbench1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Work Bench Level 1",
+        "enabled": false
+      }
+    },
+    "workbench2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Work Bench Level 2",
+        "enabled": false
+      }
+    },
+    "workbench3": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Work Bench Level 3",
+        "enabled": false
+      }
+    },
+    "cupboard.tool": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tool Cupboard",
+        "enabled": false
+      }
+    },
+    "tunalight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tuna Can Lamp",
+        "enabled": false
+      }
+    },
+    "vending.machine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Vending Machine",
+        "enabled": false
+      }
+    },
+    "water.catcher.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Water Catcher",
+        "enabled": false
+      }
+    },
+    "water.catcher.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Water Catcher",
+        "enabled": false
+      }
+    },
+    "water.purifier": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Purifier",
+        "enabled": false
+      }
+    },
+    "generator.wind.scrap": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wind Turbine",
+        "enabled": false
+      }
+    },
+    "box.wooden": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood Storage Box",
+        "enabled": false
+      }
+    },
+    "apple": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Apple",
+        "enabled": false
+      }
+    },
+    "apple.spoiled": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rotten Apple",
+        "enabled": false
+      }
+    },
+    "black.raspberries": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Black Raspberries",
+        "enabled": false
+      }
+    },
+    "blueberries": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blueberries",
+        "enabled": false
+      }
+    },
+    "botabag": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bota Bag",
+        "enabled": false
+      }
+    },
+    "cactusflesh": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cactus Flesh",
+        "enabled": false
+      }
+    },
+    "can.beans": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Can of Beans",
+        "enabled": false
+      }
+    },
+    "can.tuna": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Can of Tuna",
+        "enabled": false
+      }
+    },
+    "chocholate": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chocolate Bar",
+        "enabled": false
+      }
+    },
+    "fish.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Fish",
+        "enabled": false
+      }
+    },
+    "fish.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Fish",
+        "enabled": false
+      }
+    },
+    "fish.minnows": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Minnows",
+        "enabled": false
+      }
+    },
+    "fish.troutsmall": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Trout",
+        "enabled": false
+      }
+    },
+    "granolabar": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Granola Bar",
+        "enabled": false
+      }
+    },
+    "chicken.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Chicken",
+        "enabled": false
+      }
+    },
+    "chicken.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Chicken",
+        "enabled": false
+      }
+    },
+    "chicken.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Chicken Breast",
+        "enabled": false
+      }
+    },
+    "chicken.spoiled": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spoiled Chicken",
+        "enabled": false
+      }
+    },
+    "deermeat.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Deer Meat",
+        "enabled": false
+      }
+    },
+    "deermeat.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Deer Meat",
+        "enabled": false
+      }
+    },
+    "deermeat.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Deer Meat",
+        "enabled": false
+      }
+    },
+    "horsemeat.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Horse Meat",
+        "enabled": false
+      }
+    },
+    "horsemeat.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Horse Meat",
+        "enabled": false
+      }
+    },
+    "horsemeat.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Horse Meat",
+        "enabled": false
+      }
+    },
+    "humanmeat.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Human Meat",
+        "enabled": false
+      }
+    },
+    "humanmeat.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Human Meat",
+        "enabled": false
+      }
+    },
+    "humanmeat.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Human Meat",
+        "enabled": false
+      }
+    },
+    "humanmeat.spoiled": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spoiled Human Meat",
+        "enabled": false
+      }
+    },
+    "bearmeat.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Bear Meat",
+        "enabled": false
+      }
+    },
+    "bearmeat.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Bear Meat",
+        "enabled": false
+      }
+    },
+    "bearmeat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Bear Meat",
+        "enabled": false
+      }
+    },
+    "wolfmeat.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Wolf Meat",
+        "enabled": false
+      }
+    },
+    "wolfmeat.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Wolf Meat",
+        "enabled": false
+      }
+    },
+    "wolfmeat.raw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Wolf Meat",
+        "enabled": false
+      }
+    },
+    "wolfmeat.spoiled": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spoiled Wolf Meat",
+        "enabled": false
+      }
+    },
+    "meat.pork.burned": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Burnt Pork",
+        "enabled": false
+      }
+    },
+    "meat.pork.cooked": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cooked Pork",
+        "enabled": false
+      }
+    },
+    "meat.boar": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Raw Pork",
+        "enabled": false
+      }
+    },
+    "mushroom": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mushroom",
+        "enabled": false
+      }
+    },
+    "jar.pickle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pickles",
+        "enabled": false
+      }
+    },
+    "smallwaterbottle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Water Bottle",
+        "enabled": false
+      }
+    },
+    "waterjug": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Jug",
+        "enabled": false
+      }
+    },
+    "fun.bass": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Shovel Bass",
+        "enabled": false
+      }
+    },
+    "fun.cowbell": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cowbell",
+        "enabled": false
+      }
+    },
+    "drumkit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Junkyard Drum Kit",
+        "enabled": false
+      }
+    },
+    "fun.flute": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pan Flute",
+        "enabled": false
+      }
+    },
+    "fun.guitar": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Acoustic Guitar",
+        "enabled": false
+      }
+    },
+    "fun.jerrycanguitar": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jerry Can Guitar",
+        "enabled": false
+      }
+    },
+    "piano": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wheelbarrow Piano",
+        "enabled": false
+      }
+    },
+    "fun.tambourine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Canbourine",
+        "enabled": false
+      }
+    },
+    "fun.trumpet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Plumber's Trumpet",
+        "enabled": false
+      }
+    },
+    "fun.tuba": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sousaphone",
+        "enabled": false
+      }
+    },
+    "xylophone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Xylobone",
+        "enabled": false
+      }
+    },
+    "car.key": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Car Key",
+        "enabled": false
+      }
+    },
+    "door.key": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Door Key",
+        "enabled": false
+      }
+    },
+    "lock.key": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Key Lock",
+        "enabled": false
+      }
+    },
+    "lock.code": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Code Lock",
+        "enabled": false
+      }
+    },
+    "blueprintbase": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blueprint",
+        "enabled": false
+      }
+    },
+    "chineselantern": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chinese Lantern",
+        "enabled": false
+      }
+    },
+    "dragondoorknocker": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Dragon Door Knocker",
+        "enabled": false
+      }
+    },
+    "hat.dragonmask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Dragon Mask",
+        "enabled": false
+      }
+    },
+    "newyeargong": {
+      "0": {
+        "price": 0.0,
+        "displayName": "New Year Gong",
+        "enabled": false
+      }
+    },
+    "hat.oxmask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Ox Mask",
+        "enabled": false
+      }
+    },
+    "hat.ratmask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rat Mask",
+        "enabled": false
+      }
+    },
+    "lunar.firecrackers": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Firecracker String",
+        "enabled": false
+      }
+    },
+    "arcade.machine.chippy": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chippy Arcade Game",
+        "enabled": false
+      }
+    },
+    "door.closer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Door Closer",
+        "enabled": false
+      }
+    },
+    "attire.bunnyears": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bunny Ears",
+        "enabled": false
+      }
+    },
+    "attire.bunny.onesie": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bunny Onesie",
+        "enabled": false
+      }
+    },
+    "hat.bunnyhat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bunny Hat",
+        "enabled": false
+      }
+    },
+    "easterdoorwreath": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Easter Door Wreath",
+        "enabled": false
+      }
+    },
+    "easterbasket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Egg Basket",
+        "enabled": false
+      }
+    },
+    "rustige_egg_a": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rustigé Egg - Red",
+        "enabled": false
+      }
+    },
+    "rustige_egg_b": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rustigé Egg - Blue",
+        "enabled": false
+      }
+    },
+    "rustige_egg_c": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rustigé Egg - Purple",
+        "enabled": false
+      }
+    },
+    "rustige_egg_d": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rustigé Egg - Ivory",
+        "enabled": false
+      }
+    },
+    "rustige_egg_e": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rustigé Egg - Green",
+        "enabled": false
+      }
+    },
+    "attire.nesthat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Nest Hat",
+        "enabled": false
+      }
+    },
+    "easter.bronzeegg": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bronze Egg",
+        "enabled": false
+      }
+    },
+    "easter.goldegg": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gold Egg",
+        "enabled": false
+      }
+    },
+    "easter.paintedeggs": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Painted Egg",
+        "enabled": false
+      }
+    },
+    "easter.silveregg": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Silver Egg",
+        "enabled": false
+      }
+    },
+    "halloween.candy": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Halloween Candy",
+        "enabled": false
+      }
+    },
+    "largecandles": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Candle Set",
+        "enabled": false
+      }
+    },
+    "smallcandles": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Candle Set",
+        "enabled": false
+      }
+    },
+    "coffin.storage": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Coffin",
+        "enabled": false
+      }
+    },
+    "cursedcauldron": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cursed Cauldron",
+        "enabled": false
+      }
+    },
+    "gravestone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gravestone",
+        "enabled": false
+      }
+    },
+    "woodcross": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Cross",
+        "enabled": false
+      }
+    },
+    "wall.graveyard.fence": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Graveyard Fence",
+        "enabled": false
+      }
+    },
+    "halloween.lootbag.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Loot Bag",
+        "enabled": false
+      }
+    },
+    "halloween.lootbag.medium": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Loot Bag",
+        "enabled": false
+      }
+    },
+    "halloween.lootbag.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Loot Bag",
+        "enabled": false
+      }
+    },
+    "pumpkinbasket": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pumpkin Bucket",
+        "enabled": false
+      }
+    },
+    "scarecrow": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scarecrow",
+        "enabled": false
+      }
+    },
+    "skullspikes.candles": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Spikes",
+        "enabled": false
+      }
+    },
+    "skullspikes.pumpkin": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Spikes",
+        "enabled": false
+      }
+    },
+    "skullspikes": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Spikes",
+        "enabled": false
+      },
+      "13050": {
+        "price": 0.0,
+        "displayName": "Candles",
+        "enabled": false
+      },
+      "13051": {
+        "price": 0.0,
+        "displayName": "Pumpkin",
+        "enabled": false
+      }
+    },
+    "skulldoorknocker": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Door Knocker",
+        "enabled": false
+      }
+    },
+    "skull_fire_pit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Fire Pit",
+        "enabled": false
+      }
+    },
+    "spiderweb": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spider Webs",
+        "enabled": false
+      }
+    },
+    "spookyspeaker": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spooky Speaker",
+        "enabled": false
+      }
+    },
+    "halloween.surgeonsuit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Surgeon Scrubs",
+        "enabled": false
+      }
+    },
+    "skull.trophy.jar": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Trophy",
+        "enabled": false
+      }
+    },
+    "skull.trophy.jar2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Trophy",
+        "enabled": false
+      }
+    },
+    "skull.trophy.table": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Trophy",
+        "enabled": false
+      }
+    },
+    "skull.trophy": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Skull Trophy",
+        "enabled": false
+      },
+      "13052": {
+        "price": 0.0,
+        "displayName": "Glass",
+        "enabled": false
+      },
+      "13053": {
+        "price": 0.0,
+        "displayName": "Glass 2",
+        "enabled": false
+      },
+      "13054": {
+        "price": 0.0,
+        "displayName": "Table",
+        "enabled": false
+      }
+    },
+    "movembermoustachecard": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Card Movember Moustache",
+        "enabled": false
+      }
+    },
+    "movembermoustache": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Movember Moustache",
+        "enabled": false
+      }
+    },
+    "note": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Note",
+        "enabled": false
+      }
+    },
+    "skull.human": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Human Skull",
+        "enabled": false
+      }
+    },
+    "abovegroundpool": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Above Ground Pool",
+        "enabled": false
+      }
+    },
+    "beachchair": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beach Chair",
+        "enabled": false
+      },
+      "13000": {
+        "price": 0.0,
+        "displayName": "Camo",
+        "enabled": false
+      },
+      "13001": {
+        "price": 0.0,
+        "displayName": "Flamingo",
+        "enabled": false
+      },
+      "13002": {
+        "price": 0.0,
+        "displayName": "Leaves",
+        "enabled": false
+      },
+      "13003": {
+        "price": 0.0,
+        "displayName": "Pizza",
+        "enabled": false
+      },
+      "13004": {
+        "price": 0.0,
+        "displayName": "Target",
+        "enabled": false
+      },
+      "13005": {
+        "price": 0.0,
+        "displayName": "Tarp",
+        "enabled": false
+      },
+      "13006": {
+        "price": 0.0,
+        "displayName": "ZenLabs",
+        "enabled": false
+      }
+    },
+    "beachparasol": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beach Parasol",
+        "enabled": false
+      },
+      "13007": {
+        "price": 0.0,
+        "displayName": "Camo",
+        "enabled": false
+      },
+      "13008": {
+        "price": 0.0,
+        "displayName": "Flamingo",
+        "enabled": false
+      },
+      "13009": {
+        "price": 0.0,
+        "displayName": "Leaves",
+        "enabled": false
+      },
+      "13010": {
+        "price": 0.0,
+        "displayName": "Pizza",
+        "enabled": false
+      },
+      "13011": {
+        "price": 0.0,
+        "displayName": "Target",
+        "enabled": false
+      },
+      "13012": {
+        "price": 0.0,
+        "displayName": "Tarp",
+        "enabled": false
+      },
+      "13013": {
+        "price": 0.0,
+        "displayName": "ZenLabs",
+        "enabled": false
+      }
+    },
+    "beachtable": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beach Table",
+        "enabled": false
+      }
+    },
+    "beachtowel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beach Towel",
+        "enabled": false
+      },
+      "13014": {
+        "price": 0.0,
+        "displayName": "Brown Stripes",
+        "enabled": false
+      },
+      "13015": {
+        "price": 0.0,
+        "displayName": "Brown Stripes",
+        "enabled": false
+      },
+      "13016": {
+        "price": 0.0,
+        "displayName": "Dyed",
+        "enabled": false
+      },
+      "13017": {
+        "price": 0.0,
+        "displayName": "Fish",
+        "enabled": false
+      },
+      "13018": {
+        "price": 0.0,
+        "displayName": "Shell",
+        "enabled": false
+      },
+      "13019": {
+        "price": 0.0,
+        "displayName": "Stripes",
+        "enabled": false
+      },
+      "13020": {
+        "price": 0.0,
+        "displayName": "Waves",
+        "enabled": false
+      }
+    },
+    "boogieboard": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Boogie Board",
+        "enabled": false
+      },
+      "13021": {
+        "price": 0.0,
+        "displayName": "Corrugated",
+        "enabled": false
+      },
+      "13022": {
+        "price": 0.0,
+        "displayName": "Crash Test",
+        "enabled": false
+      },
+      "13023": {
+        "price": 0.0,
+        "displayName": "Flames",
+        "enabled": false
+      },
+      "13024": {
+        "price": 0.0,
+        "displayName": "Marbled",
+        "enabled": false
+      },
+      "13025": {
+        "price": 0.0,
+        "displayName": "Shark",
+        "enabled": false
+      },
+      "13026": {
+        "price": 0.0,
+        "displayName": "Stars",
+        "enabled": false
+      }
+    },
+    "innertube": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Inner Tube",
+        "enabled": false
+      },
+      "13027": {
+        "price": 0.0,
+        "displayName": "Camo",
+        "enabled": false
+      },
+      "13028": {
+        "price": 0.0,
+        "displayName": "Donut",
+        "enabled": false
+      },
+      "13029": {
+        "price": 0.0,
+        "displayName": "Horse",
+        "enabled": false
+      },
+      "13030": {
+        "price": 0.0,
+        "displayName": "Tire",
+        "enabled": false
+      },
+      "13031": {
+        "price": 0.0,
+        "displayName": "Unicorn",
+        "enabled": false
+      },
+      "13032": {
+        "price": 0.0,
+        "displayName": "Watermelon",
+        "enabled": false
+      },
+      "13033": {
+        "price": 0.0,
+        "displayName": "Zebra",
+        "enabled": false
+      }
+    },
+    "innertube.horse": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Inner Tube",
+        "enabled": false
+      }
+    },
+    "innertube.unicorn": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Inner Tube",
+        "enabled": false
+      }
+    },
+    "tool.instant_camera": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Instant Camera",
+        "enabled": false
+      }
+    },
+    "paddlingpool": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Paddling Pool",
+        "enabled": false
+      },
+      "13034": {
+        "price": 0.0,
+        "displayName": "Hot Tub",
+        "enabled": false
+      },
+      "13035": {
+        "price": 0.0,
+        "displayName": "Rainbow",
+        "enabled": false
+      },
+      "13036": {
+        "price": 0.0,
+        "displayName": "Sea Scape",
+        "enabled": false
+      },
+      "13037": {
+        "price": 0.0,
+        "displayName": "Spawn Pool",
+        "enabled": false
+      }
+    },
+    "photo": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Photograph",
+        "enabled": false
+      }
+    },
+    "photoframe.landscape": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Landscape Photo Frame",
+        "enabled": false
+      }
+    },
+    "photoframe.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Photo Frame",
+        "enabled": false
+      }
+    },
+    "photoframe.portrait": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Portrait Photo Frame",
+        "enabled": false
+      }
+    },
+    "sunglasses02black": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses02camo": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses02red": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses03black": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses03chrome": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses03gold": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      }
+    },
+    "sunglasses": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sunglasses",
+        "enabled": false
+      },
+      "13038": {
+        "price": 0.0,
+        "displayName": "Chalk",
+        "enabled": false
+      },
+      "13039": {
+        "price": 0.0,
+        "displayName": "Tortoise",
+        "enabled": false
+      },
+      "13040": {
+        "price": 0.0,
+        "displayName": "Black Style 2",
+        "enabled": false
+      },
+      "13041": {
+        "price": 0.0,
+        "displayName": "Camo",
+        "enabled": false
+      },
+      "13042": {
+        "price": 0.0,
+        "displayName": "Red",
+        "enabled": false
+      },
+      "13043": {
+        "price": 0.0,
+        "displayName": "Black Style 3",
+        "enabled": false
+      },
+      "13044": {
+        "price": 0.0,
+        "displayName": "Chrome",
+        "enabled": false
+      },
+      "13045": {
+        "price": 0.0,
+        "displayName": "Gold",
+        "enabled": false
+      }
+    },
+    "gun.water": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Gun",
+        "enabled": false
+      },
+      "13046": {
+        "price": 0.0,
+        "displayName": "Green",
+        "enabled": false
+      },
+      "13047": {
+        "price": 0.0,
+        "displayName": "Grey",
+        "enabled": false
+      },
+      "13048": {
+        "price": 0.0,
+        "displayName": "Orange",
+        "enabled": false
+      },
+      "13049": {
+        "price": 0.0,
+        "displayName": "Yellow",
+        "enabled": false
+      }
+    },
+    "pistol.water": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Pistol",
+        "enabled": false
+      }
+    },
+    "twitchsunglasses": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Purple Sunglasses",
+        "enabled": false
+      }
+    },
+    "twitch.headset": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Headset",
+        "enabled": false
+      },
+      "13055": {
+        "price": 0.0,
+        "displayName": "Purple Headset",
+        "enabled": false
+      }
+    },
+    "hobobarrel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hobo Barrel",
+        "enabled": false
+      }
+    },
+    "door.hinged.industrial.a": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Industrial Door",
+        "enabled": false
+      }
+    },
+    "candycaneclub": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Candy Cane Club",
+        "enabled": false
+      }
+    },
+    "xmas.lightstring": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Christmas Lights",
+        "enabled": false
+      }
+    },
+    "xmas.door.garland": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Festive Doorway Garland",
+        "enabled": false
+      }
+    },
+    "candycane": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Candy Cane",
+        "enabled": false
+      }
+    },
+    "giantcandycanedecor": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Giant Candy Decor",
+        "enabled": false
+      }
+    },
+    "wall.ice.wall": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Short Ice Wall",
+        "enabled": false
+      }
+    },
+    "wall.external.high.ice": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Ice Wall",
+        "enabled": false
+      }
+    },
+    "giantlollipops": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Giant Lollipop Decor",
+        "enabled": false
+      }
+    },
+    "sign.neon.125x125": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Neon Sign",
+        "enabled": false
+      }
+    },
+    "sign.neon.125x215.animated": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Animated Neon Sign",
+        "enabled": false
+      }
+    },
+    "sign.neon.125x215": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Neon Sign",
+        "enabled": false
+      }
+    },
+    "sign.neon.xl.animated": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Animated Neon Sign",
+        "enabled": false
+      }
+    },
+    "sign.neon.xl": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Neon Sign",
+        "enabled": false
+      }
+    },
+    "pookie.bear": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pookie Bear",
+        "enabled": false
+      }
+    },
+    "xmas.lightstring.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Deluxe Christmas Lights",
+        "enabled": false
+      }
+    },
+    "coal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Coal :(",
+        "enabled": false
+      }
+    },
+    "xmas.present.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Present",
+        "enabled": false
+      }
+    },
+    "xmas.present.medium": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Present",
+        "enabled": false
+      }
+    },
+    "xmas.present.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Present",
+        "enabled": false
+      }
+    },
+    "sled.xmas": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sled",
+        "enabled": false
+      }
+    },
+    "sled": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sled",
+        "enabled": false
+      },
+      "13056": {
+        "price": 0.0,
+        "displayName": "",
+        "enabled": false
+      }
+    },
+    "snowmachine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snow Machine",
+        "enabled": false
+      }
+    },
+    "snowball": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snowball",
+        "enabled": false
+      }
+    },
+    "ammo.snowballgun": {
+      "0": {
+        "price": 0.0,
+        "displayName": "",
+        "enabled": false
+      }
+    },
+    "snowballgun": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snowball Gun",
+        "enabled": false
+      }
+    },
+    "snowman": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Snowman",
+        "enabled": false
+      }
+    },
+    "stocking.large": {
+      "0": {
+        "price": 0.0,
+        "displayName": "SUPER Stocking",
+        "enabled": false
+      }
+    },
+    "stocking.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Stocking",
+        "enabled": false
+      }
+    },
+    "attire.reindeer.headband": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Reindeer Antlers",
+        "enabled": false
+      }
+    },
+    "santabeard": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Santa Beard",
+        "enabled": false
+      }
+    },
+    "santahat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Santa Hat",
+        "enabled": false
+      }
+    },
+    "xmas.window.garland": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Festive Window Garland",
+        "enabled": false
+      }
+    },
+    "wrappedgift": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wrapped Gift",
+        "enabled": false
+      }
+    },
+    "wrappingpaper": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wrapping Paper",
+        "enabled": false
+      }
+    },
+    "xmasdoorwreath": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Christmas Door Wreath",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.baubels": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Decorative Baubels",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.candycanes": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Decorative Plastic Candy Canes",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.gingerbreadmen": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Decorative Gingerbread Men",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.lights": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Tree Lights",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.pinecone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Decorative Pinecones",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.star": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Star Tree Topper",
+        "enabled": false
+      }
+    },
+    "xmas.decoration.tinsel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Decorative Tinsel",
+        "enabled": false
+      }
+    },
+    "xmas.tree": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Christmas Tree",
+        "enabled": false
+      }
+    },
+    "autoturret": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Auto Turret",
+        "enabled": false
+      }
+    },
+    "flameturret": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flame Turret",
+        "enabled": false
+      }
+    },
+    "gloweyes": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Glowing Eyes",
+        "enabled": false
+      }
+    },
+    "ammo.rocket.sam": {
+      "0": {
+        "price": 0.0,
+        "displayName": "SAM Ammo",
+        "enabled": false
+      }
+    },
+    "samsite": {
+      "0": {
+        "price": 0.0,
+        "displayName": "SAM Site",
+        "enabled": false
+      }
+    },
+    "black.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Black Berry",
+        "enabled": false
+      }
+    },
+    "clone.black.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Black Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.black.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Black Berry Seed",
+        "enabled": false
+      }
+    },
+    "blue.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Berry",
+        "enabled": false
+      }
+    },
+    "clone.blue.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.blue.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Berry Seed",
+        "enabled": false
+      }
+    },
+    "green.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Berry",
+        "enabled": false
+      }
+    },
+    "clone.green.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.green.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Berry Seed",
+        "enabled": false
+      }
+    },
+    "red.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Berry",
+        "enabled": false
+      }
+    },
+    "clone.red.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.red.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Berry Seed",
+        "enabled": false
+      }
+    },
+    "white.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "White Berry",
+        "enabled": false
+      }
+    },
+    "clone.white.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "White Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.white.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "White Berry Seed",
+        "enabled": false
+      }
+    },
+    "yellow.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Yellow Berry",
+        "enabled": false
+      }
+    },
+    "clone.yellow.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Yellow Berry Clone",
+        "enabled": false
+      }
+    },
+    "seed.yellow.berry": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Yellow Berry Seed",
+        "enabled": false
+      }
+    },
+    "corn": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Corn",
+        "enabled": false
+      }
+    },
+    "clone.corn": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Corn Clone",
+        "enabled": false
+      }
+    },
+    "seed.corn": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Corn Seed",
+        "enabled": false
+      }
+    },
+    "clone.hemp": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hemp Clone",
+        "enabled": false
+      }
+    },
+    "seed.hemp": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hemp Seed",
+        "enabled": false
+      }
+    },
+    "potato": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Potato",
+        "enabled": false
+      }
+    },
+    "clone.potato": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Potato Clone",
+        "enabled": false
+      }
+    },
+    "seed.potato": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Potato Seed",
+        "enabled": false
+      }
+    },
+    "pumpkin": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pumpkin",
+        "enabled": false
+      }
+    },
+    "clone.pumpkin": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pumpkin Plant Clone",
+        "enabled": false
+      }
+    },
+    "seed.pumpkin": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pumpkin Seed",
+        "enabled": false
+      }
+    },
+    "fat.animal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Animal Fat",
+        "enabled": false
+      }
+    },
+    "battery.small": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Battery - Small",
+        "enabled": false
+      }
+    },
+    "blood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blood",
+        "enabled": false
+      }
+    },
+    "bone.fragments": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Fragments",
+        "enabled": false
+      }
+    },
+    "cctv.camera": {
+      "0": {
+        "price": 0.0,
+        "displayName": "CCTV Camera",
+        "enabled": false
+      }
+    },
+    "charcoal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Charcoal",
+        "enabled": false
+      }
+    },
+    "cloth": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cloth",
+        "enabled": false
+      }
+    },
+    "crude.oil": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Crude Oil",
+        "enabled": false
+      }
+    },
+    "diesel_barrel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Diesel Fuel",
+        "enabled": false
+      }
+    },
+    "can.beans.empty": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Empty Can Of Beans",
+        "enabled": false
+      }
+    },
+    "can.tuna.empty": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Empty Tuna Can",
+        "enabled": false
+      }
+    },
+    "explosives": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Explosives",
+        "enabled": false
+      }
+    },
+    "fertilizer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fertilizer",
+        "enabled": false
+      }
+    },
+    "gunpowder": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gun Powder",
+        "enabled": false
+      }
+    },
+    "horsedung": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Horse Dung",
+        "enabled": false
+      }
+    },
+    "hq.metal.ore": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Metal Ore",
+        "enabled": false
+      }
+    },
+    "metal.refined": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Metal",
+        "enabled": false
+      }
+    },
+    "leather": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Leather",
+        "enabled": false
+      }
+    },
+    "lowgradefuel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Low Grade Fuel",
+        "enabled": false
+      }
+    },
+    "metal.fragments": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Fragments",
+        "enabled": false
+      }
+    },
+    "metal.ore": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Metal Ore",
+        "enabled": false
+      }
+    },
+    "paper": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Paper",
+        "enabled": false
+      }
+    },
+    "plantfiber": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Plant Fiber",
+        "enabled": false
+      }
+    },
+    "researchpaper": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Research Paper",
+        "enabled": false
+      }
+    },
+    "water.salt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salt Water",
+        "enabled": false
+      }
+    },
+    "scrap": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Scrap",
+        "enabled": false
+      }
+    },
+    "stones": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stones",
+        "enabled": false
+      }
+    },
+    "sulfur.ore": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sulfur Ore",
+        "enabled": false
+      }
+    },
+    "sulfur": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sulfur",
+        "enabled": false
+      }
+    },
+    "targeting.computer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Targeting Computer",
+        "enabled": false
+      }
+    },
+    "water": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water",
+        "enabled": false
+      }
+    },
+    "skull.wolf": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wolf Skull",
+        "enabled": false
+      }
+    },
+    "wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wood",
+        "enabled": false
+      }
+    },
+    "healingtea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Healing Tea",
+        "enabled": false
+      }
+    },
+    "healingtea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Healing Tea",
+        "enabled": false
+      }
+    },
+    "healingtea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Healing Tea",
+        "enabled": false
+      }
+    },
+    "maxhealthtea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Max Health Tea",
+        "enabled": false
+      }
+    },
+    "maxhealthtea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Max Health Tea",
+        "enabled": false
+      }
+    },
+    "maxhealthtea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Max Health Tea",
+        "enabled": false
+      }
+    },
+    "oretea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Ore Tea",
+        "enabled": false
+      }
+    },
+    "oretea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Ore Tea",
+        "enabled": false
+      }
+    },
+    "oretea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Ore Tea",
+        "enabled": false
+      }
+    },
+    "radiationremovetea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Rad. Removal Tea",
+        "enabled": false
+      }
+    },
+    "radiationremovetea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rad. Removal Tea",
+        "enabled": false
+      }
+    },
+    "radiationremovetea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Rad. Removal Tea",
+        "enabled": false
+      }
+    },
+    "radiationresisttea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Adv. Anti-Rad Tea",
+        "enabled": false
+      }
+    },
+    "radiationresisttea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Anti-Rad Tea",
+        "enabled": false
+      }
+    },
+    "radiationresisttea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Anti-Rad Tea",
+        "enabled": false
+      }
+    },
+    "scraptea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Scrap Tea",
+        "enabled": false
+      }
+    },
+    "scraptea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Scrap Tea",
+        "enabled": false
+      }
+    },
+    "scraptea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Scrap Tea",
+        "enabled": false
+      }
+    },
+    "woodtea.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Advanced Wood Tea",
+        "enabled": false
+      }
+    },
+    "woodtea": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Wood Tea",
+        "enabled": false
+      }
+    },
+    "woodtea.pure": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pure Wood Tea",
+        "enabled": false
+      }
+    },
+    "antiradpills": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Anti-Radiation Pills",
+        "enabled": false
+      }
+    },
+    "tool.binoculars": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Binoculars",
+        "enabled": false
+      }
+    },
+    "explosive.timed": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Timed Explosive Charge",
+        "enabled": false
+      }
+    },
+    "tool.camera": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Camera",
+        "enabled": false
+      }
+    },
+    "rf.detonator": {
+      "0": {
+        "price": 0.0,
+        "displayName": "RF Transmitter",
+        "enabled": false
+      }
+    },
+    "fishingrod.handmade": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Handmade Fishing Rod",
+        "enabled": false
+      }
+    },
+    "flare": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flare",
+        "enabled": false
+      }
+    },
+    "flashlight.held": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flashlight",
+        "enabled": false
+      }
+    },
+    "geiger.counter": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Geiger Counter",
+        "enabled": false
+      }
+    },
+    "hosetool": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hose Tool",
+        "enabled": false
+      }
+    },
+    "jackhammer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jackhammer",
+        "enabled": false
+      }
+    },
+    "keycard_blue": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Blue Keycard",
+        "enabled": false
+      }
+    },
+    "keycard_green": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Green Keycard",
+        "enabled": false
+      }
+    },
+    "keycard_red": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Red Keycard",
+        "enabled": false
+      }
+    },
+    "largemedkit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Medkit",
+        "enabled": false
+      }
+    },
+    "map": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Paper Map",
+        "enabled": false
+      }
+    },
+    "syringe.medical": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medical Syringe",
+        "enabled": false
+      }
+    },
+    "rf_pager": {
+      "0": {
+        "price": 0.0,
+        "displayName": "RF Pager",
+        "enabled": false
+      }
+    },
+    "building.planner": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Building Plan",
+        "enabled": false
+      }
+    },
+    "grenade.smoke": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Smoke Grenade",
+        "enabled": false
+      }
+    },
+    "supply.signal": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Supply Signal",
+        "enabled": false
+      }
+    },
+    "surveycharge": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Survey Charge",
+        "enabled": false
+      }
+    },
+    "wiretool": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wire Tool",
+        "enabled": false
+      }
+    },
+    "vehicle.chassis.2mod": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Small Chassis",
+        "enabled": false
+      }
+    },
+    "vehicle.chassis.3mod": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Medium Chassis",
+        "enabled": false
+      }
+    },
+    "vehicle.chassis.4mod": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Chassis",
+        "enabled": false
+      }
+    },
+    "vehicle.chassis": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Generic vehicle chassis",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.cockpit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cockpit Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.cockpit.armored": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Armored Cockpit Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.cockpit.with.engine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Cockpit With Engine Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.engine": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Engine Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.flatbed": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flatbed Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.passengers.armored": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Armored Passenger Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.rear.seats": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rear Seats Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.storage": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Storage Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.1mod.taxi": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Taxi Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.2mod.flatbed": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Large Flatbed Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.2mod.fuel.tank": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Fuel Tank Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.2mod.passengers": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Passenger Vehicle Module",
+        "enabled": false
+      }
+    },
+    "vehicle.module": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Generic vehicle module",
+        "enabled": false
+      }
+    },
+    "telephone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Telephone",
+        "enabled": false
+      }
+    },
+    "weapon.mod.8x.scope": {
+      "0": {
+        "price": 0.0,
+        "displayName": "16x Zoom Scope",
+        "enabled": false
+      }
+    },
+    "weapon.mod.flashlight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Weapon flashlight",
+        "enabled": false
+      }
+    },
+    "weapon.mod.holosight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Holosight",
+        "enabled": false
+      }
+    },
+    "weapon.mod.lasersight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Weapon Lasersight",
+        "enabled": false
+      }
+    },
+    "weapon.mod.muzzleboost": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Muzzle Boost",
+        "enabled": false
+      }
+    },
+    "weapon.mod.muzzlebrake": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Muzzle Brake",
+        "enabled": false
+      }
+    },
+    "weapon.mod.simplesight": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Simple Handmade Sight",
+        "enabled": false
+      }
+    },
+    "weapon.mod.silencer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Silencer",
+        "enabled": false
+      }
+    },
+    "weapon.mod.small.scope": {
+      "0": {
+        "price": 0.0,
+        "displayName": "8x Zoom Scope",
+        "enabled": false
+      }
+    },
+    "rifle.ak": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Assault Rifle",
+        "enabled": false
+      },
+      "10135": {
+        "price": 0.0,
+        "displayName": "Digital Camo AK47",
+        "enabled": false
+      },
+      "10137": {
+        "price": 0.0,
+        "displayName": "Military Camo AK47",
+        "enabled": false
+      },
+      "10138": {
+        "price": 0.0,
+        "displayName": "Tempered AK47",
+        "enabled": false
+      }
+    },
+    "bandage": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bandage",
+        "enabled": false
+      }
+    },
+    "grenade.beancan": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Beancan Grenade",
+        "enabled": false
+      }
+    },
+    "rifle.bolt": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bolt Action Rifle",
+        "enabled": false
+      },
+      "10115": {
+        "price": 0.0,
+        "displayName": "Ghost Bolt Rifle",
+        "enabled": false
+      },
+      "10116": {
+        "price": 0.0,
+        "displayName": "Tundra Bolt Rifle",
+        "enabled": false
+      },
+      "10117": {
+        "price": 0.0,
+        "displayName": "Dreamcatcher",
+        "enabled": false
+      }
+    },
+    "bone.club": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Club",
+        "enabled": false
+      }
+    },
+    "knife.bone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Bone Knife",
+        "enabled": false
+      }
+    },
+    "bow.hunting": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hunting Bow",
+        "enabled": false
+      }
+    },
+    "cakefiveyear": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Birthday Cake",
+        "enabled": false
+      }
+    },
+    "chainsaw": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Chainsaw",
+        "enabled": false
+      }
+    },
+    "salvaged.cleaver": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Cleaver",
+        "enabled": false
+      }
+    },
+    "bow.compound": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Compound Bow",
+        "enabled": false
+      }
+    },
+    "crossbow": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Crossbow",
+        "enabled": false
+      }
+    },
+    "shotgun.double": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Double Barrel Shotgun",
+        "enabled": false
+      }
+    },
+    "pistol.eoka": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Eoka Pistol",
+        "enabled": false
+      }
+    },
+    "grenade.f1": {
+      "0": {
+        "price": 0.0,
+        "displayName": "F1 Grenade",
+        "enabled": false
+      }
+    },
+    "flamethrower": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Flame Thrower",
+        "enabled": false
+      }
+    },
+    "multiplegrenadelauncher": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Multiple Grenade Launcher",
+        "enabled": false
+      }
+    },
+    "knife.butcher": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Butcher Knife",
+        "enabled": false
+      }
+    },
+    "pitchfork": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pitchfork",
+        "enabled": false
+      }
+    },
+    "sickle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Sickle",
+        "enabled": false
+      }
+    },
+    "hammer": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hammer",
+        "enabled": false
+      }
+    },
+    "hatchet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Hatchet",
+        "enabled": false
+      }
+    },
+    "knife.combat": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Combat Knife",
+        "enabled": false
+      }
+    },
+    "rifle.l96": {
+      "0": {
+        "price": 0.0,
+        "displayName": "L96 Rifle",
+        "enabled": false
+      }
+    },
+    "rifle.lr300": {
+      "0": {
+        "price": 0.0,
+        "displayName": "LR-300 Assault Rifle",
+        "enabled": false
+      }
+    },
+    "lmg.m249": {
+      "0": {
+        "price": 0.0,
+        "displayName": "M249",
+        "enabled": false
+      }
+    },
+    "rifle.m39": {
+      "0": {
+        "price": 0.0,
+        "displayName": "M39 Rifle",
+        "enabled": false
+      }
+    },
+    "pistol.m92": {
+      "0": {
+        "price": 0.0,
+        "displayName": "M92 Pistol",
+        "enabled": false
+      }
+    },
+    "mace": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Mace",
+        "enabled": false
+      }
+    },
+    "machete": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Machete",
+        "enabled": false
+      }
+    },
+    "smg.mp5": {
+      "0": {
+        "price": 0.0,
+        "displayName": "MP5A4",
+        "enabled": false
+      }
+    },
+    "pistol.nailgun": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Nailgun",
+        "enabled": false
+      }
+    },
+    "paddle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Paddle",
+        "enabled": false
+      }
+    },
+    "pickaxe": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pickaxe",
+        "enabled": false
+      }
+    },
+    "shotgun.waterpipe": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Waterpipe Shotgun",
+        "enabled": false
+      },
+      "10143": {
+        "price": 0.0,
+        "displayName": "The Peace Pipe",
+        "enabled": false
+      }
+    },
+    "pistol.python": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Python Revolver",
+        "enabled": false
+      }
+    },
+    "pistol.revolver": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Revolver",
+        "enabled": false
+      },
+      "10114": {
+        "price": 0.0,
+        "displayName": "Outback revolver",
+        "enabled": false
+      }
+    },
+    "rock": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rock",
+        "enabled": false
+      }
+    },
+    "rocket.launcher": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Rocket Launcher",
+        "enabled": false
+      }
+    },
+    "axe.salvaged": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Axe",
+        "enabled": false
+      }
+    },
+    "hammer.salvaged": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Hammer",
+        "enabled": false
+      }
+    },
+    "icepick.salvaged": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Icepick",
+        "enabled": false
+      }
+    },
+    "explosive.satchel": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Satchel Charge",
+        "enabled": false
+      }
+    },
+    "shotgun.pump": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Pump Shotgun",
+        "enabled": false
+      },
+      "10074": {
+        "price": 0.0,
+        "displayName": "Chieftain Pump Shotgun",
+        "enabled": false
+      },
+      "10140": {
+        "price": 0.0,
+        "displayName": "The Swampmaster",
+        "enabled": false
+      }
+    },
+    "pistol.semiauto": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Semi-Automatic Pistol",
+        "enabled": false
+      },
+      "10073": {
+        "price": 0.0,
+        "displayName": "Red Shine Pistol",
+        "enabled": false
+      },
+      "10081": {
+        "price": 0.0,
+        "displayName": "Reaper Note Pistol",
+        "enabled": false
+      },
+      "10087": {
+        "price": 0.0,
+        "displayName": "Contamination Pistol",
+        "enabled": false
+      },
+      "10108": {
+        "price": 0.0,
+        "displayName": "Halloween Bat",
+        "enabled": false
+      }
+    },
+    "rifle.semiauto": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Semi-Automatic Rifle",
+        "enabled": false
+      }
+    },
+    "smg.2": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Custom SMG",
+        "enabled": false
+      }
+    },
+    "shotgun.spas12": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Spas-12 Shotgun",
+        "enabled": false
+      }
+    },
+    "stonehatchet": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stone Hatchet",
+        "enabled": false
+      }
+    },
+    "stone.pickaxe": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stone Pickaxe",
+        "enabled": false
+      }
+    },
+    "spear.stone": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Stone Spear",
+        "enabled": false
+      }
+    },
+    "longsword": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Longsword",
+        "enabled": false
+      }
+    },
+    "salvaged.sword": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Salvaged Sword",
+        "enabled": false
+      }
+    },
+    "smg.thompson": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Thompson",
+        "enabled": false
+      }
+    },
+    "toolgun": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Garry's Mod Tool Gun",
+        "enabled": false
+      }
+    },
+    "torch": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Torch",
+        "enabled": false
+      }
+    },
+    "bucket.water": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Water Bucket",
+        "enabled": false
+      }
+    },
+    "spear.wooden": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Spear",
+        "enabled": false
+      }
+    },
+    "horse.armor.roadsign": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Roadsign Horse Armor",
+        "enabled": false
+      }
+    },
+    "horse.armor.wood": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Wooden Horse Armor",
+        "enabled": false
+      }
+    },
+    "horse.saddle": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Horse Saddle",
+        "enabled": false
+      }
+    },
+    "horse.saddlebag": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Saddle bag",
+        "enabled": false
+      }
+    },
+    "horse.shoes.advanced": {
+      "0": {
+        "price": 0.0,
+        "displayName": "High Quality Horse Shoes",
+        "enabled": false
+      }
+    },
+    "horse.shoes.basic": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Basic Horse Shoes",
+        "enabled": false
+      }
+    }
+  }
+}

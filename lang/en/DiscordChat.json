@@ -1,0 +1,9 @@
+{
+  "NotLinked": "You have not yet linked your discord to the rust server. Please respond to this message with /join to begin the link.",
+  "Joined": "({0:HH:mm}) {1} has joined.",
+  "Disconnected": "({0:HH:mm}) {1} has disconnected. Reason: {2}",
+  "ChatMessage": "({0:HH:mm}) {1}: {2}",
+  "BetterChatMessage": "({0:HH:mm}) {1}",
+  "TeamChatMessage": "({0:HH:mm}) {1}: {2}",
+  "BetterChatTeamMessage": "({0:HH:mm}) {1}"
+}

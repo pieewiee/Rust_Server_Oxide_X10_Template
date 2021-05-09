@@ -1,0 +1,22 @@
+{
+  "DatePreset": {
+    "presetDay": 1,
+    "presetMonth": 1,
+    "presetYear": 2020,
+    "setPresetDate": false
+  },
+  "Settings": {
+    "authLevelCmds": 1,
+    "authLevelFreeze": 2,
+    "autoSkipDay": false,
+    "autoSkipNight": false,
+    "dayLength": 30,
+    "freezeDate": false,
+    "logAutoSkipConsole": true,
+    "nightLength": 5
+  },
+  "TimeFreeze": {
+    "freezeTimeOnload": false,
+    "timeToFreeze": 12.0
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "Help message": "Usage: cleanup (<all/buildings/deployables/deployable partial name>) (all)",
+  "No permissions": "You have no access to that command",
+  "Announcement": "Server is cleaning up <color=#00FF5D>{0}</color> entities..."
+}

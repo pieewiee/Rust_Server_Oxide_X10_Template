@@ -1,0 +1,30 @@
+{
+  "Active Item Options": {
+    "Disable all held items": true,
+    "List of disallowed held items (item shortnames)": [
+      "explosive.timed",
+      "rocket.launcher",
+      "surveycharge",
+      "explosive.satchel"
+    ]
+  },
+  "Spawnable Options": {
+    "Enable automatic vehicle spawning": true,
+    "Maximum spawned vehicles at any time": 5,
+    "Spawnfile name": "",
+    "Time between autospawns (seconds)": 1800
+  },
+  "UI Options": {
+    "Health settings": {
+      "Background alpha": 0.05,
+      "Background color (hex)": "#F2F2F2",
+      "Display to player": true,
+      "Position - X maximum": 0.83,
+      "Position - X minimum": 0.69,
+      "Position - Y maximum": 0.135,
+      "Position - Y minimum": 0.1,
+      "Status alpha": 0.6,
+      "Status color (hex)": "#ce422b"
+    }
+  }
+}

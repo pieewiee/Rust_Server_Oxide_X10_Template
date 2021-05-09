@@ -1,0 +1,5 @@
+{
+  "AnnouncementMsg": "Server saving, expect some lag...",
+  "EntityMsg": "Server is saving {0:n0} entities, expect some lag.",
+  "ConsoleMsg": "Server is saving {0:n0} entities."
+}

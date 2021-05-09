@@ -1,0 +1,283 @@
+{
+  "Settings": {
+    "Raid Management": {
+      "Eject Mounts": {
+        "All Controlled Mounts": false,
+        "Boats": false,
+        "Cars (Basic)": false,
+        "Cars (Modular)": false,
+        "Chinook": false,
+        "Horses": false,
+        "MiniCopters": false,
+        "Pianos": true,
+        "Scrap Transport Helicopters": false
+      },
+      "Entities Not Allowed To Be Picked Up": [
+        "generator.small",
+        "generator.static",
+        "autoturret_deployed"
+      ],
+      "Additional Containers To Include As Boxes": [],
+      "Difficulty Colors (Border)": {
+        "Normal": "000000"
+      },
+      "Difficulty Colors (Inner)": {
+        "Normal": "00FF00"
+      },
+      "Allow Teleport": false,
+      "Allow Cupboard Loot To Drop": true,
+      "Allow Players To Build": true,
+      "Allow Players To Use Ladders": true,
+      "Allow Player Bags To Be Lootable At PVP Bases": true,
+      "Allow Player Bags To Be Lootable At PVE Bases": true,
+      "Allow Traps To Drop Loot": false,
+      "Allow Players To Loot Traps": false,
+      "Allow Raid Bases On Roads": true,
+      "Allow Raid Bases On Rivers": true,
+      "Allow Raid Bases On Building Topology": true,
+      "Allow Vending Machines To Broadcast": false,
+      "Allow Bases To Float Above Water": false,
+      "Allow Bases To Spawn On The Seabed": false,
+      "Prevent Bases From Floating Above Water By Also Checking Surrounding Area": false,
+      "Maximum Water Depth Level Used For Float Above Water Option": 1.0,
+      "Backpacks Can Be Opened At PVE Bases": true,
+      "Backpacks Can Be Opened At PVP Bases": true,
+      "Backpacks Drop At PVE Bases": false,
+      "Backpacks Drop At PVP Bases": false,
+      "Block Mounted Damage To Bases And Players": false,
+      "Block RestoreUponDeath Plugin For PVP Bases": false,
+      "Block RestoreUponDeath Plugin For PVE Bases": false,
+      "Bypass Lock Treasure To First Attacker For PVE Bases": false,
+      "Bypass Lock Treasure To First Attacker For PVP Bases": false,
+      "Delay Between Entity Death While Despawning Base": 0.002,
+      "Despawn Spawned Mounts": true,
+      "Do Not Destroy Player Built Deployables": true,
+      "Do Not Destroy Player Built Structures": true,
+      "Divide Rewards Among All Raiders": true,
+      "Draw Corpse Time (Seconds)": 300.0,
+      "Eject Sleepers Before Spawning Base": true,
+      "Extra Distance To Spawn From Monuments": 0.0,
+      "Maximum Elevation Level": 2.5,
+      "Move Cookables Into Ovens": true,
+      "Move Food Into BBQ Or Fridge": true,
+      "Move Resources Into Tool Cupboard": true,
+      "Move Items Into Lockers": true,
+      "Lock Treasure To First Attacker": true,
+      "Lock Treasure Max Inactive Time (Minutes)": 10.0,
+      "Minutes Until Despawn After Looting (min: 1)": 15,
+      "Minutes Until Despawn After Inactive (0 = disabled)": 45,
+      "Minutes Until Despawn After Inactive Resets When Damaged": true,
+      "Mounts Can Take Damage From Players": false,
+      "Mounts Can Take Damage From SamSites": true,
+      "Player Cupboard Detection Radius": 75.0,
+      "Players With PVP Delay Can Damage Anything Inside Zone": false,
+      "Players With PVP Delay Can Damage Other Players With PVP Delay Anywhere": false,
+      "PVP Delay Between Zone Hopping": 10.0,
+      "Prevent Fire From Spreading": true,
+      "Prevent Players From Hogging Raids": true,
+      "Require Cupboard To Be Looted Before Despawning": false,
+      "Destroying The Cupboard Completes The Raid": false,
+      "Require All Bases To Spawn Before Respawning An Existing Base": false,
+      "Turn Lights On At Night": true,
+      "Turn Lights On Indefinitely": false,
+      "Traps And Turrets Ignore Users Using NOCLIP": false,
+      "Use Random Codes On Code Locks": true,
+      "Wait To Start Despawn Timer When Base Takes Damage From Player": false
+    },
+    "Map Markers": {
+      "Marker Name": "Raidable Base Event",
+      "Radius": 0.25,
+      "Use Vending Map Marker": true,
+      "Use Explosion Map Marker": false,
+      "Create Markers For Maintained Events": true,
+      "Create Markers For Scheduled Events": true,
+      "Create Markers For Manual Events": true
+    },
+    "Maintained Events": {
+      "Always Maintain Max Events": true,
+      "Chance To Randomly Spawn PVP Bases (0 = Ignore Setting)": 0.0,
+      "Convert PVE To PVP": false,
+      "Convert PVP To PVE": false,
+      "Include PVE Bases": true,
+      "Include PVP Bases": true,
+      "Ignore Safe Checks": false,
+      "Ignore Player Entities At Custom Spawn Locations": false,
+      "Minimum Required Players Online": 1,
+      "Max Maintained Events": 5,
+      "Spawn Bases X Distance Apart": 100.0,
+      "Spawns Database File (Optional)": "none",
+      "Time To Wait Between Spawns": 15.0
+    },
+    "Manual Events": {
+      "Convert PVE To PVP": false,
+      "Convert PVP To PVE": false,
+      "Max Manual Events": 1,
+      "Spawn Bases X Distance Apart": 100.0,
+      "Spawns Database File (Optional)": "none"
+    },
+    "Scheduled Events": {
+      "Enabled": true,
+      "Chance To Randomly Spawn PVP Bases (0 = Ignore Setting)": 0.0,
+      "Convert PVE To PVP": false,
+      "Convert PVP To PVE": false,
+      "Every Min Seconds": 240.0,
+      "Every Max Seconds": 600.0,
+      "Include PVE Bases": true,
+      "Include PVP Bases": true,
+      "Ignore Safe Checks": false,
+      "Ignore Player Entities At Custom Spawn Locations": false,
+      "Max Scheduled Events": 10,
+      "Max To Spawn At Once (0 = Use Max Scheduled Events Amount)": 0,
+      "Minimum Required Players Online": 0,
+      "Spawn Bases X Distance Apart": 50.0,
+      "Spawns Database File (Optional)": "none",
+      "Time To Wait Between Spawns": 15.0
+    },
+    "Allowed Zone Manager Zones": [
+      "pvp",
+      "99999999"
+    ],
+    "Blacklisted Commands": [],
+    "Amount Of Entities To Undo Per Batch (1 = Slowest But Better Performance)": 5,
+    "Automatically Teleport Admins To Their Map Marker Positions": true,
+    "Block Wizardry Plugin At Events": false,
+    "Chat Steam64ID": 0,
+    "Expansion Mode (Dangerous Treasures)": false,
+    "Remove Admins From Raiders List": false,
+    "Show X Z Coordinates": false,
+    "Event Command": "rbe",
+    "Hunter Command": "rb",
+    "Server Console Command": "rbevent"
+  },
+  "Event Messages": {
+    "Announce Raid Unlocked": false,
+    "Announce Thief Message": true,
+    "Announce PVE/PVP Enter/Exit Messages": true,
+    "Show Destroy Warning": true,
+    "Show Opened Message": true,
+    "Show Prefix": true
+  },
+  "GUIAnnouncements": {
+    "Enabled": false,
+    "Banner Tint Color": "Grey",
+    "Maximum Distance": 300.0,
+    "Text Color": "White"
+  },
+  "Lusty Map": {
+    "Enabled": false,
+    "Icon File": "http://i.imgur.com/XoEMTJj.png",
+    "Icon Name": "rbevent",
+    "Icon Rotation": 0.0
+  },
+  "Raidable Bases": {},
+  "Ranked Ladder": {
+    "Award Top X Players On Wipe": 3,
+    "Enabled": true
+  },
+  "Skins": {
+    "Boxes": {
+      "Include Workshop Skins": true,
+      "Preset Skin": 0,
+      "Use Random Skin": true
+    },
+    "Loot Items": {
+      "Include Workshop Skins": true,
+      "Use Random Skin": true
+    },
+    "Deployables": {
+      "Partial Names": [
+        "door",
+        "barricade",
+        "chair",
+        "fridge",
+        "furnace",
+        "locker",
+        "reactivetarget",
+        "rug",
+        "sleepingbag",
+        "table",
+        "vendingmachine",
+        "waterpurifier",
+        "skullspikes",
+        "skulltrophy",
+        "summer_dlc",
+        "sled"
+      ],
+      "Include Workshop Skins": true,
+      "Use Random Skin": true,
+      "Skin Everything": true
+    },
+    "Randomize Npc Item Skins": true,
+    "Ignore If Skinned Already": true
+  },
+  "Treasure": {
+    "Resources Not Moved To Cupboards": [
+      "skull.human",
+      "battery.small",
+      "bone.fragments",
+      "can.beans.empty",
+      "can.tuna.empty",
+      "water.salt",
+      "water",
+      "skull.wolf"
+    ],
+    "Use Day Of Week Loot": false,
+    "Day Of Week Loot Monday": [],
+    "Day Of Week Loot Tuesday": [],
+    "Day Of Week Loot Wednesday": [],
+    "Day Of Week Loot Thursday": [],
+    "Day Of Week Loot Friday": [],
+    "Day Of Week Loot Saturday": [],
+    "Day Of Week Loot Sunday": [],
+    "Loot (Easy Difficulty)": [],
+    "Loot (Medium Difficulty)": [],
+    "Loot (Hard Difficulty)": [],
+    "Loot (Expert Difficulty)": [],
+    "Loot (Nightmare Difficulty)": [],
+    "Loot": [],
+    "Do Not Duplicate Base Loot": false,
+    "Do Not Duplicate Difficulty Loot": false,
+    "Do Not Duplicate Default Loot": false,
+    "Use Stack Size Limit For Spawning Items": false
+  },
+  "TruePVE": {
+    "Allow PVP Server-Wide During Events": false
+  },
+  "UI": {
+    "Enabled": true,
+    "Anchor Min": "0.838 0.249",
+    "Anchor Max": "0.986 0.284",
+    "Font Size": 18,
+    "Panel Alpha": 1.0,
+    "Panel Color": "#000000",
+    "PVP Color": "#FF0000",
+    "PVE Color": "#008000",
+    "Show Containers Left": false,
+    "Show Time Left": true
+  },
+  "Weapons": {
+    "Infinite Ammo": {
+      "AutoTurret": true,
+      "FlameTurret": true,
+      "FogMachine": true,
+      "GunTrap": true,
+      "SamSite": true
+    },
+    "Ammo": {
+      "AutoTurret": 256,
+      "FlameTurret": 256,
+      "FogMachine": 5,
+      "GunTrap": 128,
+      "SamSite": 24
+    },
+    "Tesla Coil": {
+      "Requires A Power Source": true,
+      "Max Discharge Self Damage Seconds (0 = None, 120 = Rust default)": 0.0,
+      "Max Damage Output": 35.0
+    },
+    "Fog Machine Allows Motion Toggle": true,
+    "Fog Machine Requires A Power Source": true,
+    "SamSite Repairs Every X Minutes (0.0 = disabled)": 5.0,
+    "SamSite Range (350.0 = Rust default)": 75.0
+  }
+}

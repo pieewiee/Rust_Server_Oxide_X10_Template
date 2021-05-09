@@ -1,0 +1,104 @@
+{
+  "Mines": {
+    "Enabled": true,
+    "MaxAllowed": 5,
+    "CraftTime": 60,
+    "CraftAmount": 1,
+    "CraftingCosts": {
+      "trap.landmine": 1,
+      "sulfur": 100,
+      "lowgradefuel": 150
+    },
+    "RadiationProperties": {
+      "Intensity": 70.0,
+      "Duration": 25.0,
+      "Radius": 20.0
+    }
+  },
+  "Rockets": {
+    "Enabled": true,
+    "MaxAllowed": 3,
+    "CraftTime": 60,
+    "CraftAmount": 1,
+    "CraftingCosts": {
+      "ammo.rocket.basic": 1,
+      "sulfur": 150,
+      "lowgradefuel": 150
+    },
+    "RadiationProperties": {
+      "Intensity": 45.0,
+      "Duration": 15.0,
+      "Radius": 10.0
+    }
+  },
+  "Bullets": {
+    "Enabled": true,
+    "MaxAllowed": 100,
+    "CraftTime": 30,
+    "CraftAmount": 5,
+    "CraftingCosts": {
+      "ammo.rifle.explosive": 5,
+      "sulfur": 10,
+      "lowgradefuel": 10
+    },
+    "RadiationProperties": {
+      "Intensity": 15.0,
+      "Duration": 3.0,
+      "Radius": 5.0
+    }
+  },
+  "Grenades": {
+    "Enabled": true,
+    "MaxAllowed": 3,
+    "CraftTime": 45,
+    "CraftAmount": 1,
+    "CraftingCosts": {
+      "grenade.f1": 1,
+      "sulfur": 100,
+      "lowgradefuel": 100
+    },
+    "RadiationProperties": {
+      "Intensity": 35.0,
+      "Duration": 15.0,
+      "Radius": 15.0
+    }
+  },
+  "Explosives": {
+    "Enabled": true,
+    "MaxAllowed": 3,
+    "CraftTime": 90,
+    "CraftAmount": 1,
+    "CraftingCosts": {
+      "explosive.timed": 1,
+      "sulfur": 150,
+      "lowgradefuel": 200
+    },
+    "RadiationProperties": {
+      "Intensity": 60.0,
+      "Duration": 30.0,
+      "Radius": 25.0
+    }
+  },
+  "Options": {
+    "MSG_MainColor": "<color=#00CC00>",
+    "MSG_SecondaryColor": "<color=#939393>"
+  },
+  "URL_IconList": {
+    "BulletActive": "bulletactive.png",
+    "ExplosiveActive": "explosiveactive.png",
+    "GrenadeActive": "grenadeactive.png",
+    "MineActive": "landmineactive.png",
+    "RocketActive": "rocketactive.png",
+    "Bullet": "bullet.png",
+    "Explosive": "explosive.png",
+    "Grenade": "grenade.png",
+    "Mine": "landmine.png",
+    "Rocket": "rocket.png",
+    "Background": "background.png"
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 67
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ShowUI": true,
+  "ButtonPositionOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "ButtonSize": {
+    "x": 115.0,
+    "y": 30.0
+  },
+  "ButtonColorHex": "#6F8344",
+  "ButtonCaptionColorHex": "#A5BA7A",
+  "ButtonCaptionFontSize": 16,
+  "ButtonCaptionIsBold": false
+}

@@ -1,0 +1,4850 @@
+{
+  "ItemCategories": {
+    "Weapon": [
+      {
+        "ItemId": 722955039,
+        "Shortname": "gun.water",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1815301988,
+        "Shortname": "pistol.water",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1789825282,
+        "Shortname": "candycaneclub",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -363689972,
+        "Shortname": "snowball",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1103488722,
+        "Shortname": "snowballgun",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1569882109,
+        "Shortname": "fishingrod.handmade",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 174866732,
+        "Shortname": "weapon.mod.8x.scope",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 952603248,
+        "Shortname": "weapon.mod.flashlight",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 442289265,
+        "Shortname": "weapon.mod.holosight",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -132516482,
+        "Shortname": "weapon.mod.lasersight",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1405508498,
+        "Shortname": "weapon.mod.muzzleboost",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1478091698,
+        "Shortname": "weapon.mod.muzzlebrake",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -855748505,
+        "Shortname": "weapon.mod.simplesight",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1850571427,
+        "Shortname": "weapon.mod.silencer",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 567235583,
+        "Shortname": "weapon.mod.small.scope",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1545779598,
+        "Shortname": "rifle.ak",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1840822026,
+        "Shortname": "grenade.beancan",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1588298435,
+        "Shortname": "rifle.bolt",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1711033574,
+        "Shortname": "bone.club",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1814288539,
+        "Shortname": "knife.bone",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1443579727,
+        "Shortname": "bow.hunting",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1978999529,
+        "Shortname": "salvaged.cleaver",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 884424049,
+        "Shortname": "bow.compound",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1965232394,
+        "Shortname": "crossbow",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -765183617,
+        "Shortname": "shotgun.double",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -75944661,
+        "Shortname": "pistol.eoka",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 143803535,
+        "Shortname": "grenade.f1",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1215753368,
+        "Shortname": "flamethrower",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1123473824,
+        "Shortname": "multiplegrenadelauncher",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -194509282,
+        "Shortname": "knife.butcher",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1090916276,
+        "Shortname": "pitchfork",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2040726127,
+        "Shortname": "knife.combat",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -778367295,
+        "Shortname": "rifle.l96",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1812555177,
+        "Shortname": "rifle.lr300",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2069578888,
+        "Shortname": "lmg.m249",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 28201841,
+        "Shortname": "rifle.m39",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -852563019,
+        "Shortname": "pistol.m92",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1966748496,
+        "Shortname": "mace",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1137865085,
+        "Shortname": "machete",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1318558775,
+        "Shortname": "smg.mp5",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1953903201,
+        "Shortname": "pistol.nailgun",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1491189398,
+        "Shortname": "paddle",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1367281941,
+        "Shortname": "shotgun.waterpipe",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1373971859,
+        "Shortname": "pistol.python",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 649912614,
+        "Shortname": "pistol.revolver",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 442886268,
+        "Shortname": "rocket.launcher",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 795371088,
+        "Shortname": "shotgun.pump",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 818877484,
+        "Shortname": "pistol.semiauto",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -904863145,
+        "Shortname": "rifle.semiauto",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1796682209,
+        "Shortname": "smg.2",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -41440462,
+        "Shortname": "shotgun.spas12",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1602646136,
+        "Shortname": "spear.stone",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1469578201,
+        "Shortname": "longsword",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1326180354,
+        "Shortname": "salvaged.sword",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1758372725,
+        "Shortname": "smg.thompson",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1540934679,
+        "Shortname": "spear.wooden",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Construction": [
+      {
+        "ItemId": 1390353317,
+        "Shortname": "door.double.hinged.metal",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1221063409,
+        "Shortname": "door.double.hinged.toptier",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1336109173,
+        "Shortname": "door.double.hinged.wood",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2067472972,
+        "Shortname": "door.hinged.metal",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1353298668,
+        "Shortname": "door.hinged.toptier",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1729120840,
+        "Shortname": "door.hinged.wood",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 936496778,
+        "Shortname": "floor.grill",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1948067030,
+        "Shortname": "floor.ladder.hatch",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1983621560,
+        "Shortname": "floor.triangle.grill",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2041899972,
+        "Shortname": "floor.triangle.ladder.hatch",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -691113464,
+        "Shortname": "gates.external.high.stone",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -335089230,
+        "Shortname": "gates.external.high.wood",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -316250604,
+        "Shortname": "ladder.wooden.wall",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -967648160,
+        "Shortname": "wall.external.high.stone",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 99588025,
+        "Shortname": "wall.external.high",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -956706906,
+        "Shortname": "wall.frame.cell.gate",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1429456799,
+        "Shortname": "wall.frame.cell",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1451568081,
+        "Shortname": "wall.frame.fence.gate",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1117626326,
+        "Shortname": "wall.frame.fence",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -148794216,
+        "Shortname": "wall.frame.garagedoor",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1516985844,
+        "Shortname": "wall.frame.netting",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -796583652,
+        "Shortname": "wall.frame.shopfront",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -148229307,
+        "Shortname": "wall.frame.shopfront.metal",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -819720157,
+        "Shortname": "wall.window.bars.metal",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 671706427,
+        "Shortname": "wall.window.bars.toptier",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1183726687,
+        "Shortname": "wall.window.bars.wood",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1199897169,
+        "Shortname": "shutter.metal.embrasure.a",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1199897172,
+        "Shortname": "shutter.metal.embrasure.b",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1614955425,
+        "Shortname": "wall.window.glass.reinforced",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1023374709,
+        "Shortname": "shutter.wood.a",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -463122489,
+        "Shortname": "watchtower.wood",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1950721390,
+        "Shortname": "barricade.concrete",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1373240771,
+        "Shortname": "barricade.wood.cover",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1655650836,
+        "Shortname": "barricade.metal",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -559599960,
+        "Shortname": "barricade.sandbags",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 15388698,
+        "Shortname": "barricade.stone",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 866889860,
+        "Shortname": "barricade.wood",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1382263453,
+        "Shortname": "barricade.woodwire",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1130709577,
+        "Shortname": "mining.pumpjack",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1052926200,
+        "Shortname": "mining.quarry",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -97956382,
+        "Shortname": "cupboard.tool",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1100168350,
+        "Shortname": "water.catcher.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -132247350,
+        "Shortname": "water.catcher.small",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -850982208,
+        "Shortname": "lock.key",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1159991980,
+        "Shortname": "lock.code",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1409529282,
+        "Shortname": "door.closer",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 818733919,
+        "Shortname": "door.hinged.industrial.a",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1327005675,
+        "Shortname": "wall.ice.wall",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -985781766,
+        "Shortname": "wall.external.high.ice",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1525520776,
+        "Shortname": "building.planner",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Items": [
+      {
+        "ItemId": 190184021,
+        "Shortname": "kayak",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1099314009,
+        "Shortname": "bbq",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1273339005,
+        "Shortname": "bed",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1946219319,
+        "Shortname": "campfire",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1081921512,
+        "Shortname": "cardtable",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1534542921,
+        "Shortname": "chair",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1488398114,
+        "Shortname": "composter",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1588492232,
+        "Shortname": "drone",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1519126340,
+        "Shortname": "dropbox",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1535621066,
+        "Shortname": "fireplace.stone",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1413014235,
+        "Shortname": "fridge",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1992717673,
+        "Shortname": "furnace.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1999722522,
+        "Shortname": "furnace",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1160881421,
+        "Shortname": "hitchtroughcombo",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1242482355,
+        "Shortname": "jackolantern.angry",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1824943010,
+        "Shortname": "jackolantern.happy",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1658229558,
+        "Shortname": "lantern",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 833533164,
+        "Shortname": "box.wooden.large",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1863559151,
+        "Shortname": "water.barrel",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -110921842,
+        "Shortname": "locker",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -586784898,
+        "Shortname": "mailbox",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1259919256,
+        "Shortname": "mixingtable",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1293296287,
+        "Shortname": "small.oil.refinery",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1581210395,
+        "Shortname": "planter.large",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1903654061,
+        "Shortname": "planter.small",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 803222026,
+        "Shortname": "box.repair.bench",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1861522751,
+        "Shortname": "research.table",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1104881824,
+        "Shortname": "rug.bear",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1985799200,
+        "Shortname": "rug",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 567871954,
+        "Shortname": "secretlabchair",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1950721418,
+        "Shortname": "shelves",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 23352662,
+        "Shortname": "sign.hanging.banner.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1205607945,
+        "Shortname": "sign.hanging",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1647846966,
+        "Shortname": "sign.hanging.ornate",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -845557339,
+        "Shortname": "sign.pictureframe.landscape",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1370759135,
+        "Shortname": "sign.pictureframe.portrait",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 121049755,
+        "Shortname": "sign.pictureframe.tall",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -996185386,
+        "Shortname": "sign.pictureframe.xl",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 98508942,
+        "Shortname": "sign.pictureframe.xxl",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2070189026,
+        "Shortname": "sign.pole.banner.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1521286012,
+        "Shortname": "sign.post.double",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1542290441,
+        "Shortname": "sign.post.single",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1832422579,
+        "Shortname": "sign.post.town",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 826309791,
+        "Shortname": "sign.post.town.roof",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -143132326,
+        "Shortname": "sign.wooden.huge",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1153652756,
+        "Shortname": "sign.wooden.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1819233322,
+        "Shortname": "sign.wooden.medium",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1138208076,
+        "Shortname": "sign.wooden.small",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1754948969,
+        "Shortname": "sleepingbag",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -369760990,
+        "Shortname": "stash.small",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -555122905,
+        "Shortname": "sofa",
+        "HasDurability": false,
+        "VanillaStackSize": 2,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1100422738,
+        "Shortname": "spinner.wheel",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 559147458,
+        "Shortname": "fishtrap.small",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 593465182,
+        "Shortname": "table",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1524187186,
+        "Shortname": "workbench1",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -41896755,
+        "Shortname": "workbench2",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1607980696,
+        "Shortname": "workbench3",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1478445584,
+        "Shortname": "tunalight",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 198438816,
+        "Shortname": "vending.machine",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2114754781,
+        "Shortname": "water.purifier",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -180129657,
+        "Shortname": "box.wooden",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 613961768,
+        "Shortname": "botabag",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1916473915,
+        "Shortname": "chineselantern",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -854270928,
+        "Shortname": "dragondoorknocker",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 359723196,
+        "Shortname": "arcade.machine.chippy",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -979302481,
+        "Shortname": "easterdoorwreath",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 177226991,
+        "Shortname": "scarecrow",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -216116642,
+        "Shortname": "skulldoorknocker",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 553887414,
+        "Shortname": "skull_fire_pit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1697996440,
+        "Shortname": "photoframe.landscape",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1205084994,
+        "Shortname": "photoframe.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1729712564,
+        "Shortname": "photoframe.portrait",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1442559428,
+        "Shortname": "hobobarrel",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1058261682,
+        "Shortname": "xmas.lightstring",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 674734128,
+        "Shortname": "xmas.door.garland",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1651220691,
+        "Shortname": "pookie.bear",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1629293099,
+        "Shortname": "snowman",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -465682601,
+        "Shortname": "stocking.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1668858301,
+        "Shortname": "stocking.small",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1379835144,
+        "Shortname": "xmas.window.garland",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2009734114,
+        "Shortname": "xmasdoorwreath",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 794443127,
+        "Shortname": "xmas.tree",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 696029452,
+        "Shortname": "map",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Resources": [
+      {
+        "ItemId": 996293980,
+        "Shortname": "skull.human",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 204391461,
+        "Shortname": "coal",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1018587433,
+        "Shortname": "fat.animal",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 609049394,
+        "Shortname": "battery.small",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1719978075,
+        "Shortname": "bone.fragments",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 634478325,
+        "Shortname": "cctv.camera",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1938052175,
+        "Shortname": "charcoal",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -858312878,
+        "Shortname": "cloth",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -321733511,
+        "Shortname": "crude.oil",
+        "HasDurability": false,
+        "VanillaStackSize": 500,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1568388703,
+        "Shortname": "diesel_barrel",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1655979682,
+        "Shortname": "can.beans.empty",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1557377697,
+        "Shortname": "can.tuna.empty",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -592016202,
+        "Shortname": "explosives",
+        "HasDurability": false,
+        "VanillaStackSize": 100,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -930193596,
+        "Shortname": "fertilizer",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -265876753,
+        "Shortname": "gunpowder",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1579932985,
+        "Shortname": "horsedung",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1982036270,
+        "Shortname": "hq.metal.ore",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 317398316,
+        "Shortname": "metal.refined",
+        "HasDurability": false,
+        "VanillaStackSize": 100,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1381010055,
+        "Shortname": "leather",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -946369541,
+        "Shortname": "lowgradefuel",
+        "HasDurability": false,
+        "VanillaStackSize": 500,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 69511070,
+        "Shortname": "metal.fragments",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -4031221,
+        "Shortname": "metal.ore",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1779183908,
+        "Shortname": "paper",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -804769727,
+        "Shortname": "plantfiber",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -544317637,
+        "Shortname": "researchpaper",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -277057363,
+        "Shortname": "water.salt",
+        "HasDurability": false,
+        "VanillaStackSize": 2147483647,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -932201673,
+        "Shortname": "scrap",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2099697608,
+        "Shortname": "stones",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1157596551,
+        "Shortname": "sulfur.ore",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1581843485,
+        "Shortname": "sulfur",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1523195708,
+        "Shortname": "targeting.computer",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1779180711,
+        "Shortname": "water",
+        "HasDurability": false,
+        "VanillaStackSize": 2147483647,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2048317869,
+        "Shortname": "skull.wolf",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -151838493,
+        "Shortname": "wood",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      }
+    ],
+    "Attire": [
+      {
+        "ItemId": -1478212975,
+        "Shortname": "hat.wolf",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 296519935,
+        "Shortname": "diving.fins",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -113413047,
+        "Shortname": "diving.mask",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2022172587,
+        "Shortname": "diving.tank",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1101924344,
+        "Shortname": "diving.wetsuit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1000573653,
+        "Shortname": "boots.frog",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1215166612,
+        "Shortname": "barrelcostume",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1189981699,
+        "Shortname": "cratecostume",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1659114910,
+        "Shortname": "hat.gas.mask",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 21402876,
+        "Shortname": "burlap.gloves.new",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1366282552,
+        "Shortname": "burlap.gloves",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -699558439,
+        "Shortname": "roadsign.gloves",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1108136649,
+        "Shortname": "tactical.gloves",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1043618880,
+        "Shortname": "ghostsheet",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 277730763,
+        "Shortname": "halloween.mummysuit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 273951840,
+        "Shortname": "scarecrow.suit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 809942731,
+        "Shortname": "scarecrowhead",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 3222790,
+        "Shortname": "attire.hide.helterneck",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1675639563,
+        "Shortname": "hat.beenie",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -23994173,
+        "Shortname": "hat.boonie",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 850280505,
+        "Shortname": "bucket.helmet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1877339384,
+        "Shortname": "burlap.headwrap",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1714496074,
+        "Shortname": "hat.candle",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1022661119,
+        "Shortname": "hat.cap",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 968019378,
+        "Shortname": "clatter.helmet",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -803263829,
+        "Shortname": "coffeecan.helmet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1903165497,
+        "Shortname": "deer.skull.mask",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1181207482,
+        "Shortname": "heavy.plate.helmet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1539025626,
+        "Shortname": "hat.miner",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -575744869,
+        "Shortname": "partyhat",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 671063303,
+        "Shortname": "riot.helmet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2094954543,
+        "Shortname": "wood.armor.helmet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1751045826,
+        "Shortname": "hoodie",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1746956556,
+        "Shortname": "bone.armor.suit",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1102429027,
+        "Shortname": "heavy.plate.jacket",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -48090175,
+        "Shortname": "jacket.snow",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1163532624,
+        "Shortname": "jacket",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 418081930,
+        "Shortname": "wood.armor.jacket",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2012470695,
+        "Shortname": "mask.balaclava",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -702051347,
+        "Shortname": "mask.bandana",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -194953424,
+        "Shortname": "metal.facemask",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1518883088,
+        "Shortname": "nightvisiongoggles",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1992974553,
+        "Shortname": "burlap.trousers",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1778159885,
+        "Shortname": "heavy.plate.pants",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1722154847,
+        "Shortname": "attire.hide.pants",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1850456855,
+        "Shortname": "roadsign.kilt",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1695367501,
+        "Shortname": "pants.shorts",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 832133926,
+        "Shortname": "wood.armor.pants",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 237239288,
+        "Shortname": "pants",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 980333378,
+        "Shortname": "attire.hide.poncho",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 602741290,
+        "Shortname": "burlap.shirt",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2025184684,
+        "Shortname": "shirt.collared",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 196700171,
+        "Shortname": "attire.hide.vest",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1608640313,
+        "Shortname": "shirt.tanktop",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1549739227,
+        "Shortname": "shoes.boots",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -761829530,
+        "Shortname": "burlap.shoes",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 794356786,
+        "Shortname": "attire.hide.boots",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1773144852,
+        "Shortname": "attire.hide.skirt",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1622110948,
+        "Shortname": "attire.banditguard",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1266491000,
+        "Shortname": "hazmatsuit",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -253079493,
+        "Shortname": "hazmatsuit_scientist",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1958316066,
+        "Shortname": "hazmatsuit_scientist_peacekeeper",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -560304835,
+        "Shortname": "hazmatsuit.spacesuit",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1772746857,
+        "Shortname": "scientistsuit_heavy",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -97459906,
+        "Shortname": "jumpsuit.suit",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 935692442,
+        "Shortname": "tshirt.long",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 223891266,
+        "Shortname": "tshirt",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1110385766,
+        "Shortname": "metal.plate.torso",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2002277461,
+        "Shortname": "roadsign.jacket",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -22883916,
+        "Shortname": "hat.dragonmask",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1315082560,
+        "Shortname": "hat.oxmask",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 271048478,
+        "Shortname": "hat.ratmask",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1004426654,
+        "Shortname": "attire.bunnyears",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1266045928,
+        "Shortname": "attire.bunny.onesie",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 23391694,
+        "Shortname": "hat.bunnyhat",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1081315464,
+        "Shortname": "attire.nesthat",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1785231475,
+        "Shortname": "halloween.surgeonsuit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 3380160,
+        "Shortname": "movembermoustachecard",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2047081330,
+        "Shortname": "movembermoustache",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1258768145,
+        "Shortname": "sunglasses02black",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2103694546,
+        "Shortname": "sunglasses02camo",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1557173737,
+        "Shortname": "sunglasses02red",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -176608084,
+        "Shortname": "sunglasses03black",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1997698639,
+        "Shortname": "sunglasses03chrome",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1408336705,
+        "Shortname": "sunglasses03gold",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 352321488,
+        "Shortname": "sunglasses",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 20489901,
+        "Shortname": "twitchsunglasses",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1569700847,
+        "Shortname": "twitch.headset",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -324675402,
+        "Shortname": "attire.reindeer.headband",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2126889441,
+        "Shortname": "santabeard",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -575483084,
+        "Shortname": "santahat",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -690276911,
+        "Shortname": "gloweyes",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 60528587,
+        "Shortname": "horse.armor.roadsign",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1659447559,
+        "Shortname": "horse.armor.wood",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1997543660,
+        "Shortname": "horse.saddle",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1400460850,
+        "Shortname": "horse.saddlebag",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1989785143,
+        "Shortname": "horse.shoes.advanced",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1211268013,
+        "Shortname": "horse.shoes.basic",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1506417026,
+        "Shortname": "attire.ninja.suit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Tool": [
+      {
+        "ItemId": -2001260025,
+        "Shortname": "tool.instant_camera",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1262185308,
+        "Shortname": "tool.binoculars",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1248356124,
+        "Shortname": "explosive.timed",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1316706473,
+        "Shortname": "tool.camera",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 596469572,
+        "Shortname": "rf.detonator",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 304481038,
+        "Shortname": "flare",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -196667575,
+        "Shortname": "flashlight.held",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 999690781,
+        "Shortname": "geiger.counter",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1488979457,
+        "Shortname": "jackhammer",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1263920163,
+        "Shortname": "grenade.smoke",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1397052267,
+        "Shortname": "supply.signal",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1975934948,
+        "Shortname": "surveycharge",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1973165031,
+        "Shortname": "cakefiveyear",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1104520648,
+        "Shortname": "chainsaw",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 200773292,
+        "Shortname": "hammer",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1252059217,
+        "Shortname": "hatchet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1302129395,
+        "Shortname": "pickaxe",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 963906841,
+        "Shortname": "rock",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -262590403,
+        "Shortname": "axe.salvaged",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1506397857,
+        "Shortname": "hammer.salvaged",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1780802565,
+        "Shortname": "icepick.salvaged",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1878475007,
+        "Shortname": "explosive.satchel",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1583967946,
+        "Shortname": "stonehatchet",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 171931394,
+        "Shortname": "stone.pickaxe",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1803831286,
+        "Shortname": "toolgun",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 795236088,
+        "Shortname": "torch",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1424075905,
+        "Shortname": "bucket.water",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Medical": [
+      {
+        "ItemId": 1776460938,
+        "Shortname": "blood",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1432674913,
+        "Shortname": "antiradpills",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 254522515,
+        "Shortname": "largemedkit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1079279582,
+        "Shortname": "syringe.medical",
+        "HasDurability": false,
+        "VanillaStackSize": 2,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2072273936,
+        "Shortname": "bandage",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      }
+    ],
+    "Food": [
+      {
+        "ItemId": 1548091822,
+        "Shortname": "apple",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 352130972,
+        "Shortname": "apple.spoiled",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1931713481,
+        "Shortname": "black.raspberries",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -586342290,
+        "Shortname": "blueberries",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1783512007,
+        "Shortname": "cactusflesh",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -700591459,
+        "Shortname": "can.beans",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1941646328,
+        "Shortname": "can.tuna",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 363467698,
+        "Shortname": "chocholate",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1668129151,
+        "Shortname": "fish.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 989925924,
+        "Shortname": "fish.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -542577259,
+        "Shortname": "fish.minnows",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1878764039,
+        "Shortname": "fish.troutsmall",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -746030907,
+        "Shortname": "granolabar",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1973684065,
+        "Shortname": "chicken.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1848736516,
+        "Shortname": "chicken.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1440987069,
+        "Shortname": "chicken.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -751151717,
+        "Shortname": "chicken.spoiled",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -78533081,
+        "Shortname": "deermeat.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1509851560,
+        "Shortname": "deermeat.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1422530437,
+        "Shortname": "deermeat.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1917703890,
+        "Shortname": "horsemeat.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1162759543,
+        "Shortname": "horsemeat.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1130350864,
+        "Shortname": "horsemeat.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -682687162,
+        "Shortname": "humanmeat.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1536610005,
+        "Shortname": "humanmeat.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1709878924,
+        "Shortname": "humanmeat.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1272768630,
+        "Shortname": "humanmeat.spoiled",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -989755543,
+        "Shortname": "bearmeat.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1873897110,
+        "Shortname": "bearmeat.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1520560807,
+        "Shortname": "bearmeat",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1827479659,
+        "Shortname": "wolfmeat.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 813023040,
+        "Shortname": "wolfmeat.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -395377963,
+        "Shortname": "wolfmeat.raw",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1167031859,
+        "Shortname": "wolfmeat.spoiled",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1391703481,
+        "Shortname": "meat.pork.burned",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -242084766,
+        "Shortname": "meat.pork.cooked",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 621915341,
+        "Shortname": "meat.boar",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1962971928,
+        "Shortname": "mushroom",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 286193827,
+        "Shortname": "jar.pickle",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1039528932,
+        "Shortname": "smallwaterbottle",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -119235651,
+        "Shortname": "waterjug",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1121925526,
+        "Shortname": "candycane",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1771755747,
+        "Shortname": "black.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 122783240,
+        "Shortname": "clone.black.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1911552868,
+        "Shortname": "seed.black.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1112162468,
+        "Shortname": "blue.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 838831151,
+        "Shortname": "clone.blue.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 803954639,
+        "Shortname": "seed.blue.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 858486327,
+        "Shortname": "green.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1305326964,
+        "Shortname": "clone.green.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1776128552,
+        "Shortname": "seed.green.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1272194103,
+        "Shortname": "red.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2133269020,
+        "Shortname": "clone.red.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 830839496,
+        "Shortname": "seed.red.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 854447607,
+        "Shortname": "white.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1533551194,
+        "Shortname": "clone.white.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -992286106,
+        "Shortname": "seed.white.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1660145984,
+        "Shortname": "yellow.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 390728933,
+        "Shortname": "clone.yellow.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -520133715,
+        "Shortname": "seed.yellow.berry",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1367190888,
+        "Shortname": "corn",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -778875547,
+        "Shortname": "clone.corn",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 998894949,
+        "Shortname": "seed.corn",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -886280491,
+        "Shortname": "clone.hemp",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -237809779,
+        "Shortname": "seed.hemp",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2086926071,
+        "Shortname": "potato",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1512054436,
+        "Shortname": "clone.potato",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2084071424,
+        "Shortname": "seed.potato",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -567909622,
+        "Shortname": "pumpkin",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1898094925,
+        "Shortname": "clone.pumpkin",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1511285251,
+        "Shortname": "seed.pumpkin",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2123125470,
+        "Shortname": "healingtea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -929092070,
+        "Shortname": "healingtea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1677315902,
+        "Shortname": "healingtea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 603811464,
+        "Shortname": "maxhealthtea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1184406448,
+        "Shortname": "maxhealthtea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1712261904,
+        "Shortname": "maxhealthtea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2063916636,
+        "Shortname": "oretea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1480022580,
+        "Shortname": "oretea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1729374708,
+        "Shortname": "oretea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2021351233,
+        "Shortname": "radiationremovetea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -496584751,
+        "Shortname": "radiationremovetea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1905387657,
+        "Shortname": "radiationremovetea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1729415579,
+        "Shortname": "radiationresisttea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -487356515,
+        "Shortname": "radiationresisttea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -33009419,
+        "Shortname": "radiationresisttea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 524678627,
+        "Shortname": "scraptea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 263834859,
+        "Shortname": "scraptea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2024467711,
+        "Shortname": "scraptea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -541206665,
+        "Shortname": "woodtea.advanced",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -649128577,
+        "Shortname": "woodtea",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -557539629,
+        "Shortname": "woodtea.pure",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      }
+    ],
+    "Ammunition": [
+      {
+        "ItemId": 1055319033,
+        "Shortname": "ammo.grenadelauncher.buckshot",
+        "HasDurability": false,
+        "VanillaStackSize": 24,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 349762871,
+        "Shortname": "ammo.grenadelauncher.he",
+        "HasDurability": false,
+        "VanillaStackSize": 12,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 915408809,
+        "Shortname": "ammo.grenadelauncher.smoke",
+        "HasDurability": false,
+        "VanillaStackSize": 12,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1023065463,
+        "Shortname": "arrow.hv",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1234735557,
+        "Shortname": "arrow.wooden",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 215754713,
+        "Shortname": "arrow.bone",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 14241751,
+        "Shortname": "arrow.fire",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 588596902,
+        "Shortname": "ammo.handmade.shell",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2097376851,
+        "Shortname": "ammo.nailgun.nails",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 785728077,
+        "Shortname": "ammo.pistol",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 51984655,
+        "Shortname": "ammo.pistol.fire",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1691396643,
+        "Shortname": "ammo.pistol.hv",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1211166256,
+        "Shortname": "ammo.rifle",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1321651331,
+        "Shortname": "ammo.rifle.explosive",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 605467368,
+        "Shortname": "ammo.rifle.incendiary",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1712070256,
+        "Shortname": "ammo.rifle.hv",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -742865266,
+        "Shortname": "ammo.rocket.basic",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1638322904,
+        "Shortname": "ammo.rocket.fire",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1841918730,
+        "Shortname": "ammo.rocket.hv",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -17123659,
+        "Shortname": "ammo.rocket.smoke",
+        "HasDurability": false,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1685290200,
+        "Shortname": "ammo.shotgun",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1036635990,
+        "Shortname": "ammo.shotgun.fire",
+        "HasDurability": false,
+        "VanillaStackSize": 64,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -727717969,
+        "Shortname": "ammo.shotgun.slug",
+        "HasDurability": false,
+        "VanillaStackSize": 32,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 550753330,
+        "Shortname": "ammo.snowballgun",
+        "HasDurability": false,
+        "VanillaStackSize": 128,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -384243979,
+        "Shortname": "ammo.rocket.sam",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      }
+    ],
+    "Traps": [
+      {
+        "ItemId": -582782051,
+        "Shortname": "trap.bear",
+        "HasDurability": true,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -92759291,
+        "Shortname": "spikes.floor",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1663759755,
+        "Shortname": "trap.landmine",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 352499047,
+        "Shortname": "guntrap",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 528668503,
+        "Shortname": "flameturret",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1009359066,
+        "Shortname": "samsite",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Misc": [
+      {
+        "ItemId": -1973785141,
+        "Shortname": "fogmachine",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2104517339,
+        "Shortname": "strobelight",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1426574435,
+        "Shortname": "minihelicopter.repair",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1884328185,
+        "Shortname": "scraptransportheli.repair",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -810326667,
+        "Shortname": "workcart",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1759188988,
+        "Shortname": "habrepair",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 946662961,
+        "Shortname": "car.key",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1112793865,
+        "Shortname": "door.key",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -996920608,
+        "Shortname": "blueprintbase",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1856217390,
+        "Shortname": "easterbasket",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -173268129,
+        "Shortname": "rustige_egg_a",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -173268132,
+        "Shortname": "rustige_egg_b",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -173268131,
+        "Shortname": "rustige_egg_c",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -173268126,
+        "Shortname": "rustige_egg_d",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -173268125,
+        "Shortname": "rustige_egg_e",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 844440409,
+        "Shortname": "easter.bronzeegg",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1002156085,
+        "Shortname": "easter.goldegg",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -126305173,
+        "Shortname": "easter.paintedeggs",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1757265204,
+        "Shortname": "easter.silveregg",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -888153050,
+        "Shortname": "halloween.candy",
+        "HasDurability": false,
+        "VanillaStackSize": 1000,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -489848205,
+        "Shortname": "largecandles",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2058362263,
+        "Shortname": "smallcandles",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 573676040,
+        "Shortname": "coffin.storage",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1242522330,
+        "Shortname": "cursedcauldron",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 809199956,
+        "Shortname": "gravestone",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 699075597,
+        "Shortname": "woodcross",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1679267738,
+        "Shortname": "wall.graveyard.fence",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 479292118,
+        "Shortname": "halloween.lootbag.large",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1899610628,
+        "Shortname": "halloween.lootbag.medium",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1319617282,
+        "Shortname": "halloween.lootbag.small",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1346158228,
+        "Shortname": "pumpkinbasket",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 882559853,
+        "Shortname": "spiderweb",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1885488976,
+        "Shortname": "spookyspeaker",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1414245162,
+        "Shortname": "note",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 62577426,
+        "Shortname": "photo",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -695124222,
+        "Shortname": "giantcandycanedecor",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 282103175,
+        "Shortname": "giantlollipops",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1622660759,
+        "Shortname": "xmas.present.large",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 756517185,
+        "Shortname": "xmas.present.medium",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -722241321,
+        "Shortname": "xmas.present.small",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1358643074,
+        "Shortname": "snowmachine",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1667224349,
+        "Shortname": "xmas.decoration.baubels",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -209869746,
+        "Shortname": "xmas.decoration.candycanes",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1686524871,
+        "Shortname": "xmas.decoration.gingerbreadmen",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1723747470,
+        "Shortname": "xmas.decoration.lights",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -129230242,
+        "Shortname": "xmas.decoration.pinecone",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1331212963,
+        "Shortname": "xmas.decoration.star",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2106561762,
+        "Shortname": "xmas.decoration.tinsel",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -484206264,
+        "Shortname": "keycard_blue",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 37122747,
+        "Shortname": "keycard_green",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1880870149,
+        "Shortname": "keycard_red",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1368584029,
+        "Shortname": "sickle",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "All": [],
+    "Common": [],
+    "Component": [
+      {
+        "ItemId": 1553078977,
+        "Shortname": "bleach",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1401987718,
+        "Shortname": "ducttape",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 656371028,
+        "Shortname": "carburetor1",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 656371027,
+        "Shortname": "carburetor2",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 656371026,
+        "Shortname": "carburetor3",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1158340334,
+        "Shortname": "crankshaft1",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1158340331,
+        "Shortname": "crankshaft2",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1158340332,
+        "Shortname": "crankshaft3",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1883981798,
+        "Shortname": "piston1",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1883981801,
+        "Shortname": "piston2",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1883981800,
+        "Shortname": "piston3",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -89874794,
+        "Shortname": "sparkplug1",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -493159321,
+        "Shortname": "sparkplug2",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1072924620,
+        "Shortname": "sparkplug3",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1330084809,
+        "Shortname": "valve1",
+        "HasDurability": true,
+        "VanillaStackSize": 15,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 926800282,
+        "Shortname": "valve2",
+        "HasDurability": true,
+        "VanillaStackSize": 15,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1802083073,
+        "Shortname": "valve3",
+        "HasDurability": true,
+        "VanillaStackSize": 15,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -629028935,
+        "Shortname": "fuse",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 479143914,
+        "Shortname": "gears",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1899491405,
+        "Shortname": "glue",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1882709339,
+        "Shortname": "metalblade",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 95950017,
+        "Shortname": "metalpipe",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1673693549,
+        "Shortname": "propanetank",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1199391518,
+        "Shortname": "roadsigns",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1414245522,
+        "Shortname": "rope",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1234880403,
+        "Shortname": "sewingkit",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1994909036,
+        "Shortname": "sheetmetal",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1021495308,
+        "Shortname": "metalspring",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 642482233,
+        "Shortname": "sticks",
+        "HasDurability": false,
+        "VanillaStackSize": 100,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2019042823,
+        "Shortname": "tarp",
+        "HasDurability": false,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 73681876,
+        "Shortname": "techparts",
+        "HasDurability": false,
+        "VanillaStackSize": 50,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 176787552,
+        "Shortname": "riflebody",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 573926264,
+        "Shortname": "semibody",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1230323789,
+        "Shortname": "smgbody",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -44066600,
+        "Shortname": "vehicle.chassis.2mod",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -44066823,
+        "Shortname": "vehicle.chassis.3mod",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -44066790,
+        "Shortname": "vehicle.chassis.4mod",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1770744540,
+        "Shortname": "vehicle.chassis",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1501451746,
+        "Shortname": "vehicle.1mod.cockpit",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1874610722,
+        "Shortname": "vehicle.1mod.cockpit.armored",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 170758448,
+        "Shortname": "vehicle.1mod.cockpit.with.engine",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1559779253,
+        "Shortname": "vehicle.1mod.engine",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1880231361,
+        "Shortname": "vehicle.1mod.flatbed",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1615281216,
+        "Shortname": "vehicle.1mod.passengers.armored",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1376065505,
+        "Shortname": "vehicle.1mod.rear.seats",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 268565518,
+        "Shortname": "vehicle.1mod.storage",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -626174997,
+        "Shortname": "vehicle.1mod.taxi",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1693832478,
+        "Shortname": "vehicle.2mod.flatbed",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1186655046,
+        "Shortname": "vehicle.2mod.fuel.tank",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 895374329,
+        "Shortname": "vehicle.2mod.passengers",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 878301596,
+        "Shortname": "vehicle.module",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Search": [],
+    "Favourite": [],
+    "Electrical": [
+      {
+        "ItemId": 1142993169,
+        "Shortname": "ceilinglight",
+        "HasDurability": false,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1588628467,
+        "Shortname": "computerstation",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1177596584,
+        "Shortname": "elevator",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1696050067,
+        "Shortname": "modularcarlift",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2100007442,
+        "Shortname": "electric.audioalarm",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -695978112,
+        "Shortname": "smart.alarm",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 988652725,
+        "Shortname": "smart.switch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1149964039,
+        "Shortname": "storage.monitor",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 553270375,
+        "Shortname": "electric.battery.rechargable.large",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2023888403,
+        "Shortname": "electric.battery.rechargable.medium",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -692338819,
+        "Shortname": "electric.battery.rechargable.small",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1778897469,
+        "Shortname": "electric.button",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -216999575,
+        "Shortname": "electric.counter",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1507239837,
+        "Shortname": "electric.hbhfsensor",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -798293154,
+        "Shortname": "electric.laserdetector",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2049214035,
+        "Shortname": "electric.pressurepad",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -502177121,
+        "Shortname": "electric.doorcontroller",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -784870360,
+        "Shortname": "electric.heater",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -265292885,
+        "Shortname": "fluid.combiner",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1166712463,
+        "Shortname": "fluid.splitter",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 443432036,
+        "Shortname": "fluid.switch",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1171735914,
+        "Shortname": "electric.andswitch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -690968985,
+        "Shortname": "electric.blocker",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1448252298,
+        "Shortname": "electrical.branch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -458565393,
+        "Shortname": "electrical.combiner",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -746647361,
+        "Shortname": "electrical.memorycell",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1286302544,
+        "Shortname": "electric.orswitch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 492357192,
+        "Shortname": "electric.random.switch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1044468317,
+        "Shortname": "electric.rf.broadcaster",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 888415708,
+        "Shortname": "electric.rf.receiver",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1293102274,
+        "Shortname": "electric.xorswitch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1849887541,
+        "Shortname": "electric.fuelgenerator.small",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -295829489,
+        "Shortname": "electric.generator.small",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2090395347,
+        "Shortname": "electric.solarpanel.large",
+        "HasDurability": true,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -44876289,
+        "Shortname": "electric.igniter",
+        "HasDurability": true,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -939424778,
+        "Shortname": "electric.flasherlight",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -282113991,
+        "Shortname": "electric.simplelight",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 762289806,
+        "Shortname": "electric.sirenlight",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -365097295,
+        "Shortname": "powered.water.purifier",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1951603367,
+        "Shortname": "electric.switch",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -563624462,
+        "Shortname": "electric.splitter",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -781014061,
+        "Shortname": "electric.sprinkler",
+        "HasDurability": true,
+        "VanillaStackSize": 10,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1371909803,
+        "Shortname": "electric.teslacoil",
+        "HasDurability": true,
+        "VanillaStackSize": 3,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 665332906,
+        "Shortname": "electric.timer",
+        "HasDurability": true,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1835946060,
+        "Shortname": "electric.cabletunnel",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1284169891,
+        "Shortname": "waterpump",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1736356576,
+        "Shortname": "target.reactive",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2087678962,
+        "Shortname": "searchlight",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1819763926,
+        "Shortname": "generator.wind.scrap",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1305578813,
+        "Shortname": "sign.neon.125x125",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 42535890,
+        "Shortname": "sign.neon.125x215.animated",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1423304443,
+        "Shortname": "sign.neon.125x215",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1643667218,
+        "Shortname": "sign.neon.xl.animated",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 866332017,
+        "Shortname": "sign.neon.xl",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -151387974,
+        "Shortname": "xmas.lightstring.advanced",
+        "HasDurability": true,
+        "VanillaStackSize": 150,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2139580305,
+        "Shortname": "autoturret",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 363163265,
+        "Shortname": "hosetool",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -566907190,
+        "Shortname": "rf_pager",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -144417939,
+        "Shortname": "wiretool",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ],
+    "Fun": [
+      {
+        "ItemId": 1744298439,
+        "Shortname": "firework.boomer.blue",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1324203999,
+        "Shortname": "firework.boomer.champagne",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -656349006,
+        "Shortname": "firework.boomer.green",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -7270019,
+        "Shortname": "firework.boomer.orange",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1553999294,
+        "Shortname": "firework.boomer.red",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -280223496,
+        "Shortname": "firework.boomer.violet",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -515830359,
+        "Shortname": "firework.romancandle.blue",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1306288356,
+        "Shortname": "firework.romancandle.green",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1486461488,
+        "Shortname": "firework.romancandle.red",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -99886070,
+        "Shortname": "firework.romancandle.violet",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 261913429,
+        "Shortname": "firework.volcano",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -454370658,
+        "Shortname": "firework.volcano.red",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1538109120,
+        "Shortname": "firework.volcano.violet",
+        "HasDurability": true,
+        "VanillaStackSize": 20,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2107018088,
+        "Shortname": "fun.bass",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1049881973,
+        "Shortname": "fun.cowbell",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1330640246,
+        "Shortname": "drumkit",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2040817543,
+        "Shortname": "fun.flute",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -2124352573,
+        "Shortname": "fun.guitar",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -979951147,
+        "Shortname": "fun.jerrycanguitar",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1272430949,
+        "Shortname": "piano",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1379036069,
+        "Shortname": "fun.tambourine",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 273172220,
+        "Shortname": "fun.trumpet",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1784406797,
+        "Shortname": "fun.tuba",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -211235948,
+        "Shortname": "xylophone",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -961457160,
+        "Shortname": "newyeargong",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1961560162,
+        "Shortname": "lunar.firecrackers",
+        "HasDurability": false,
+        "VanillaStackSize": 5,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -25740268,
+        "Shortname": "skullspikes.candles",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1078639462,
+        "Shortname": "skullspikes.pumpkin",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1073015016,
+        "Shortname": "skullspikes",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 971362526,
+        "Shortname": "skull.trophy.jar",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -924959988,
+        "Shortname": "skull.trophy.jar2",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -156748077,
+        "Shortname": "skull.trophy.table",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -769647921,
+        "Shortname": "skull.trophy",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1840570710,
+        "Shortname": "abovegroundpool",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -321431890,
+        "Shortname": "beachchair",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1621539785,
+        "Shortname": "beachparasol",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 657352755,
+        "Shortname": "beachtable",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -8312704,
+        "Shortname": "beachtowel",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -1478094705,
+        "Shortname": "boogieboard",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -697981032,
+        "Shortname": "innertube",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 185586769,
+        "Shortname": "innertube.horse",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 2052270186,
+        "Shortname": "innertube.unicorn",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -733625651,
+        "Shortname": "paddlingpool",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -135252633,
+        "Shortname": "sled.xmas",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": -333406828,
+        "Shortname": "sled",
+        "HasDurability": true,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 204970153,
+        "Shortname": "wrappedgift",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1094293920,
+        "Shortname": "wrappingpaper",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      },
+      {
+        "ItemId": 1234878710,
+        "Shortname": "telephone",
+        "HasDurability": false,
+        "VanillaStackSize": 1,
+        "CustomStackSize": 0
+      }
+    ]
+  },
+  "VersionNumber": {
+    "Major": 3,
+    "Minor": 2,
+    "Patch": 2
+  }
+}

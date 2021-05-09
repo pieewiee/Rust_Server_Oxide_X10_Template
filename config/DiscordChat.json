@@ -1,0 +1,31 @@
+{
+  "Chat Channel name or id": "chat-x10-nobps",
+  "Team Channel name or id": "Team",
+  "Join / Leave Channel name or id": "chat-x10-nobps",
+  "Server Time Offset (Hours)": 0.0,
+  "Add discord tag to chat": true,
+  "Use bot to display message": true,
+  "Send messages from server to discord": true,
+  "Send messages from discord to server": true,
+  "Discord tag text": "Discord",
+  "Discord tag color": "5f79d6",
+  "Ignore messages from users in this list (Discord ID)": [],
+  "Text Filter": {
+    "@everyone": "everyone",
+    "@here": "here"
+  },
+  "Ignored Commands": [
+    "!rust"
+  ],
+  "Plugin Support": {
+    "AdminChat Settings": {
+      "Exclude from chat channel": true,
+      "Admin chat channel": "chat-x10-nobps-admin",
+      "Admin Chat Prefix": "@",
+      "Enable AdminChat Plugin Support": false
+    },
+    "ChatTranslator Settings": {
+      "Discord Server Chat Language": "en"
+    }
+  }
+}

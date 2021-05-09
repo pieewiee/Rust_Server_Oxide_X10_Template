@@ -1,0 +1,50 @@
+{
+  "Config": {
+    "Plugin - Enabled": true,
+    "Buildings Radius Check": 25,
+    "Discord - Enabled": true,
+    "Discord - Webhook URL": "https://discord.com/api/webhooks/827988037592940584/FMWcFrY3tXpaHh_2x9vw3UqYAtYf7qQJZn-RlJJhBLZV5h3k8aG2e8t26uBme0ud2qdi",
+    "Discord - Embed - Color(HEX)": "#2F3136",
+    "Discord - Roles To Mention": [],
+    "Log - Console": true,
+    "Log - File": true,
+    "Log - Game Chat (Only Admins)": true,
+    "Ignore Warnings - Admins": false,
+    "Ignore Warnings - Team Members": true,
+    "Stash - Auto Generate Count": 150,
+    "Stash - Destroyer Cooldown In Minutes": 10,
+    "Stash - Generator Cooldown In Minutes": 10,
+    "Stash - Loot Table": [
+      {
+        "ItemName": "techparts",
+        "MinAmount": 7,
+        "MaxAmount": 13
+      },
+      {
+        "ItemName": "gears",
+        "MinAmount": 6,
+        "MaxAmount": 17
+      },
+      {
+        "ItemName": "rope",
+        "MinAmount": 25,
+        "MaxAmount": 50
+      },
+      {
+        "ItemName": "explosive.timed",
+        "MinAmount": 1,
+        "MaxAmount": 3
+      },
+      {
+        "ItemName": "autoturret",
+        "MinAmount": 1,
+        "MaxAmount": 1
+      },
+      {
+        "ItemName": "ammo.rifle.explosive",
+        "MinAmount": 64,
+        "MaxAmount": 128
+      }
+    ]
+  }
+}

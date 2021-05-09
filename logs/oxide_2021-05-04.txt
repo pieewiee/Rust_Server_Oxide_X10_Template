@@ -1,0 +1,8 @@
+06:48 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.3' took 224ms
+10:25 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.3' took 123ms
+16:07 [Info] [Welcomer] Player papai2121 has joined the server from Brazil
+16:16 [Info] [Welcomer] Player papai2121 has left the server. Reason Disconnected
+19:30 [Info] [Welcomer] Player leone963 has joined the server from Italy
+19:33 [Info] [Welcomer] Player leone963 has left the server. Reason Disconnected
+21:53 [Info] [Welcomer] Player Hawkeye has joined the server from Germany
+22:20 [Info] [Welcomer] Player Hawkeye has left the server. Reason Disconnected

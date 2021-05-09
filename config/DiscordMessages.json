@@ -1,0 +1,37 @@
+{
+  "GeneralSettings": {
+    "Announce": true
+  },
+  "BanSettings": {
+    "Color": "3329330",
+    "Enabled": true,
+    "WebhookUrl": "https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+  },
+  "ReportSettings": {
+    "LogToConsole": true,
+    "Alert": "",
+    "Cooldown": 30,
+    "Color": "3329330",
+    "Enabled": true,
+    "WebhookUrl": "https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+  },
+  "MessageSettings": {
+    "LogToConsole": true,
+    "SuggestAlias": false,
+    "Alert": "",
+    "Cooldown": 30,
+    "Color": "3329330",
+    "Enabled": true,
+    "WebhookUrl": "https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+  },
+  "ChatSettings": {
+    "TextToSpeech": false,
+    "Enabled": true,
+    "WebhookUrl": "https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+  },
+  "MuteSettings": {
+    "Color": "3329330",
+    "Enabled": true,
+    "WebhookUrl": "https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+  }
+}

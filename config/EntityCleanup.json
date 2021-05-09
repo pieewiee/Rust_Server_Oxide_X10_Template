@@ -1,0 +1,7 @@
+{
+  "Scheduled cleanup seconds (x <= 0 to disable)": 3600,
+  "Scheduled cleanup building blocks": true,
+  "Scheduled cleanup deployables": true,
+  "Scheduled cleanup outside cupboard range": true,
+  "Scheduled cleanup entities with hp less than specified (x = [0.0-1.0])": 0.0
+}
